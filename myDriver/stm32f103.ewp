@@ -348,6 +348,7 @@
                 <option>
                     <name>CCIncludePath2</name>
                     <state>$PROJ_DIR$\mydriver\Inc</state>
+                    <state>$PROJ_DIR$\mydriver\Inc</state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
@@ -756,7 +757,7 @@
                 </option>
                 <option>
                     <name>IlinkIcfFile</name>
-                    <state></state>
+                    <state>$TOOLKIT_DIR$/config/linker/ST/stm32f103x8.icf</state>
                 </option>
                 <option>
                     <name>IlinkIcfFileSlave</name>
@@ -816,7 +817,7 @@
                 </option>
                 <option>
                     <name>IlinkProgramEntryLabel</name>
-                    <state></state>
+                    <state>__iar_program_start</state>
                 </option>
                 <option>
                     <name>DoFill</name>
@@ -989,7 +990,7 @@
                 </option>
                 <option>
                     <name>IlinkTrustzoneImportLibraryOut</name>
-                    <state>###Unitialized###</state>
+                    <state>stm32f103_import_lib.o</state>
                 </option>
                 <option>
                     <name>OILinkExtraOption</name>

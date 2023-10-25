@@ -1,0 +1,37 @@
+# ninja log v5
+78	108	7199214005838818	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/shuffle/randomcodes/driverdev/Debug/BrowseInfo/dd.pbd	2c08cb109279053d
+22	211	7199181330000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/shuffle/randomcodes/driverdev/Debug/BrowseInfo/driver/Src/stm32f103c8xx.h_gpio_driver.xcl	43bc93daab5a0b44
+1	89	7199191307694804	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/shuffle/randomcodes/driverdev/Debug/BrowseInfo/driver/Src/stm32f103c8xx.h_gpio_driver.pbi	ec4c2957bff42792
+70	237	7199181330000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/shuffle/randomcodes/driverdev/Debug/BrowseInfo/main.xcl	c467bf505406d373
+110	537	7199214009883466	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/shuffle/randomcodes/driverdev/Debug/BrowseInfo/dd.pbw	91e7778c77af2c49
+1	77	7199214005538980	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/shuffle/randomcodes/driverdev/Debug/BrowseInfo/main.pbi	7a30e5dff30a0d42
+11	209	7199227990000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/driver/Src/stm32f103c8xx.h_gpio_driver.xcl	717e073cd3970d2c
+52	237	7199227990000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/main.xcl	7cee36bcd83fdf4
+210	297	7199227993867864	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/driver/Src/stm32f103c8xx.h_gpio_driver.pbi	5c10c4f5d73146ad
+1	36	7199294471313935	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/main.pbi	3cab3eafa081b6dc
+37	49	7199294471463932	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbd	dfbbbf1de9d8bd75
+50	239	7199294473212625	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbw	6d215bce45906600
+0	31	7199295730982247	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/driver/Src/stm32f103c8xx.h_gpio_driver.pbi	5c10c4f5d73146ad
+32	44	7199295731132242	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbd	dfbbbf1de9d8bd75
+45	224	7199295732782259	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbw	6d215bce45906600
+4	34	7199295884221050	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/driver/Src/stm32f103c8xx.h_gpio_driver.pbi	5c10c4f5d73146ad
+1	35	7199295884221050	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/main.pbi	3cab3eafa081b6dc
+36	47	7199295884371049	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbd	dfbbbf1de9d8bd75
+48	226	7199295886009710	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbw	6d215bce45906600
+1	31	7199297194174423	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/driver/Src/stm32f103c8xx.h_gpio_driver.pbi	5c10c4f5d73146ad
+32	44	7199297194324438	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbd	dfbbbf1de9d8bd75
+45	224	7199297195974440	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbw	6d215bce45906600
+4	33	7199297297025566	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/main.pbi	3cab3eafa081b6dc
+1	33	7199297297025566	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/driver/Src/stm32f103c8xx.h_gpio_driver.pbi	5c10c4f5d73146ad
+34	46	7199297297175566	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbd	dfbbbf1de9d8bd75
+46	225	7199297298825144	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbw	6d215bce45906600
+0	30	7199297450269854	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/main.pbi	3cab3eafa081b6dc
+30	42	7199297450419771	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbd	dfbbbf1de9d8bd75
+42	226	7199297452119783	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbw	6d215bce45906600
+0	32	7199297603463154	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/main.pbi	3cab3eafa081b6dc
+4	32	7199297603463154	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/driver/Src/stm32f103c8xx.h_gpio_driver.pbi	5c10c4f5d73146ad
+33	45	7199297603613140	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbd	dfbbbf1de9d8bd75
+45	220	7199297605268542	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbw	6d215bce45906600
+0	141	7199297707393127	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/main.pbi	3cab3eafa081b6dc
+142	153	7199297707493048	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbd	dfbbbf1de9d8bd75
+154	330	7199297709143047	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/BrowseInfo/dd.pbw	6d215bce45906600

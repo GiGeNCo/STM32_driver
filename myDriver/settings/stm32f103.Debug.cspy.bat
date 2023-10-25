@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\myDriver\settings\stm32f103.Debug.general.xcl" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\myDriver\settings\stm32f103.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\myDriver\settings\stm32f103.Debug.general.xcl" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\myDriver\settings\stm32f103.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\myDriver\settings\stm32f103.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\myDriver\settings\stm32f103.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\myDriver\settings\stm32f103.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\myDriver\settings\stm32f103.Debug.driver.xcl" 
 
 @echo off 
 :end

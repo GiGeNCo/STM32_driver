@@ -19,6 +19,9 @@
 #define AHBPERIPH_BASEADDR      0x40018000U
 
 #define RCC_BASEADDR            0x40021000UL
+
+#define EXTI_BASEADDR           (APB2PERIPH_BASEADDR+0x0400)
+
 //#define AHB2PERIPH_BASE     
 
 //peripherials which are hanging on apb2
@@ -30,12 +33,9 @@
 #define GPIOF_BASEADDR          (APB2PERIPH_BASEADDR+0x1C00)
 #define GPIOG_BASEADDR          (APB2PERIPH_BASEADDR+0x2000)
 
-
 #define SPI1_BASE               (APB2PERIPH_BASEADDR+0x3000)
 
 #define USART1                  (APB2PERIPH_BASEADDR+0x3800)
-
-#define EXTI_BASEADDR           (APB2PERIPH_BASEADDR+0x0400)
 
 //Peripherials which are hanging on APB1
 #define I2C1_BASE               (APB1PERIPH_BASEADDR+0x5400)
@@ -49,6 +49,7 @@
 
 #define UART4                   (APB1PERIPH_BASEADDR+0x4C00)
 #define UART5                   (APB1PERIPH_BASEADDR+0x5000)
+
 
 
 
@@ -86,6 +87,19 @@ typedef struct
 }RCC_RegDef_t;
 
 
+/*
+ *  exti pheripherial register defination structure
+ */
+
+typedef struct
+{
+    __vo uint32_t IMR;                   //...definations ...
+    __vo uint32_t EMR;
+    __vo uint32_t RTSR;
+    __vo uint32_t FTSR;
+    __vo uint32_t PR;
+
+}EXTI_RegDef_t;
 
 
 #define GPIOA                   ((GPIO_RegDef_t*)GPIOA_BASEADDR)
@@ -96,7 +110,10 @@ typedef struct
 #define GPIOF                   ((GPIO_RegDef_t*)GPIOF_BASEADDR)
 #define GPIOG                   ((GPIO_RegDef_t*)GPIOG_BASEADDR)
 
-#define RCC                     ((RCC_RegDef_t*)RCC_BASEADDR)
+#define RCC                     ((EXTI_RegDef_t*)RCC_BASEADDR)
+
+
+#define EXTI                    ((EXTI_RegDef_t *)EXTI_BASE_ADDR)
 
 //clock enable macros for GPIOx periph
 

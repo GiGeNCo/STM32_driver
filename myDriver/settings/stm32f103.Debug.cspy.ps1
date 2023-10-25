@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\myDriver\settings\stm32f103.Debug.general.xcl" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\myDriver\settings\stm32f103.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\myDriver\settings\stm32f103.Debug.general.xcl" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\myDriver\settings\stm32f103.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\myDriver\settings\stm32f103.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\myDriver\settings\stm32f103.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\myDriver\settings\stm32f103.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\myDriver\settings\stm32f103.Debug.driver.xcl" 
 }

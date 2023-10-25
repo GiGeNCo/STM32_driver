@@ -71,7 +71,7 @@ void GPIO_PeriClockControll(GPIO_RegDef_t *pGPIOx, uint8_t EnOrDi){
 //init de init  ########################################
 void GPIO_Init(GPIO_Handle_t *pGPIOHandle){
 
-    uint32_t temp = 0, temp1 = 0, temp2=0;
+    uint32_t temp1 = 0, temp2=0;
     //uint8_t pinNumber = 0;
     
     // configure the mode of GPIO pin
@@ -85,6 +85,23 @@ void GPIO_Init(GPIO_Handle_t *pGPIOHandle){
     
     pGPIOHandle->pGPIOx->CR[temp1] |= (pGPIOHandle->GPIO_PinConfig.GPIO_PinConf <<(2+(4*temp2)));
     
+    if(pGPIOHandle->GPIO_PinConfig.GPIO_PinMode == GPIO_MODE_IT_FT)
+    {
+        //1. configure the ftsr
+        EXTI->FTSR |= (1 << GPIO_PinConfig.GPIO_PinNumber);
+        
+    }else if (pGPIOHandle->GPIO_PinConfig.GPIO_PinMode == GPIO_MODE_IT_RT)
+    {
+        //1. configure the rtsr
+    
+    }else if(pGPIOHandle->GPIO_PinConfig.GPIO_PinMode == GPIO_MODE_IT_RFT)
+    {
+        //1. configure both ftsr and rtsr
+    }
+    
+    //2. configure the GPIO PORT selection in sysreg_exciter
+    
+    //3. enable the exti delivery using imr
     
     //  configure the speed
     

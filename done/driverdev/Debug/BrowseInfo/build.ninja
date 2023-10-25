@@ -1,0 +1,51 @@
+##IAR Ninja build file
+
+
+#Rules
+rule COMPILER_XCL
+  command = "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\XclFileGenerator.exe" $xclcommand -f "$rspfile_name"
+  description = IAR_NEW_TOOL+++COMPILER_XCL+++$in
+  rspfile = $rspfile_name
+  rspfile_content = $flags
+
+rule INDEXER
+  command = "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\SourceIndexer.exe" $flags
+  depfile = $out.dep
+  description = IAR_NEW_TOOL+++INDEXER+++$out
+
+rule MAKEBROWSE
+  command = "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\makeBrowseData.exe" $flags
+  description = IAR_NEW_TOOL+++MAKEBROWSE+++$out
+
+rule PDBLINK
+  command = "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\PbdLink.exe" $flags
+  description = IAR_NEW_TOOL+++PDBLINK+++$out
+
+
+
+#Build steps
+build C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\mydriver\Src\stm32f103c8xx.h_gpio_driver.c" -xcl_file "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.xcl" -macro_file "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\mydriver\Src\stm32f103c8xx.h_gpio_driver.c" -o "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\Obj\driver\Src" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M3 -e --fpu=None --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\mydriver\Inc\\" -Ol --predef_macros "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.tmp"
+  rspfile_name = C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.xcl.rsp
+
+build C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\main.c" -xcl_file "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.xcl" -macro_file "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\main.c" -o "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M3 -e --fpu=None --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\mydriver\Inc\\" -Ol --predef_macros "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.tmp"
+  rspfile_name = C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.xcl.rsp
+
+build C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.pbi : INDEXER C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.xcl |  $
+C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\mydriver\Src\stm32f103c8xx.h_gpio_driver.c
+  flags = "-out=C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.pbi" -f "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.xcl"
+
+build C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.pbi : INDEXER C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.xcl |  $
+C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\main.c
+  flags = "-out=C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.pbi" -f "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.xcl"
+
+build C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\dd.pbw : MAKEBROWSE C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\dd.pbd
+  flags = "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\dd.pbd" -output "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\dd.pbw"
+
+build C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\dd.pbd : PDBLINK C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.pbi |  $
+C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.pbi
+  flags = -M "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\dd.pbd" "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\driver\Src\stm32f103c8xx.h_gpio_driver.pbi" "C$:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded$ C$ Arm\Embedded$ Coding\STM32_driver\done\driverdev\Debug\BrowseInfo\main.pbi"
+

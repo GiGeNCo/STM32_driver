@@ -49,7 +49,7 @@ typedef struct
 
 
 //also possible modes with interrupt
-#define     GPIO_MODE_IT_FR                 4   //falling edge
+#define     GPIO_MODE_IT_FT                 4   //falling edge
 #define     GPIO_MODE_IT_RT                 5   //rising edge
 #define     GPIO_MODE_IT_RFT                6   //rising edge falling edge
 
