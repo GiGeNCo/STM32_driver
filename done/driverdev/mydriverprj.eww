@@ -3,5 +3,8 @@
     <project>
         <path>$WS_DIR$\dd.ewp</path>
     </project>
+    <project>
+        <path>$WS_DIR$\..\inputmode\input.ewp</path>
+    </project>
     <batchBuild />
 </workspace>

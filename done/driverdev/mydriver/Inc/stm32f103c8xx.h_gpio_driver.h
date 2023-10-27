@@ -11,6 +11,7 @@ typedef struct
     uint8_t GPIO_PinMode;
     uint8_t GPIO_PinConf;
     uint8_t GPIO_PinOPType;
+    uint8_t GPIO_PinINType;
     uint8_t GPIO_PinAltFunc;
 
 

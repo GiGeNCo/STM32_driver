@@ -11,25 +11,36 @@ void delay()
 }
 int main()
 {
-    
-    //uint32_t *pRccApb2Enr = (uint32_t)RCC_APB2_ENR_ADDR;
-    //uint32_t *pGpioPortCnfr = (uint32_t)GPIO_PORT_CNFR_ADDR;
-    //GPIO_Handle_t *pGpioHandle;
-    //*pRccApb2Enr |= (1<<4);
+
     GPIO_Handle_t GpioLed;
     GpioLed.pGPIOx = GPIOC;
     GpioLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_13;
-    GpioLed.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT_50mhz;  //1 in reference manual is output mode
+    GpioLed.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT_10mhz;  //1 in reference manual is output mode
     GpioLed.GPIO_PinConfig.GPIO_PinOPType = GPIO_OUTCONF_PP; //2 in reference manual is push pull mode
     
     
+    //GPIO_Handle_t GpioButton;
+    //GpioButton.pGPIOx = GPIOB;
+    //GpioButton.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_1;
+    //GpioButton.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_IN;
+    //GpioButton.GPIO_PinConfig.GPIO_PinINType = GPIO_INMODE_PUPD;
+    
+    
+    
+    
     GPIO_PeriClockControll(GPIOC,ENABLE); //enable is macro and value is 1
+    //GPIO_PeriClockControll(GPIOB,ENABLE); //enable is macro and value is 1
+    //GPIO_Init(&GpioButton);
     GPIO_Init(&GpioLed);
     
     while(1)
     {
-        GPIO_TogglePin(GPIOC,13);
-        delay();
+        if(GPIO_ReadFromInputPin(GPIOB,GPIO_PIN_1) == 0)
+        {
+           
+          GPIO_TogglePin(GPIOC,13);
+          delay();
+        }
         
     }
     

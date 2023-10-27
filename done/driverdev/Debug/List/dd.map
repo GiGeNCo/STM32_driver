@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# IAR ELF Linker V9.32.1.338/W64 for ARM                  25/Oct/2023  13:36:06
+# IAR ELF Linker V9.32.1.338/W64 for ARM                  26/Oct/2023  13:06:37
 # Copyright 2007-2022 IAR Systems AB.
 #
 #    Output file  =
@@ -71,17 +71,17 @@ No sections matched the following patterns:
   .intvec   ro code   0x800'0000   0x40  vector_table_M.o [4]
                     - 0x800'0040   0x40
 
-"P1":                             0x238
-  .text     ro code   0x800'0040  0x17e  stm32f103c8xx.h_gpio_driver.o [2]
-  .text     ro code   0x800'01be    0x2  vectortrap_M.o [4]
-  .text     ro code   0x800'01c0   0x54  main.o [1]
-  .text     ro code   0x800'0214   0x1e  cmain.o [4]
-  .text     ro code   0x800'0232    0x4  low_level_init.o [3]
-  .text     ro code   0x800'0236    0x4  exit.o [3]
-  .text     ro code   0x800'023c    0xa  cexit.o [4]
-  .text     ro code   0x800'0248   0x14  exit.o [5]
-  .text     ro code   0x800'025c   0x1c  cstartup_M.o [4]
-                    - 0x800'0278  0x238
+"P1":                             0x254
+  .text     ro code   0x800'0040  0x18a  stm32f103c8xx.h_gpio_driver.o [2]
+  .text     ro code   0x800'01ca    0x2  vectortrap_M.o [4]
+  .text     ro code   0x800'01cc   0x64  main.o [1]
+  .text     ro code   0x800'0230   0x1e  cmain.o [4]
+  .text     ro code   0x800'024e    0x4  low_level_init.o [3]
+  .text     ro code   0x800'0252    0x4  exit.o [3]
+  .text     ro code   0x800'0258    0xa  cexit.o [4]
+  .text     ro code   0x800'0264   0x14  exit.o [5]
+  .text     ro code   0x800'0278   0x1c  cstartup_M.o [4]
+                    - 0x800'0294  0x254
 
 "P2":                             0x800
   CSTACK             0x2000'0000  0x800  <Block>
@@ -92,7 +92,7 @@ Unused ranges:
 
          From           To    Size
          ----           --    ----
-   0x800'0278   0x800'ffff  0xfd88
+   0x800'0294   0x800'ffff  0xfd6c
   0x2000'0800  0x2000'4fff  0x4800
 
 
@@ -108,14 +108,14 @@ command line/config:
     Total:
 
 C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\driverdev\Debug\Obj: [1]
-    main.o                              84
+    main.o                             100
     -----------------------------------------------
-    Total:                              84
+    Total:                             100
 
 C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\driverdev\Debug\Obj\driver\Src: [2]
-    stm32f103c8xx.h_gpio_driver.o      382
+    stm32f103c8xx.h_gpio_driver.o      394
     -----------------------------------------------
-    Total:                             382
+    Total:                             394
 
 dl7M_tln.a: [3]
     exit.o                               4
@@ -140,7 +140,7 @@ shb_l.a: [5]
     Gaps                                 4
     Linker created                            2'048
 ---------------------------------------------------
-    Grand Total:                       632    2'048
+    Grand Total:                       660    2'048
 
 
 *******************************************************************************
@@ -149,33 +149,34 @@ shb_l.a: [5]
 
 Entry                       Address  Size  Type      Object
 -----                       -------  ----  ----      ------
-?main                    0x800'0215        Code  Gb  cmain.o [4]
-BusFault_Handler         0x800'01bf        Code  Wk  vectortrap_M.o [4]
+?main                    0x800'0231        Code  Gb  cmain.o [4]
+BusFault_Handler         0x800'01cb        Code  Wk  vectortrap_M.o [4]
 CSTACK$$Base            0x2000'0000         --   Gb  - Linker created -
 CSTACK$$Limit           0x2000'0800         --   Gb  - Linker created -
-DebugMon_Handler         0x800'01bf        Code  Wk  vectortrap_M.o [4]
+DebugMon_Handler         0x800'01cb        Code  Wk  vectortrap_M.o [4]
 GPIO_Init                0x800'00c5  0xc4  Code  Gb  stm32f103c8xx.h_gpio_driver.o [2]
 GPIO_PeriClockControll   0x800'0041  0x84  Code  Gb  stm32f103c8xx.h_gpio_driver.o [2]
-GPIO_TogglePin           0x800'01b1   0xe  Code  Gb  stm32f103c8xx.h_gpio_driver.o [2]
-HardFault_Handler        0x800'01bf        Code  Wk  vectortrap_M.o [4]
-MemManage_Handler        0x800'01bf        Code  Wk  vectortrap_M.o [4]
-NMI_Handler              0x800'01bf        Code  Wk  vectortrap_M.o [4]
-PendSV_Handler           0x800'01bf        Code  Wk  vectortrap_M.o [4]
+GPIO_ReadFromInputPin    0x800'01b1   0xc  Code  Gb  stm32f103c8xx.h_gpio_driver.o [2]
+GPIO_TogglePin           0x800'01bd   0xe  Code  Gb  stm32f103c8xx.h_gpio_driver.o [2]
+HardFault_Handler        0x800'01cb        Code  Wk  vectortrap_M.o [4]
+MemManage_Handler        0x800'01cb        Code  Wk  vectortrap_M.o [4]
+NMI_Handler              0x800'01cb        Code  Wk  vectortrap_M.o [4]
+PendSV_Handler           0x800'01cb        Code  Wk  vectortrap_M.o [4]
 Region$$Table$$Base             0x0         --   Gb  - Linker created -
 Region$$Table$$Limit            0x0         --   Gb  - Linker created -
-SVC_Handler              0x800'01bf        Code  Wk  vectortrap_M.o [4]
-SysTick_Handler          0x800'01bf        Code  Wk  vectortrap_M.o [4]
-UsageFault_Handler       0x800'01bf        Code  Wk  vectortrap_M.o [4]
-__cmain                  0x800'0215        Code  Gb  cmain.o [4]
-__exit                   0x800'0249  0x14  Code  Gb  exit.o [5]
-__iar_program_start      0x800'025d        Code  Gb  cstartup_M.o [4]
-__low_level_init         0x800'0233   0x4  Code  Gb  low_level_init.o [3]
+SVC_Handler              0x800'01cb        Code  Wk  vectortrap_M.o [4]
+SysTick_Handler          0x800'01cb        Code  Wk  vectortrap_M.o [4]
+UsageFault_Handler       0x800'01cb        Code  Wk  vectortrap_M.o [4]
+__cmain                  0x800'0231        Code  Gb  cmain.o [4]
+__exit                   0x800'0265  0x14  Code  Gb  exit.o [5]
+__iar_program_start      0x800'0279        Code  Gb  cstartup_M.o [4]
+__low_level_init         0x800'024f   0x4  Code  Gb  low_level_init.o [3]
 __vector_table           0x800'0000        Data  Gb  vector_table_M.o [4]
-_call_main               0x800'0221        Code  Gb  cmain.o [4]
-_exit                    0x800'023d        Code  Gb  cexit.o [4]
-delay                    0x800'01c1  0x18  Code  Gb  main.o [1]
-exit                     0x800'0237   0x4  Code  Gb  exit.o [3]
-main                     0x800'01d9  0x34  Code  Gb  main.o [1]
+_call_main               0x800'023d        Code  Gb  cmain.o [4]
+_exit                    0x800'0259        Code  Gb  cexit.o [4]
+delay                    0x800'01cd  0x18  Code  Gb  main.o [1]
+exit                     0x800'0253   0x4  Code  Gb  exit.o [3]
+main                     0x800'01e5  0x40  Code  Gb  main.o [1]
 
 
 [1] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\driverdev\Debug\Obj
@@ -184,7 +185,7 @@ main                     0x800'01d9  0x34  Code  Gb  main.o [1]
 [4] = rt7M_tl.a
 [5] = shb_l.a
 
-    632 bytes of readonly  code memory
+    660 bytes of readonly  code memory
   2'048 bytes of readwrite data memory
 
 Errors: none

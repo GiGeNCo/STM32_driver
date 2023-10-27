@@ -81,8 +81,6 @@ void GPIO_Init(GPIO_Handle_t *pGPIOHandle){
     
     pGPIOHandle->pGPIOx->CR[temp1] |= (pGPIOHandle->GPIO_PinConfig.GPIO_PinMode <<(4*temp2));
     
-    
-    
     pGPIOHandle->pGPIOx->CR[temp1] |= (pGPIOHandle->GPIO_PinConfig.GPIO_PinConf <<(2+(4*temp2)));
     
     if(pGPIOHandle->GPIO_PinConfig.GPIO_PinMode == GPIO_MODE_IT_FT)
@@ -106,10 +104,19 @@ void GPIO_Init(GPIO_Handle_t *pGPIOHandle){
         
         EXTI->FTSR |= (1 << pGPIOHandle->GPIO_PinConfig.GPIO_PinNumber);
     }
+    /*
     
     //2. configure the GPIO PORT selection in sysreg_exciter
+    uint8_t tmp1,tmp2,portcode;
+    tmp1 = pGPIOHandle->GPIO_PinConfig.GPIO_PinNumber / 4;
+    tmp2 = pGPIOHandle->GPIO_PinConfig.GPIO_PinNumber % 4;
+    portcode = GPIO_BASEADDR_TO_CODE(pGPIOHandle->pGPIOx);
+    AIFO->EXTR[tmp1]=portcode<<(tmp2*4);
     
     //3. enable the exti delivery using imr
+    EXTI->IMR |= 1 << pGPIOHandle->GPIO_PinConfig.GPIO_PinNumber;
+
+    */
     
     
     //  configure the speed
@@ -176,8 +183,10 @@ void GPIO_DeInit(GPIO_RegDef_t *pGPIOx){
   *
 ********************************************************/
 uint8_t GPIO_ReadFromInputPin(GPIO_RegDef_t *pGPIOx, uint8_t PinNumber){
+    uint8_t value;
+    value = (uint8_t)((pGPIOx->IDR >> PinNumber) & 0x00000001);
 
-  return 0;
+  return value;
 }
 /********************************************************
 
@@ -194,9 +203,9 @@ uint8_t GPIO_ReadFromInputPin(GPIO_RegDef_t *pGPIOx, uint8_t PinNumber){
   * @note
 ********************************************************/
 uint16_t GPIO_ReadFromInputPort(GPIO_RegDef_t *pGPIOx){
-
-
-  return 0;
+    uint16_t value;
+    value = (uint16_t)pGPIOx->IDR ;
+  return value;
 }
 /********************************************************
 
@@ -239,8 +248,9 @@ void GPIO_WriteToOutputPin(GPIO_RegDef_t *pGPIOx, uint8_t PinNumber, uint8_t Val
   *
   * @note
 ********************************************************/
-void GPIO_WriteToOutputPort(GPIO_RegDef_t *pGPIOx, uint16_t Value){
+void GPIO_WriteToOutputPort(GPIO_RegDef_t *pGPIOx, uint16_t value){
 
+    pGPIOx->ODR = value;
 
 
 }
