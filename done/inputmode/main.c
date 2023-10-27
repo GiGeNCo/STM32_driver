@@ -21,9 +21,9 @@ int main()
     GPIO_Handle_t gpioButton;
     
     gpioButton.pGPIOx = GPIOB;
-    gpioButton.GPIO_PinConfig.GPIO_PinNumber = 11;
+    gpioButton.GPIO_PinConfig.GPIO_PinNumber = 1;
     gpioButton.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_IN;      //11
-    gpioButton.GPIO_PinConfig.GPIO_PinConf = 2;  //0
+    gpioButton.GPIO_PinConfig.GPIO_PinConf = GPIO_INMODE_PUPD;  //0
     
     GPIO_PeriClockControll(GPIOB,ENABLE);
     GPIO_Init(&gpioButton);
@@ -32,11 +32,24 @@ int main()
     while(1)
     {
         
-        if(GPIO_ReadFromInputPin(GPIOB,GPIO_PIN_11) == 1)
+        
+if(GPIO_ReadFromInputPin(GPIOB,GPIO_PIN_1) == 1)
         {
-          //delay(200000);
+          delay(200000);
           GPIO_TogglePin(GPIOC,GPIO_PIN_13);
+
         }
+
+ /*       
+        if(GPIO_ReadFromInputPin(GPIOB,GPIO_PIN_1) == 1)
+        {
+            GPIO_WriteToOutputPin(GPIOC,GPIO_PIN_13,SET);
+        }
+        else
+        {
+            GPIO_WriteToOutputPin(GPIOC,GPIO_PIN_13,RESET);
+        }
+*/
     }
     
 }

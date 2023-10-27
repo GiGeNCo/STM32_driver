@@ -91,7 +91,7 @@ void GPIO_Init(GPIO_Handle_t *pGPIOHandle){
     
     
     // Clear the bits for the specific pin in the control register
-    pGPIOHandle->pGPIOx->CR[temp1] &= ~(0x3 << temp2);
+    //pGPIOHandle->pGPIOx->CR[temp1] &= ~(0x3 << temp2);
     
     
     pGPIOHandle->pGPIOx->CR[temp1] |= (pGPIOHandle->GPIO_PinConfig.GPIO_PinConf << (2 + temp2));
