@@ -24,7 +24,7 @@
         <EnableCache>0</EnableCache>
     </ArmDriver>
     <DebugChecksum>
-        <Checksum>3767907222</Checksum>
+        <Checksum>290721656</Checksum>
     </DebugChecksum>
     <StLinkDriver>
         <stlinkserialNo>402403012612344D314B4E00</stlinkserialNo>
@@ -78,6 +78,11 @@
         <FreqHi>0</FreqHi>
         <MultiCoreRunAll>1</MultiCoreRunAll>
     </Simulator>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
+        <Category2>_ 2</Category2>
+    </LogFile>
     <Trace2>
         <Enabled>0</Enabled>
         <ShowSource>0</ShowSource>
@@ -134,11 +139,6 @@
         <Symbiont>0</Symbiont>
         <Exclusions />
     </DriverProfiling>
-    <LogFile>
-        <LoggingEnabled>_ 0</LoggingEnabled>
-        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
-        <Category2>_ 2</Category2>
-    </LogFile>
     <DisassembleMode>
         <mode>0</mode>
     </DisassembleMode>

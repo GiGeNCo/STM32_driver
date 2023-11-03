@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "2",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\temporary\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  }
+]

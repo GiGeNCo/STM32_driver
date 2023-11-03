@@ -6,5 +6,8 @@
     <project>
         <path>$WS_DIR$\..\inputmode\input.ewp</path>
     </project>
+    <project>
+        <path>$WS_DIR$\..\..\some code files\interrupt\interrupt.ewp</path>
+    </project>
     <batchBuild />
 </workspace>

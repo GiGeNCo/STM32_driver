@@ -21,7 +21,7 @@ int main()
     GPIO_Handle_t gpioButton;
     
     gpioButton.pGPIOx = GPIOB;
-    gpioButton.GPIO_PinConfig.GPIO_PinNumber = 1;
+    gpioButton.GPIO_PinConfig.GPIO_PinNumber = 12;
     gpioButton.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_IN;      //11
     gpioButton.GPIO_PinConfig.GPIO_PinConf = GPIO_INMODE_PUPD;  //0
     
@@ -33,7 +33,7 @@ int main()
     {
         
         
-if(GPIO_ReadFromInputPin(GPIOB,GPIO_PIN_1) == 1)
+if(GPIO_ReadFromInputPin(GPIOB,GPIO_PIN_12) == 1)
         {
           delay(200000);
           GPIO_TogglePin(GPIOC,GPIO_PIN_13);
