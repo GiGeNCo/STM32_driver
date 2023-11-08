@@ -38,7 +38,7 @@ void SPI_PeriClockControl(SPI_RegDef_t *pSPIx, uint8_t  EnOrDi);
  */
 
 void SPI_Init(SPI_Handle_t *pSPIHandle);
-void SPI_DeInit(SPI_Handle_t *pSPIx);
+void SPI_DeInit(SPI_RegDef_t *pSPIx);
 
 
 /*
@@ -57,6 +57,46 @@ void SPI_IRQInterruptConf(uint8_t IRQNumber, uint8_t EnOrDi);
 void SPI_IRQHandling(SPI_Handle_t *pHandle);
 void SPI_IRQPriorityConfig(uint8_t IRQNumber,uint8_t IRQPriority);
 
+
+//device mode macros, receive or transmit
+
+#define SPI_MODE_MASTER                 1
+#define SPI_MODE_SLAVE                  0
+
+// bus config, full duplex, half duplex, simplex tx only, simplex rx only
+
+#define SPI_BUS_FD                      1
+#define SPI_BUS_HD                      2
+#define SPI_BUS_SIMPLEX_TX              3
+#define SPI_BUS_SIMPLEX_RX              4
+
+//clock speed, SPI BR (baud rate) register 
+
+#define SPI_SCLK_SPEED_DIV2             0
+#define SPI_SCLK_SPEED_DIV4             1
+#define SPI_SCLK_SPEED_DIV8             2
+#define SPI_SCLK_SPEED_DIV16            2
+#define SPI_SCLK_SPEED_DIV32            4
+#define SPI_SCLK_SPEED_DIV64            5
+#define SPI_SCLK_SPEED_DIV128           6
+#define SPI_SCLK_SPEED_DIV256           7
+
+// dff data frame fragments
+
+#define SPI_DFF_8                       0
+#define SPI_DFF_16                      1
+
+//CPOL
+#define SPI_CPOL_HIGH                   1
+#define SPI_CPOL_LOW                    0
+
+//CPHA
+#define SPI_CPHA_HIGH                   1
+#define SPI_CPHA_LOW                    0
+
+//SPI ssm Software or hardware slave management
+#define SPI_SSM_SW                      0
+#define SPI_SSM_HW                      1
 
 
 #endif

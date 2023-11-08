@@ -60,6 +60,53 @@ void SPI_PeriClockControl(SPI_RegDef_t *pSPIx, uint8_t  EnOrDi)
 
 void SPI_Init(SPI_Handle_t *pSPIHandle)
 {
+    //configure SPI cr1 register
+    uint32_t tempreg= 0;
+    
+    //configure device mode
+    tempreg |= pSPIHandle->SPIConf.SPI_DevMode << 2;
+    
+    //configure bus config
+    if(pSPIHandle->SPIConf.SPI_BusConf == SPI_BUS_FD)
+    {
+        //BIDIMODE should be cleared
+        tempreg &= ~(1 << 15);
+    }
+    else if(pSPIHandle->SPIConf.SPI_BusConf == SPI_BUS_FD)
+    {
+        //BIDIMODE should be set
+        tempreg |= (1 << 15);
+    }
+    else if(pSPIHandle->SPIConf.SPI_BusConf == SPI_BUS_SIMPLEX_RX)
+    {
+        //BIDI MODE should be cleared
+        tempreg &= ~(1 << 15);
+        //RXONLY mode should be set
+        tempreg |= (1 << 10);
+    }
+    else if(pSPIHandle->SPIConf.SPI_BusConf == SPI_BUS_SIMPLEX_TX)
+    {
+        //BIDI MODE should be cleared
+        //tempreg &= ~(1 << 15);
+        //TXONLY mode should be set
+        //tempreg |= (1 << 15);
+    }
+    
+    //configure the SPI Serial clock speed (baud rate)
+    tempreg |= pSPIHandle->SPIConf.SPI_SclkSpeed << 3;
+    
+    //configure the DFF
+    tempreg |= pSPIHandle->SPIConf.SPI_DFF << 11;
+    
+    //configure the cpol
+    tempreg |= pSPIHandle->SPIConf.SPI_CPOL << 1;
+    
+    //configure the chpa
+    tempreg |= pSPIHandle->SPIConf.SPI_CHPA << 0;
+    
+    
+    //write tempreg to SPICR1 Register
+    pSPIHandle->pSPIx->CR1 = tempreg;
 
 
 
@@ -82,10 +129,21 @@ void SPI_Init(SPI_Handle_t *pSPIHandle)
   * @note               - none
 ********************************************************/
 
-void SPI_DeInit(SPI_Handle_t *pSPIx)
+void SPI_DeInit(SPI_RegDef_t *pSPIx)
 {
 
-
+    if(pSPIx == SPI1)
+      {
+          SPI1_PCLK_EN();
+      }
+      else if (pSPIx == SPI2)
+      {
+          SPI2_PCLK_EN();
+      }
+      else if (pSPIx == SPI3)
+      {
+          SPI3_PCLK_EN();
+      }
 
 
 }
