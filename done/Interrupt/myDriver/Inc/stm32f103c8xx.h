@@ -188,7 +188,16 @@ typedef struct
 
 //clock disable macros for gpio
 
-#define PA_PCLK_DI()    (RCC->APB2ENR &= ~(1 << 2))
+#define PA_PCLK_DI()    		(RCC->APB2ENR &= ~(1 << 2))
+
+//reset gpiox pheriperal
+#define PA_REG_RESET()			do{ (RCC->APB2RSTR |= (1 << 2));	(RCC->APB2RSTR &= ~(1 << 2)); } while(0)
+#define PA_REG_RESET()			do{ (RCC->APB2RSTR |= (1 << 3));	(RCC->APB2RSTR &= ~(1 << 3)); } while(0)
+#define PA_REG_RESET()			do{ (RCC->APB2RSTR |= (1 << 4));	(RCC->APB2RSTR &= ~(1 << 4)); } while(0)
+#define PA_REG_RESET()			do{ (RCC->APB2RSTR |= (1 << 5));	(RCC->APB2RSTR &= ~(1 << 5)); } while(0)
+#define PA_REG_RESET()			do{ (RCC->APB2RSTR |= (1 << 6));	(RCC->APB2RSTR &= ~(1 << 6)); } while(0)
+#define PA_REG_RESET()			do{ (RCC->APB2RSTR |= (1 << 7));	(RCC->APB2RSTR &= ~(1 << 7)); } while(0)
+#define PA_REG_RESET()			do{ (RCC->APB2RSTR |= (1 << 8));	(RCC->APB2RSTR &= ~(1 << 8)); } while(0)
 
 
 #define GPIO_BASEADDR_TO_CODE(x)    (   (x == GPIOA)?0:\
