@@ -164,7 +164,37 @@ void GPIO_Init(GPIO_Handle_t *pGPIOHandle){
   *
   * @note
 ********************************************************/
+
 void GPIO_DeInit(GPIO_RegDef_t *pGPIOx){
+
+      if(pGPIOx == GPIOA)
+      {
+          PA_REG_RESET();
+      }
+      else if (pGPIOx == GPIOB)
+      {
+          PB_REG_RESET();
+      }
+      else if (pGPIOx == GPIOC)
+      {
+          PC_REG_RESET();
+      }
+      else if (pGPIOx == GPIOD)
+      {
+          PD_REG_RESET();
+      }
+      else if (pGPIOx == GPIOE)
+      {
+          PE_REG_RESET();
+      }
+      else if (pGPIOx == GPIOF)
+      {
+          PF_REG_RESET();
+      }
+      else if (pGPIOx == GPIOG)
+      {
+          PG_REG_RESET();
+      }
 
 
 

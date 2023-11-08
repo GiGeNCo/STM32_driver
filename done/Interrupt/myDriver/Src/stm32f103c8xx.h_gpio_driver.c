@@ -194,7 +194,7 @@ if(EnOrDi == ENABLE)
       }
       else if (pGPIOx == GPIOG)
       {
-          PG_PREG_RESET();
+          PG_REG_RESET();
       }
 
 }

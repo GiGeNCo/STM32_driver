@@ -2858,9 +2858,6 @@
             <file>
                 <name>$PROJ_DIR$\myDriver\Inc\stm32f103c8xx.h_gpio_driver.h</name>
             </file>
-            <file>
-                <name>$PROJ_DIR$\myDriver\Inc\system_stm32f1xx.h</name>
-            </file>
         </group>
         <group>
             <name>Src</name>
