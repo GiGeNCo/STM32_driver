@@ -1,0 +1,16 @@
+# ninja log v5
+0	170	7211316028419670	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/myDriver/Src/stm32f103c8_SPI.o	8798cfa369d2b3f4
+8	186	7211316028584944	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/main.o	e16870ca0efd9717
+4	243	7211316029139842	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/myDriver/Src/stm32f103c8xx.h_gpio_driver.o	92f7cff2657aad19
+245	369	7211316030459154	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Exe/STMF103_SPI.out	ff3f736e6f7c46da
+11	162	7211391799077369	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/main.o	e16870ca0efd9717
+14	188	7211391799327366	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/myDriver/Src/stm32f103c8xx.h_gpio_driver.o	92f7cff2657aad19
+1	102	7211395815595511	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/myDriver/Src/stm32f103c8_SPI.o	8798cfa369d2b3f4
+104	139	7211395815995603	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Exe/STMF103_SPI.out	ff3f736e6f7c46da
+5	147	7211400538115545	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/myDriver/Src/stm32f103c8xx.h_gpio_driver.o	92f7cff2657aad19
+1	47	7211402026380896	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/myDriver/Src/stm32f103c8_SPI.o	8798cfa369d2b3f4
+5	76	7211402026680942	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/myDriver/Src/stm32f103c8xx.h_gpio_driver.o	92f7cff2657aad19
+77	103	7211402026980855	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Exe/STMF103_SPI.out	ff3f736e6f7c46da
+1	48	7211402737723276	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/myDriver/Src/stm32f103c8_SPI.o	8798cfa369d2b3f4
+6	77	7211402738023375	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Obj/myDriver/Src/stm32f103c8xx.h_gpio_driver.o	92f7cff2657aad19
+78	103	7211402738323286	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/Exe/STMF103_SPI.out	ff3f736e6f7c46da
