@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\SPI_test\spi_test.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\STMF103_SPI.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

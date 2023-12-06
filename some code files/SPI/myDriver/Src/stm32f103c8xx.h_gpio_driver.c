@@ -71,6 +71,8 @@ void GPIO_PeriClockControll(GPIO_RegDef_t *pGPIOx, uint8_t EnOrDi){
 //init de init  ########################################
 void GPIO_Init(GPIO_Handle_t *pGPIOHandle){
     
+    //enable clock
+    GPIO_PeriClockControll(pGPIOHandle->pGPIOx,ENABLE);
     
     uint32_t temp1 = 0, temp2=0;
     //uint8_t pinNumber = 0;
@@ -280,6 +282,34 @@ void GPIO_WriteToOutputPin(GPIO_RegDef_t *pGPIOx, uint8_t PinNumber, uint8_t Val
     else
     {
         pGPIOx->ODR &= ~(1<<PinNumber);
+    }
+
+
+}
+
+/********************************************************
+
+* @fn
+  *
+  * @brief
+  *
+  * @param [in]
+  * @param [in]
+  * @param [in]
+  *
+  * @return 
+  *
+  * @note
+********************************************************/
+void GPIO_WriteToOutputPinBSSR(GPIO_RegDef_t *pGPIOx, uint8_t PinNumber, uint8_t Value){
+
+    if(Value == GPIO_PIN_SET)
+    {
+        pGPIOx->BSRR |= (1 << (16+PinNumber));
+    }
+    else
+    {
+        pGPIOx->BSRR &= ~(1<<PinNumber);
     }
 
 

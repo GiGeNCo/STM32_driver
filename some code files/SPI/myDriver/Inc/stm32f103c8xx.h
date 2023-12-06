@@ -249,15 +249,17 @@ typedef struct
 
 // Some Generic macros
 
-#define ENABLE                        1
-#define DISABLE                       0
-#define SET                          ENABLE
-#define RESET                        DISABLE
-#define GPIO_PIN_SET                 ENABLE
-#define GPIO_PIN_RESET               DISABLE
+#define ENABLE                          1
+#define DISABLE                         0
+#define SET                             ENABLE
+#define RESET                           DISABLE
+#define GPIO_PIN_SET                    ENABLE
+#define GPIO_PIN_RESET                  DISABLE
+#define FLAG_RESET                      RESET
+#define FLAG_SET                        SET
 
 
-//Bite defination macros for SPI1 register
+//Bite defination macros for SPI1 Control register 1
 #define SPI_CR1_CHPA                    0
 #define SPI_CR1_CPOL                    1
 #define SPI_CR1_MSTR                    2
@@ -273,7 +275,7 @@ typedef struct
 #define SPI_CR1_BIDIOE                  14
 #define SPI_CR1_BIDIMODE                15
 
-//Bite defination macros for SPI2 register
+//Bite defination macros for SPI Control register 2
 #define SPI_CR2_RXDMAEN                 0
 #define SPI_CR2_TXDMAEN                 1
 #define SPI_CR2_SSOE                    2
@@ -281,7 +283,7 @@ typedef struct
 #define SPI_CR2_RXNEIE                  6
 #define SPI_CR2_TXNEIE                  7
 
-//Bite defination macros for SPI2 register
+//Bite defination macros for Status register
 #define SPI_SR_RXNE                     0
 #define SPI_SR_TXE                      1
 #define SPI_SR_CHSIDE                   2
