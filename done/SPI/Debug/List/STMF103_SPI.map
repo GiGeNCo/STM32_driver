@@ -1,0 +1,219 @@
+###############################################################################
+#
+# IAR ELF Linker V9.32.1.338/W64 for ARM                  01/Dec/2023  16:18:37
+# Copyright 2007-2022 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\SPI\Debug\Exe\STMF103_SPI.out
+#    Map file     =
+#        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\SPI\Debug\List\STMF103_SPI.map
+#    Command line =
+#        -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\SPI\Debug\Exe\STMF103_SPI.out.rsp"
+#        ("C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj\main.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\SPI\Debug\Obj\myDriver\Src\stm32f103c8_SPI.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\SPI\Debug\Obj\myDriver\Src\stm32f103c8xx.h_gpio_driver.o"
+#        --no_out_extension -o
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\SPI\Debug\Exe\STMF103_SPI.out" --redirect
+#        _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb --map
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\SPI\Debug\List\STMF103_SPI.map" --config "C:\Program Files\IAR
+#        Systems\Embedded Workbench 9.1\arm/config/linker/ST/stm32f103x8.icf"
+#        --semihosting --entry __iar_program_start --vfe --text_out locale
+#        --cpu=Cortex-M3 --fpu=None)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because --advanced_heap
+was not specified and the application did not appear to
+be primarily optimized for speed.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x800'0000 { ro section .intvec };
+"P1":  place in [from 0x800'0000 to 0x800'ffff] { ro };
+define block CSTACK with size = 2K, alignment = 8 { };
+define block HEAP with size = 2K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'4fff] {
+          rw, block CSTACK, block HEAP };
+
+No sections matched the following patterns:
+
+  rw  in "P2"
+
+
+  Section   Kind         Address   Size  Object
+  -------   ----         -------   ----  ------
+"A0":                              0x40
+  .intvec   ro code   0x800'0000   0x40  vector_table_M.o [4]
+                    - 0x800'0040   0x40
+
+"P1":                             0x590
+  .text     ro code   0x800'0040  0x278  stm32f103c8xx.h_gpio_driver.o [2]
+  .text     ro code   0x800'02b8  0x136  stm32f103c8_SPI.o [2]
+  .text     ro code   0x800'03ee    0x2  vectortrap_M.o [4]
+  .text     ro code   0x800'03f0   0xdc  main.o [1]
+  .text     ro code   0x800'04cc   0x56  ABImemcpy_unaligned.o [4]
+  .text     ro code   0x800'0524   0x36  strlen.o [4]
+  .text     ro code   0x800'055c   0x1e  cmain.o [4]
+  .text     ro code   0x800'057a    0x4  low_level_init.o [3]
+  .text     ro code   0x800'057e    0x4  exit.o [3]
+  .text     ro code   0x800'0584    0xa  cexit.o [4]
+  .text     ro code   0x800'0590   0x14  exit.o [5]
+  .text     ro code   0x800'05a4   0x1c  cstartup_M.o [4]
+  .rodata   const     0x800'05c0   0x10  main.o [1]
+                    - 0x800'05d0  0x590
+
+"P2":                             0x800
+  CSTACK             0x2000'0000  0x800  <Block>
+    CSTACK  uninit   0x2000'0000  0x800  <Block tail>
+                   - 0x2000'0800  0x800
+
+Unused ranges:
+
+         From           To    Size
+         ----           --    ----
+   0x800'05d0   0x800'ffff  0xfa30
+  0x2000'0800  0x2000'4fff  0x4800
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                         ro code  ro data  rw data
+    ------                         -------  -------  -------
+command line/config:
+    --------------------------------------------------------
+    Total:
+
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj: [1]
+    main.o                             220       16
+    --------------------------------------------------------
+    Total:                             220       16
+
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj\myDriver\Src: [2]
+    stm32f103c8_SPI.o                  310
+    stm32f103c8xx.h_gpio_driver.o      632
+    --------------------------------------------------------
+    Total:                             942
+
+dl7M_tln.a: [3]
+    exit.o                               4
+    low_level_init.o                     4
+    --------------------------------------------------------
+    Total:                               8
+
+rt7M_tl.a: [4]
+    ABImemcpy_unaligned.o               86
+    cexit.o                             10
+    cmain.o                             30
+    cstartup_M.o                        28
+    strlen.o                            54
+    vector_table_M.o                    64
+    vectortrap_M.o                       2
+    --------------------------------------------------------
+    Total:                             274
+
+shb_l.a: [5]
+    exit.o                              20
+    --------------------------------------------------------
+    Total:                              20
+
+    Gaps                                 8
+    Linker created                                     2'048
+------------------------------------------------------------
+    Grand Total:                     1'472       16    2'048
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address   Size  Type      Object
+-----                       -------   ----  ----      ------
+?main                    0x800'055d         Code  Gb  cmain.o [4]
+BusFault_Handler         0x800'03ef         Code  Wk  vectortrap_M.o [4]
+CSTACK$$Base            0x2000'0000          --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'0800          --   Gb  - Linker created -
+DebugMon_Handler         0x800'03ef         Code  Wk  vectortrap_M.o [4]
+GPIO_Init                0x800'00e1  0x180  Code  Gb  stm32f103c8xx.h_gpio_driver.o [2]
+GPIO_PeriClockControll   0x800'0041   0xa0  Code  Gb  stm32f103c8xx.h_gpio_driver.o [2]
+GPIO_WriteToOutputPinBSSR
+                         0x800'0261   0x26  Code  Gb  stm32f103c8xx.h_gpio_driver.o [2]
+HardFault_Handler        0x800'03ef         Code  Wk  vectortrap_M.o [4]
+MemManage_Handler        0x800'03ef         Code  Wk  vectortrap_M.o [4]
+NMI_Handler              0x800'03ef         Code  Wk  vectortrap_M.o [4]
+PendSV_Handler           0x800'03ef         Code  Wk  vectortrap_M.o [4]
+Region$$Table$$Base             0x0          --   Gb  - Linker created -
+Region$$Table$$Limit            0x0          --   Gb  - Linker created -
+SPI1_GPIOInits           0x800'03f1   0x46  Code  Gb  main.o [1]
+SPI1_Inits               0x800'0437   0x38  Code  Gb  main.o [1]
+SPI_GetFlagStatus        0x800'0359    0xe  Code  Gb  stm32f103c8_SPI.o [2]
+SPI_Init                 0x800'02f5   0x64  Code  Gb  stm32f103c8_SPI.o [2]
+SPI_PeriClockControl     0x800'02b9   0x3c  Code  Gb  stm32f103c8_SPI.o [2]
+SPI_PeriControl          0x800'03d5   0x1a  Code  Gb  stm32f103c8_SPI.o [2]
+SPI_SendData             0x800'0367   0x54  Code  Gb  stm32f103c8_SPI.o [2]
+SVC_Handler              0x800'03ef         Code  Wk  vectortrap_M.o [4]
+SysTick_Handler          0x800'03ef         Code  Wk  vectortrap_M.o [4]
+UsageFault_Handler       0x800'03ef         Code  Wk  vectortrap_M.o [4]
+__cmain                  0x800'055d         Code  Gb  cmain.o [4]
+__exit                   0x800'0591   0x14  Code  Gb  exit.o [5]
+__iar_program_start      0x800'05a5         Code  Gb  cstartup_M.o [4]
+__iar_unaligned_memcpy4
+                         0x800'04cd         Code  Gb  ABImemcpy_unaligned.o [4]
+__iar_unaligned_memcpy8
+                         0x800'04cd         Code  Gb  ABImemcpy_unaligned.o [4]
+__low_level_init         0x800'057b    0x4  Code  Gb  low_level_init.o [3]
+__vector_table           0x800'0000         Data  Gb  vector_table_M.o [4]
+_call_main               0x800'0569         Code  Gb  cmain.o [4]
+_exit                    0x800'0585         Code  Gb  cexit.o [4]
+delay                    0x800'046f   0x18  Code  Gb  main.o [1]
+exit                     0x800'057f    0x4  Code  Gb  exit.o [3]
+main                     0x800'0487   0x38  Code  Gb  main.o [1]
+strlen                   0x800'0525         Code  Gb  strlen.o [4]
+
+
+[1] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj
+[2] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj\myDriver\Src
+[3] = dl7M_tln.a
+[4] = rt7M_tl.a
+[5] = shb_l.a
+
+  1'472 bytes of readonly  code memory
+     16 bytes of readonly  data memory
+  2'048 bytes of readwrite data memory
+
+Errors: none
+Warnings: none
