@@ -2630,7 +2630,7 @@
     "location": {
       "column": "9",
       "line": "2",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "INC_STM32F103C8XX_H_",
     "origin": "user_include",
@@ -2644,7 +2644,7 @@
     "location": {
       "column": "9",
       "line": "7",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "__vo",
     "origin": "user_include",
@@ -2658,7 +2658,7 @@
     "location": {
       "column": "9",
       "line": "11",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ISER0",
     "origin": "user_include",
@@ -2672,7 +2672,7 @@
     "location": {
       "column": "9",
       "line": "12",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ISER1",
     "origin": "user_include",
@@ -2686,7 +2686,7 @@
     "location": {
       "column": "9",
       "line": "13",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ISER2",
     "origin": "user_include",
@@ -2700,7 +2700,7 @@
     "location": {
       "column": "9",
       "line": "14",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ISER3",
     "origin": "user_include",
@@ -2714,7 +2714,7 @@
     "location": {
       "column": "9",
       "line": "17",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ICER0",
     "origin": "user_include",
@@ -2728,7 +2728,7 @@
     "location": {
       "column": "9",
       "line": "18",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ICER1",
     "origin": "user_include",
@@ -2742,7 +2742,7 @@
     "location": {
       "column": "9",
       "line": "19",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ICER2",
     "origin": "user_include",
@@ -2756,7 +2756,7 @@
     "location": {
       "column": "9",
       "line": "20",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ICER3",
     "origin": "user_include",
@@ -2770,7 +2770,7 @@
     "location": {
       "column": "9",
       "line": "24",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_PR_BASE_ADDR",
     "origin": "user_include",
@@ -2784,7 +2784,7 @@
     "location": {
       "column": "9",
       "line": "27",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NO_PR_BITS_IMPLEMENTED",
     "origin": "user_include",
@@ -2798,7 +2798,7 @@
     "location": {
       "column": "9",
       "line": "33",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "FLASH_BASEADDR",
     "origin": "user_include",
@@ -2812,7 +2812,7 @@
     "location": {
       "column": "9",
       "line": "34",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SRAM_BASEADDR",
     "origin": "user_include",
@@ -2826,7 +2826,7 @@
     "location": {
       "column": "9",
       "line": "35",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "ROM_BASEADDR",
     "origin": "user_include",
@@ -2840,7 +2840,7 @@
     "location": {
       "column": "9",
       "line": "38",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PERIPH_BASEADDR",
     "origin": "user_include",
@@ -2854,7 +2854,7 @@
     "location": {
       "column": "9",
       "line": "39",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "APB1PERIPH_BASEADDR",
     "origin": "user_include",
@@ -2868,7 +2868,7 @@
     "location": {
       "column": "9",
       "line": "40",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "APB2PERIPH_BASEADDR",
     "origin": "user_include",
@@ -2882,7 +2882,7 @@
     "location": {
       "column": "9",
       "line": "41",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "AHBPERIPH_BASEADDR",
     "origin": "user_include",
@@ -2896,7 +2896,7 @@
     "location": {
       "column": "9",
       "line": "43",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "RCC_BASEADDR",
     "origin": "user_include",
@@ -2910,7 +2910,7 @@
     "location": {
       "column": "9",
       "line": "47",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOA_BASEADDR",
     "origin": "user_include",
@@ -2924,7 +2924,7 @@
     "location": {
       "column": "9",
       "line": "48",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOB_BASEADDR",
     "origin": "user_include",
@@ -2938,7 +2938,7 @@
     "location": {
       "column": "9",
       "line": "49",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOC_BASEADDR",
     "origin": "user_include",
@@ -2952,7 +2952,7 @@
     "location": {
       "column": "9",
       "line": "50",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOD_BASEADDR",
     "origin": "user_include",
@@ -2966,7 +2966,7 @@
     "location": {
       "column": "9",
       "line": "51",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOE_BASEADDR",
     "origin": "user_include",
@@ -2980,7 +2980,7 @@
     "location": {
       "column": "9",
       "line": "52",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOF_BASEADDR",
     "origin": "user_include",
@@ -2994,7 +2994,7 @@
     "location": {
       "column": "9",
       "line": "53",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOG_BASEADDR",
     "origin": "user_include",
@@ -3008,7 +3008,7 @@
     "location": {
       "column": "9",
       "line": "57",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "EXTI_BASEADDR",
     "origin": "user_include",
@@ -3022,7 +3022,7 @@
     "location": {
       "column": "9",
       "line": "59",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "AIFO_BASEADDR",
     "origin": "user_include",
@@ -3036,7 +3036,7 @@
     "location": {
       "column": "9",
       "line": "62",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "I2C1_BASEADDR",
     "origin": "user_include",
@@ -3050,7 +3050,7 @@
     "location": {
       "column": "9",
       "line": "63",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "I2C2_BASEARRD",
     "origin": "user_include",
@@ -3064,7 +3064,7 @@
     "location": {
       "column": "9",
       "line": "65",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI1_BASEADDR",
     "origin": "user_include",
@@ -3078,7 +3078,7 @@
     "location": {
       "column": "9",
       "line": "66",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI2_BASEADDR",
     "origin": "user_include",
@@ -3092,7 +3092,7 @@
     "location": {
       "column": "9",
       "line": "67",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI3_BASEADDR",
     "origin": "user_include",
@@ -3106,7 +3106,7 @@
     "location": {
       "column": "9",
       "line": "69",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART1_BASEADDR",
     "origin": "user_include",
@@ -3120,7 +3120,7 @@
     "location": {
       "column": "9",
       "line": "70",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART2_BASEADDR",
     "origin": "user_include",
@@ -3134,7 +3134,7 @@
     "location": {
       "column": "9",
       "line": "71",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART3_BASEADDR",
     "origin": "user_include",
@@ -3148,7 +3148,7 @@
     "location": {
       "column": "9",
       "line": "72",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "UART4_BASEADDR",
     "origin": "user_include",
@@ -3162,7 +3162,7 @@
     "location": {
       "column": "9",
       "line": "73",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "UART5_BASEADDR",
     "origin": "user_include",
@@ -3176,7 +3176,7 @@
     "location": {
       "column": "9",
       "line": "80",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
       {
@@ -3187,7 +3187,7 @@
         "location": {
           "column": "17",
           "line": "82",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CR",
         "origin": "user_include",
@@ -3201,7 +3201,7 @@
         "location": {
           "column": "17",
           "line": "85",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "IDR",
         "origin": "user_include",
@@ -3215,7 +3215,7 @@
         "location": {
           "column": "17",
           "line": "86",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "ODR",
         "origin": "user_include",
@@ -3229,7 +3229,7 @@
         "location": {
           "column": "17",
           "line": "87",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "BSRR",
         "origin": "user_include",
@@ -3243,7 +3243,7 @@
         "location": {
           "column": "17",
           "line": "88",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "BRR",
         "origin": "user_include",
@@ -3257,7 +3257,7 @@
         "location": {
           "column": "17",
           "line": "89",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "LCKR",
         "origin": "user_include",
@@ -3271,7 +3271,7 @@
         "location": {
           "column": "2",
           "line": "90",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "GPIO_RegDef_t",
         "origin": "user_include",
@@ -3290,7 +3290,7 @@
     "location": {
       "column": "9",
       "line": "93",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
       {
@@ -3301,7 +3301,7 @@
         "location": {
           "column": "17",
           "line": "95",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CR",
         "origin": "user_include",
@@ -3315,7 +3315,7 @@
         "location": {
           "column": "17",
           "line": "96",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CFGR",
         "origin": "user_include",
@@ -3329,7 +3329,7 @@
         "location": {
           "column": "17",
           "line": "97",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CIR",
         "origin": "user_include",
@@ -3343,7 +3343,7 @@
         "location": {
           "column": "17",
           "line": "98",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "APB2RSTR",
         "origin": "user_include",
@@ -3357,7 +3357,7 @@
         "location": {
           "column": "17",
           "line": "99",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "APB1RSTR",
         "origin": "user_include",
@@ -3371,7 +3371,7 @@
         "location": {
           "column": "17",
           "line": "100",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "AHBENR",
         "origin": "user_include",
@@ -3385,7 +3385,7 @@
         "location": {
           "column": "17",
           "line": "101",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "APB2ENR",
         "origin": "user_include",
@@ -3399,7 +3399,7 @@
         "location": {
           "column": "17",
           "line": "102",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "APB1ENR",
         "origin": "user_include",
@@ -3413,7 +3413,7 @@
         "location": {
           "column": "17",
           "line": "103",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "BDCR",
         "origin": "user_include",
@@ -3427,7 +3427,7 @@
         "location": {
           "column": "17",
           "line": "104",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CSR",
         "origin": "user_include",
@@ -3441,7 +3441,7 @@
         "location": {
           "column": "17",
           "line": "105",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "AHBSTR",
         "origin": "user_include",
@@ -3455,7 +3455,7 @@
         "location": {
           "column": "17",
           "line": "106",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CFGR2",
         "origin": "user_include",
@@ -3469,7 +3469,7 @@
         "location": {
           "column": "2",
           "line": "109",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "RCC_RegDef_t",
         "origin": "user_include",
@@ -3488,7 +3488,7 @@
     "location": {
       "column": "9",
       "line": "111",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
       {
@@ -3499,7 +3499,7 @@
         "location": {
           "column": "17",
           "line": "113",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "IMR",
         "origin": "user_include",
@@ -3513,7 +3513,7 @@
         "location": {
           "column": "17",
           "line": "114",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "EMR",
         "origin": "user_include",
@@ -3527,7 +3527,7 @@
         "location": {
           "column": "17",
           "line": "115",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "RTSR",
         "origin": "user_include",
@@ -3541,7 +3541,7 @@
         "location": {
           "column": "17",
           "line": "116",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "FTSR",
         "origin": "user_include",
@@ -3555,7 +3555,7 @@
         "location": {
           "column": "17",
           "line": "117",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "SWIER",
         "origin": "user_include",
@@ -3569,7 +3569,7 @@
         "location": {
           "column": "17",
           "line": "118",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "PR",
         "origin": "user_include",
@@ -3583,7 +3583,7 @@
         "location": {
           "column": "2",
           "line": "121",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "EXTI_RegDef_t",
         "origin": "user_include",
@@ -3602,7 +3602,7 @@
     "location": {
       "column": "9",
       "line": "123",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
       {
@@ -3613,7 +3613,7 @@
         "location": {
           "column": "17",
           "line": "125",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "EVCR",
         "origin": "user_include",
@@ -3627,7 +3627,7 @@
         "location": {
           "column": "17",
           "line": "126",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "MAPR",
         "origin": "user_include",
@@ -3641,7 +3641,7 @@
         "location": {
           "column": "17",
           "line": "127",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "EXTR",
         "origin": "user_include",
@@ -3655,7 +3655,7 @@
         "location": {
           "column": "17",
           "line": "128",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "MAPR2",
         "origin": "user_include",
@@ -3669,7 +3669,7 @@
         "location": {
           "column": "2",
           "line": "130",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "AFIO_RegDef_t",
         "origin": "user_include",
@@ -3688,7 +3688,7 @@
     "location": {
       "column": "9",
       "line": "133",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
       {
@@ -3699,7 +3699,7 @@
         "location": {
           "column": "19",
           "line": "135",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CR1",
         "origin": "user_include",
@@ -3713,7 +3713,7 @@
         "location": {
           "column": "19",
           "line": "136",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CR2",
         "origin": "user_include",
@@ -3727,7 +3727,7 @@
         "location": {
           "column": "19",
           "line": "137",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "SR",
         "origin": "user_include",
@@ -3741,7 +3741,7 @@
         "location": {
           "column": "19",
           "line": "138",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "DR",
         "origin": "user_include",
@@ -3755,7 +3755,7 @@
         "location": {
           "column": "19",
           "line": "139",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CRCPR",
         "origin": "user_include",
@@ -3769,7 +3769,7 @@
         "location": {
           "column": "19",
           "line": "140",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "RXCRCR",
         "origin": "user_include",
@@ -3783,7 +3783,7 @@
         "location": {
           "column": "19",
           "line": "141",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "TXCRCR",
         "origin": "user_include",
@@ -3797,7 +3797,7 @@
         "location": {
           "column": "19",
           "line": "142",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "I2SCFGR",
         "origin": "user_include",
@@ -3811,7 +3811,7 @@
         "location": {
           "column": "19",
           "line": "143",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "I2SPR",
         "origin": "user_include",
@@ -3825,7 +3825,7 @@
         "location": {
           "column": "2",
           "line": "145",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "SPI_RegDef_t",
         "origin": "user_include",
@@ -3844,7 +3844,7 @@
     "location": {
       "column": "9",
       "line": "149",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOA",
     "origin": "user_include",
@@ -3858,7 +3858,7 @@
     "location": {
       "column": "9",
       "line": "150",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOB",
     "origin": "user_include",
@@ -3872,7 +3872,7 @@
     "location": {
       "column": "9",
       "line": "151",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOC",
     "origin": "user_include",
@@ -3886,7 +3886,7 @@
     "location": {
       "column": "9",
       "line": "152",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOD",
     "origin": "user_include",
@@ -3900,7 +3900,7 @@
     "location": {
       "column": "9",
       "line": "153",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOE",
     "origin": "user_include",
@@ -3914,7 +3914,7 @@
     "location": {
       "column": "9",
       "line": "154",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOF",
     "origin": "user_include",
@@ -3928,7 +3928,7 @@
     "location": {
       "column": "9",
       "line": "155",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOG",
     "origin": "user_include",
@@ -3942,7 +3942,7 @@
     "location": {
       "column": "9",
       "line": "157",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "RCC",
     "origin": "user_include",
@@ -3956,7 +3956,7 @@
     "location": {
       "column": "9",
       "line": "159",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "EXTI",
     "origin": "user_include",
@@ -3970,7 +3970,7 @@
     "location": {
       "column": "9",
       "line": "161",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "AIFO",
     "origin": "user_include",
@@ -3984,7 +3984,7 @@
     "location": {
       "column": "9",
       "line": "164",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI1",
     "origin": "user_include",
@@ -3998,7 +3998,7 @@
     "location": {
       "column": "9",
       "line": "165",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI2",
     "origin": "user_include",
@@ -4012,7 +4012,7 @@
     "location": {
       "column": "9",
       "line": "166",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI3",
     "origin": "user_include",
@@ -4026,7 +4026,7 @@
     "location": {
       "column": "9",
       "line": "172",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PA_PCLK_EN",
     "origin": "user_include",
@@ -4040,7 +4040,7 @@
     "location": {
       "column": "9",
       "line": "174",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PB_PCLK_EN",
     "origin": "user_include",
@@ -4054,7 +4054,7 @@
     "location": {
       "column": "9",
       "line": "175",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PC_PCLK_EN",
     "origin": "user_include",
@@ -4068,7 +4068,7 @@
     "location": {
       "column": "9",
       "line": "176",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PD_PCLK_EN",
     "origin": "user_include",
@@ -4082,7 +4082,7 @@
     "location": {
       "column": "9",
       "line": "177",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PE_PCLK_EN",
     "origin": "user_include",
@@ -4096,7 +4096,7 @@
     "location": {
       "column": "9",
       "line": "178",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PF_PCLK_EN",
     "origin": "user_include",
@@ -4110,7 +4110,7 @@
     "location": {
       "column": "9",
       "line": "179",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PG_PCLK_EN",
     "origin": "user_include",
@@ -4124,7 +4124,7 @@
     "location": {
       "column": "9",
       "line": "183",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "I2C1_PCLK_EN",
     "origin": "user_include",
@@ -4138,7 +4138,7 @@
     "location": {
       "column": "9",
       "line": "184",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "I2C2_PCLK_EN",
     "origin": "user_include",
@@ -4152,7 +4152,7 @@
     "location": {
       "column": "9",
       "line": "189",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI1_PCLK_EN",
     "origin": "user_include",
@@ -4166,7 +4166,7 @@
     "location": {
       "column": "9",
       "line": "190",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI2_PCLK_EN",
     "origin": "user_include",
@@ -4180,7 +4180,7 @@
     "location": {
       "column": "9",
       "line": "191",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI3_PCLK_EN",
     "origin": "user_include",
@@ -4194,7 +4194,7 @@
     "location": {
       "column": "9",
       "line": "194",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART1_PCLK_EN",
     "origin": "user_include",
@@ -4208,7 +4208,7 @@
     "location": {
       "column": "9",
       "line": "195",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART2_PCLK_EN",
     "origin": "user_include",
@@ -4222,7 +4222,7 @@
     "location": {
       "column": "9",
       "line": "196",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART3_PCLK_EN",
     "origin": "user_include",
@@ -4236,7 +4236,7 @@
     "location": {
       "column": "9",
       "line": "198",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "UART4_PCLK_EN",
     "origin": "user_include",
@@ -4250,7 +4250,7 @@
     "location": {
       "column": "9",
       "line": "199",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "UART5_PCLK_EN",
     "origin": "user_include",
@@ -4264,7 +4264,7 @@
     "location": {
       "column": "9",
       "line": "203",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "AIFO_PCLK_EN",
     "origin": "user_include",
@@ -4278,7 +4278,7 @@
     "location": {
       "column": "9",
       "line": "209",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PA_PCLK_DI",
     "origin": "user_include",
@@ -4292,7 +4292,7 @@
     "location": {
       "column": "9",
       "line": "212",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PA_REG_RESET",
     "origin": "user_include",
@@ -4306,7 +4306,7 @@
     "location": {
       "column": "9",
       "line": "213",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PB_REG_RESET",
     "origin": "user_include",
@@ -4320,7 +4320,7 @@
     "location": {
       "column": "9",
       "line": "214",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PC_REG_RESET",
     "origin": "user_include",
@@ -4334,7 +4334,7 @@
     "location": {
       "column": "9",
       "line": "215",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PD_REG_RESET",
     "origin": "user_include",
@@ -4348,7 +4348,7 @@
     "location": {
       "column": "9",
       "line": "216",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PE_REG_RESET",
     "origin": "user_include",
@@ -4362,7 +4362,7 @@
     "location": {
       "column": "9",
       "line": "217",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PF_REG_RESET",
     "origin": "user_include",
@@ -4376,7 +4376,7 @@
     "location": {
       "column": "9",
       "line": "218",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PG_REG_RESET",
     "origin": "user_include",
@@ -4390,7 +4390,7 @@
     "location": {
       "column": "9",
       "line": "222",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI1_REG_RESET",
     "origin": "user_include",
@@ -4404,7 +4404,7 @@
     "location": {
       "column": "9",
       "line": "223",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI2_REG_RESET",
     "origin": "user_include",
@@ -4418,7 +4418,7 @@
     "location": {
       "column": "9",
       "line": "224",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI3_REG_RESET",
     "origin": "user_include",
@@ -4432,7 +4432,7 @@
     "location": {
       "column": "9",
       "line": "227",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIO_BASEADDR_TO_CODE",
     "origin": "user_include",
@@ -4446,7 +4446,7 @@
     "location": {
       "column": "9",
       "line": "241",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI0",
     "origin": "user_include",
@@ -4460,7 +4460,7 @@
     "location": {
       "column": "9",
       "line": "242",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI1",
     "origin": "user_include",
@@ -4474,7 +4474,7 @@
     "location": {
       "column": "9",
       "line": "243",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI2",
     "origin": "user_include",
@@ -4488,7 +4488,7 @@
     "location": {
       "column": "9",
       "line": "244",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI3",
     "origin": "user_include",
@@ -4502,7 +4502,7 @@
     "location": {
       "column": "9",
       "line": "245",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI4",
     "origin": "user_include",
@@ -4516,7 +4516,7 @@
     "location": {
       "column": "9",
       "line": "246",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI9_5",
     "origin": "user_include",
@@ -4530,7 +4530,7 @@
     "location": {
       "column": "9",
       "line": "247",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI15_10",
     "origin": "user_include",
@@ -4544,7 +4544,7 @@
     "location": {
       "column": "9",
       "line": "252",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "ENABLE",
     "origin": "user_include",
@@ -4558,7 +4558,7 @@
     "location": {
       "column": "9",
       "line": "253",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "DISABLE",
     "origin": "user_include",
@@ -4572,7 +4572,7 @@
     "location": {
       "column": "9",
       "line": "254",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SET",
     "origin": "user_include",
@@ -4586,7 +4586,7 @@
     "location": {
       "column": "9",
       "line": "255",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "RESET",
     "origin": "user_include",
@@ -4600,7 +4600,7 @@
     "location": {
       "column": "9",
       "line": "256",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIO_PIN_SET",
     "origin": "user_include",
@@ -4614,7 +4614,7 @@
     "location": {
       "column": "9",
       "line": "257",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIO_PIN_RESET",
     "origin": "user_include",
@@ -4628,7 +4628,7 @@
     "location": {
       "column": "9",
       "line": "258",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "FLAG_RESET",
     "origin": "user_include",
@@ -4642,7 +4642,7 @@
     "location": {
       "column": "9",
       "line": "259",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "FLAG_SET",
     "origin": "user_include",
@@ -4656,7 +4656,7 @@
     "location": {
       "column": "9",
       "line": "263",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_CHPA",
     "origin": "user_include",
@@ -4670,7 +4670,7 @@
     "location": {
       "column": "9",
       "line": "264",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_CPOL",
     "origin": "user_include",
@@ -4684,7 +4684,7 @@
     "location": {
       "column": "9",
       "line": "265",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_MSTR",
     "origin": "user_include",
@@ -4698,7 +4698,7 @@
     "location": {
       "column": "9",
       "line": "266",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_BR",
     "origin": "user_include",
@@ -4712,7 +4712,7 @@
     "location": {
       "column": "9",
       "line": "267",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_SPE",
     "origin": "user_include",
@@ -4726,7 +4726,7 @@
     "location": {
       "column": "9",
       "line": "268",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_LSBFIRST",
     "origin": "user_include",
@@ -4740,7 +4740,7 @@
     "location": {
       "column": "9",
       "line": "269",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_SSI",
     "origin": "user_include",
@@ -4754,7 +4754,7 @@
     "location": {
       "column": "9",
       "line": "270",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_SSM",
     "origin": "user_include",
@@ -4768,7 +4768,7 @@
     "location": {
       "column": "9",
       "line": "271",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_RXONLY",
     "origin": "user_include",
@@ -4782,7 +4782,7 @@
     "location": {
       "column": "9",
       "line": "272",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_DFF",
     "origin": "user_include",
@@ -4796,7 +4796,7 @@
     "location": {
       "column": "9",
       "line": "273",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_CRCNEXT",
     "origin": "user_include",
@@ -4810,7 +4810,7 @@
     "location": {
       "column": "9",
       "line": "274",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_CRCEN",
     "origin": "user_include",
@@ -4824,7 +4824,7 @@
     "location": {
       "column": "9",
       "line": "275",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_BIDIOE",
     "origin": "user_include",
@@ -4838,7 +4838,7 @@
     "location": {
       "column": "9",
       "line": "276",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_BIDIMODE",
     "origin": "user_include",
@@ -4852,7 +4852,7 @@
     "location": {
       "column": "9",
       "line": "279",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_RXDMAEN",
     "origin": "user_include",
@@ -4866,7 +4866,7 @@
     "location": {
       "column": "9",
       "line": "280",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_TXDMAEN",
     "origin": "user_include",
@@ -4880,7 +4880,7 @@
     "location": {
       "column": "9",
       "line": "281",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_SSOE",
     "origin": "user_include",
@@ -4894,7 +4894,7 @@
     "location": {
       "column": "9",
       "line": "282",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_ERRIE",
     "origin": "user_include",
@@ -4908,7 +4908,7 @@
     "location": {
       "column": "9",
       "line": "283",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_RXNEIE",
     "origin": "user_include",
@@ -4922,7 +4922,7 @@
     "location": {
       "column": "9",
       "line": "284",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_TXNEIE",
     "origin": "user_include",
@@ -4936,7 +4936,7 @@
     "location": {
       "column": "9",
       "line": "287",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_RXNE",
     "origin": "user_include",
@@ -4950,7 +4950,7 @@
     "location": {
       "column": "9",
       "line": "288",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_TXE",
     "origin": "user_include",
@@ -4964,7 +4964,7 @@
     "location": {
       "column": "9",
       "line": "289",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_CHSIDE",
     "origin": "user_include",
@@ -4978,7 +4978,7 @@
     "location": {
       "column": "9",
       "line": "290",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_UDR",
     "origin": "user_include",
@@ -4992,7 +4992,7 @@
     "location": {
       "column": "9",
       "line": "291",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_CRCERR",
     "origin": "user_include",
@@ -5006,7 +5006,7 @@
     "location": {
       "column": "9",
       "line": "292",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_MODF",
     "origin": "user_include",
@@ -5020,7 +5020,7 @@
     "location": {
       "column": "9",
       "line": "293",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_OVR",
     "origin": "user_include",
@@ -5034,7 +5034,7 @@
     "location": {
       "column": "9",
       "line": "294",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_BSY",
     "origin": "user_include",
@@ -5426,7 +5426,7 @@
     "location": {
       "column": "9",
       "line": "2",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "INC_STM32F103C8_SPI_H_",
     "origin": "user_include",
@@ -5440,7 +5440,7 @@
     "location": {
       "column": "9",
       "line": "7",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "members": [
       {
@@ -5451,7 +5451,7 @@
         "location": {
           "column": "13",
           "line": "9",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_DevMode",
         "origin": "user_include",
@@ -5465,7 +5465,7 @@
         "location": {
           "column": "13",
           "line": "10",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_BusConf",
         "origin": "user_include",
@@ -5479,7 +5479,7 @@
         "location": {
           "column": "13",
           "line": "11",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_SclkSpeed",
         "origin": "user_include",
@@ -5493,7 +5493,7 @@
         "location": {
           "column": "13",
           "line": "12",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_DFF",
         "origin": "user_include",
@@ -5507,7 +5507,7 @@
         "location": {
           "column": "13",
           "line": "13",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_CPOL",
         "origin": "user_include",
@@ -5521,7 +5521,7 @@
         "location": {
           "column": "13",
           "line": "14",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_CHPA",
         "origin": "user_include",
@@ -5535,7 +5535,7 @@
         "location": {
           "column": "13",
           "line": "15",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_SSM",
         "origin": "user_include",
@@ -5549,7 +5549,7 @@
         "location": {
           "column": "13",
           "line": "16",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_SSI",
         "origin": "user_include",
@@ -5563,7 +5563,7 @@
         "location": {
           "column": "2",
           "line": "18",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_Conf_t",
         "origin": "user_include",
@@ -5582,7 +5582,7 @@
     "location": {
       "column": "9",
       "line": "20",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "members": [
       {
@@ -5593,7 +5593,7 @@
         "location": {
           "column": "19",
           "line": "22",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "pSPIx",
         "origin": "user_include",
@@ -5607,7 +5607,7 @@
         "location": {
           "column": "16",
           "line": "23",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPIConf",
         "origin": "user_include",
@@ -5621,7 +5621,7 @@
         "location": {
           "column": "2",
           "line": "24",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
         },
         "name": "SPI_Handle_t",
         "origin": "user_include",
@@ -5640,7 +5640,7 @@
     "location": {
       "column": "6",
       "line": "35",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_PeriClockControl",
     "origin": "user_include",
@@ -5654,7 +5654,7 @@
     "location": {
       "column": "6",
       "line": "35",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_PeriClockControl",
     "origin": "user_include",
@@ -5668,7 +5668,7 @@
     "location": {
       "column": "6",
       "line": "41",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_Init",
     "origin": "user_include",
@@ -5682,7 +5682,7 @@
     "location": {
       "column": "6",
       "line": "41",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_Init",
     "origin": "user_include",
@@ -5696,7 +5696,7 @@
     "location": {
       "column": "6",
       "line": "42",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_DeInit",
     "origin": "user_include",
@@ -5710,7 +5710,7 @@
     "location": {
       "column": "6",
       "line": "42",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_DeInit",
     "origin": "user_include",
@@ -5724,7 +5724,7 @@
     "location": {
       "column": "6",
       "line": "48",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SendData",
     "origin": "user_include",
@@ -5738,7 +5738,7 @@
     "location": {
       "column": "6",
       "line": "48",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SendData",
     "origin": "user_include",
@@ -5752,7 +5752,7 @@
     "location": {
       "column": "6",
       "line": "49",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_ReceiveData",
     "origin": "user_include",
@@ -5766,7 +5766,7 @@
     "location": {
       "column": "6",
       "line": "49",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_ReceiveData",
     "origin": "user_include",
@@ -5780,7 +5780,7 @@
     "location": {
       "column": "6",
       "line": "52",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SSIConfig",
     "origin": "user_include",
@@ -5794,7 +5794,7 @@
     "location": {
       "column": "6",
       "line": "52",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SSIConfig",
     "origin": "user_include",
@@ -5808,7 +5808,7 @@
     "location": {
       "column": "6",
       "line": "53",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_PeriControl",
     "origin": "user_include",
@@ -5822,7 +5822,7 @@
     "location": {
       "column": "6",
       "line": "53",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_PeriControl",
     "origin": "user_include",
@@ -5836,7 +5836,7 @@
     "location": {
       "column": "6",
       "line": "61",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQInterruptConf",
     "origin": "user_include",
@@ -5850,7 +5850,7 @@
     "location": {
       "column": "6",
       "line": "61",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQInterruptConf",
     "origin": "user_include",
@@ -5864,7 +5864,7 @@
     "location": {
       "column": "6",
       "line": "62",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQHandling",
     "origin": "user_include",
@@ -5878,7 +5878,7 @@
     "location": {
       "column": "6",
       "line": "62",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQHandling",
     "origin": "user_include",
@@ -5892,7 +5892,7 @@
     "location": {
       "column": "6",
       "line": "63",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQPriorityConfig",
     "origin": "user_include",
@@ -5906,7 +5906,7 @@
     "location": {
       "column": "6",
       "line": "63",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQPriorityConfig",
     "origin": "user_include",
@@ -5920,7 +5920,7 @@
     "location": {
       "column": "9",
       "line": "71",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_MODE_MASTER",
     "origin": "user_include",
@@ -5934,7 +5934,7 @@
     "location": {
       "column": "9",
       "line": "72",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_MODE_SLAVE",
     "origin": "user_include",
@@ -5948,7 +5948,7 @@
     "location": {
       "column": "9",
       "line": "76",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUS_FD",
     "origin": "user_include",
@@ -5962,7 +5962,7 @@
     "location": {
       "column": "9",
       "line": "77",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUS_HD",
     "origin": "user_include",
@@ -5976,7 +5976,7 @@
     "location": {
       "column": "9",
       "line": "78",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUS_SIMPLEX_TX",
     "origin": "user_include",
@@ -5990,7 +5990,7 @@
     "location": {
       "column": "9",
       "line": "79",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUS_SIMPLEX_RX",
     "origin": "user_include",
@@ -6004,7 +6004,7 @@
     "location": {
       "column": "9",
       "line": "83",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV2",
     "origin": "user_include",
@@ -6018,7 +6018,7 @@
     "location": {
       "column": "9",
       "line": "84",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV4",
     "origin": "user_include",
@@ -6032,7 +6032,7 @@
     "location": {
       "column": "9",
       "line": "85",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV8",
     "origin": "user_include",
@@ -6046,7 +6046,7 @@
     "location": {
       "column": "9",
       "line": "86",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV16",
     "origin": "user_include",
@@ -6060,7 +6060,7 @@
     "location": {
       "column": "9",
       "line": "87",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV32",
     "origin": "user_include",
@@ -6074,7 +6074,7 @@
     "location": {
       "column": "9",
       "line": "88",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV64",
     "origin": "user_include",
@@ -6088,7 +6088,7 @@
     "location": {
       "column": "9",
       "line": "89",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV128",
     "origin": "user_include",
@@ -6102,7 +6102,7 @@
     "location": {
       "column": "9",
       "line": "90",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV256",
     "origin": "user_include",
@@ -6116,7 +6116,7 @@
     "location": {
       "column": "9",
       "line": "94",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_DFF_8",
     "origin": "user_include",
@@ -6130,7 +6130,7 @@
     "location": {
       "column": "9",
       "line": "95",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_DFF_16",
     "origin": "user_include",
@@ -6144,7 +6144,7 @@
     "location": {
       "column": "9",
       "line": "98",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_CPOL_HIGH",
     "origin": "user_include",
@@ -6158,7 +6158,7 @@
     "location": {
       "column": "9",
       "line": "99",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_CPOL_LOW",
     "origin": "user_include",
@@ -6172,7 +6172,7 @@
     "location": {
       "column": "9",
       "line": "102",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_CPHA_HIGH",
     "origin": "user_include",
@@ -6186,7 +6186,7 @@
     "location": {
       "column": "9",
       "line": "103",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_CPHA_LOW",
     "origin": "user_include",
@@ -6200,7 +6200,7 @@
     "location": {
       "column": "9",
       "line": "106",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SSM_SW",
     "origin": "user_include",
@@ -6214,7 +6214,7 @@
     "location": {
       "column": "9",
       "line": "107",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SSM_HW",
     "origin": "user_include",
@@ -6228,7 +6228,7 @@
     "location": {
       "column": "9",
       "line": "111",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_TXE_FLAG",
     "origin": "user_include",
@@ -6242,7 +6242,7 @@
     "location": {
       "column": "9",
       "line": "112",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_RXNE_FLAG",
     "origin": "user_include",
@@ -6256,7 +6256,7 @@
     "location": {
       "column": "9",
       "line": "113",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUSY_FLAG",
     "origin": "user_include",
@@ -6270,7 +6270,7 @@
     "location": {
       "column": "9",
       "line": "2",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "INC_STM32F103C8XX_GPIO_DRIVER_H_",
     "origin": "user_include",
@@ -6284,7 +6284,7 @@
     "location": {
       "column": "9",
       "line": "8",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "members": [
       {
@@ -6295,7 +6295,7 @@
         "location": {
           "column": "13",
           "line": "10",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
         },
         "name": "GPIO_PinNumber",
         "origin": "user_include",
@@ -6309,7 +6309,7 @@
         "location": {
           "column": "13",
           "line": "11",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
         },
         "name": "GPIO_PinMode",
         "origin": "user_include",
@@ -6323,7 +6323,7 @@
         "location": {
           "column": "13",
           "line": "12",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
         },
         "name": "GPIO_PinConf",
         "origin": "user_include",
@@ -6337,7 +6337,7 @@
         "location": {
           "column": "13",
           "line": "13",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
         },
         "name": "Interrupt_Mode",
         "origin": "user_include",
@@ -6351,7 +6351,7 @@
         "location": {
           "column": "2",
           "line": "14",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
         },
         "name": "GPIO_PinConfig_t",
         "origin": "user_include",
@@ -6370,7 +6370,7 @@
     "location": {
       "column": "9",
       "line": "16",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "members": [
       {
@@ -6381,7 +6381,7 @@
         "location": {
           "column": "20",
           "line": "18",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
         },
         "name": "pGPIOx",
         "origin": "user_include",
@@ -6395,7 +6395,7 @@
         "location": {
           "column": "22",
           "line": "19",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
         },
         "name": "GPIO_PinConfig",
         "origin": "user_include",
@@ -6409,7 +6409,7 @@
         "location": {
           "column": "2",
           "line": "20",
-          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+          "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
         },
         "name": "GPIO_Handle_t",
         "origin": "user_include",
@@ -6428,7 +6428,7 @@
     "location": {
       "column": "13",
       "line": "24",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_MODE_IN",
     "origin": "user_include",
@@ -6442,7 +6442,7 @@
     "location": {
       "column": "13",
       "line": "25",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_MODE_OUT_10mhz",
     "origin": "user_include",
@@ -6456,7 +6456,7 @@
     "location": {
       "column": "13",
       "line": "26",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_MODE_OUT_2mhz",
     "origin": "user_include",
@@ -6470,7 +6470,7 @@
     "location": {
       "column": "13",
       "line": "27",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_MODE_OUT_50mhz",
     "origin": "user_include",
@@ -6484,7 +6484,7 @@
     "location": {
       "column": "13",
       "line": "33",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_INMODE_ANALOG",
     "origin": "user_include",
@@ -6498,7 +6498,7 @@
     "location": {
       "column": "13",
       "line": "34",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_INMODE_FLOATING",
     "origin": "user_include",
@@ -6512,7 +6512,7 @@
     "location": {
       "column": "13",
       "line": "35",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_INMODE_PUPD",
     "origin": "user_include",
@@ -6526,7 +6526,7 @@
     "location": {
       "column": "13",
       "line": "38",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_OUTCONF_PP",
     "origin": "user_include",
@@ -6540,7 +6540,7 @@
     "location": {
       "column": "13",
       "line": "39",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_OUTCONF_OD",
     "origin": "user_include",
@@ -6554,7 +6554,7 @@
     "location": {
       "column": "13",
       "line": "40",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_OUTCONF_ALT_PP",
     "origin": "user_include",
@@ -6568,7 +6568,7 @@
     "location": {
       "column": "13",
       "line": "41",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_OUTCONF_ALT_OD",
     "origin": "user_include",
@@ -6582,7 +6582,7 @@
     "location": {
       "column": "13",
       "line": "46",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_MODE_IT_FT",
     "origin": "user_include",
@@ -6596,7 +6596,7 @@
     "location": {
       "column": "13",
       "line": "47",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_MODE_IT_RT",
     "origin": "user_include",
@@ -6610,7 +6610,7 @@
     "location": {
       "column": "13",
       "line": "48",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_MODE_IT_RFT",
     "origin": "user_include",
@@ -6624,7 +6624,7 @@
     "location": {
       "column": "13",
       "line": "52",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_OP_TYPE_PP",
     "origin": "user_include",
@@ -6638,7 +6638,7 @@
     "location": {
       "column": "13",
       "line": "53",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_OP_TYPE_OD",
     "origin": "user_include",
@@ -6652,7 +6652,7 @@
     "location": {
       "column": "13",
       "line": "57",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_SPEED_IN",
     "origin": "user_include",
@@ -6666,7 +6666,7 @@
     "location": {
       "column": "13",
       "line": "58",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_SPEED_OUT",
     "origin": "user_include",
@@ -6680,7 +6680,7 @@
     "location": {
       "column": "13",
       "line": "59",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_SPEED_ALTFN",
     "origin": "user_include",
@@ -6694,7 +6694,7 @@
     "location": {
       "column": "13",
       "line": "60",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_SPEED_ANALOG",
     "origin": "user_include",
@@ -6708,7 +6708,7 @@
     "location": {
       "column": "13",
       "line": "64",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_SPEED_IN",
     "origin": "user_include",
@@ -6722,7 +6722,7 @@
     "location": {
       "column": "13",
       "line": "65",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_SPEED_OUT",
     "origin": "user_include",
@@ -6736,7 +6736,7 @@
     "location": {
       "column": "13",
       "line": "66",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_SPEED_ALTFN",
     "origin": "user_include",
@@ -6750,7 +6750,7 @@
     "location": {
       "column": "13",
       "line": "68",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_0",
     "origin": "user_include",
@@ -6764,7 +6764,7 @@
     "location": {
       "column": "13",
       "line": "69",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_1",
     "origin": "user_include",
@@ -6778,7 +6778,7 @@
     "location": {
       "column": "13",
       "line": "70",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_2",
     "origin": "user_include",
@@ -6792,7 +6792,7 @@
     "location": {
       "column": "13",
       "line": "71",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_3",
     "origin": "user_include",
@@ -6806,7 +6806,7 @@
     "location": {
       "column": "13",
       "line": "72",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_4",
     "origin": "user_include",
@@ -6820,7 +6820,7 @@
     "location": {
       "column": "13",
       "line": "73",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_5",
     "origin": "user_include",
@@ -6834,7 +6834,7 @@
     "location": {
       "column": "13",
       "line": "74",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_6",
     "origin": "user_include",
@@ -6848,7 +6848,7 @@
     "location": {
       "column": "13",
       "line": "75",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_7",
     "origin": "user_include",
@@ -6862,7 +6862,7 @@
     "location": {
       "column": "13",
       "line": "76",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_8",
     "origin": "user_include",
@@ -6876,7 +6876,7 @@
     "location": {
       "column": "13",
       "line": "77",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_9",
     "origin": "user_include",
@@ -6890,7 +6890,7 @@
     "location": {
       "column": "13",
       "line": "78",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_10",
     "origin": "user_include",
@@ -6904,7 +6904,7 @@
     "location": {
       "column": "13",
       "line": "79",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_11",
     "origin": "user_include",
@@ -6918,7 +6918,7 @@
     "location": {
       "column": "13",
       "line": "80",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_12",
     "origin": "user_include",
@@ -6932,7 +6932,7 @@
     "location": {
       "column": "13",
       "line": "81",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_13",
     "origin": "user_include",
@@ -6946,7 +6946,7 @@
     "location": {
       "column": "13",
       "line": "82",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_14",
     "origin": "user_include",
@@ -6960,7 +6960,7 @@
     "location": {
       "column": "13",
       "line": "83",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PIN_15",
     "origin": "user_include",
@@ -6974,7 +6974,7 @@
     "location": {
       "column": "6",
       "line": "94",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PeriClockControll",
     "origin": "user_include",
@@ -6988,7 +6988,7 @@
     "location": {
       "column": "6",
       "line": "94",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_PeriClockControll",
     "origin": "user_include",
@@ -7002,7 +7002,7 @@
     "location": {
       "column": "6",
       "line": "97",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_Init",
     "origin": "user_include",
@@ -7016,7 +7016,7 @@
     "location": {
       "column": "6",
       "line": "97",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_Init",
     "origin": "user_include",
@@ -7030,7 +7030,7 @@
     "location": {
       "column": "6",
       "line": "98",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_DeInit",
     "origin": "user_include",
@@ -7044,7 +7044,7 @@
     "location": {
       "column": "6",
       "line": "98",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_DeInit",
     "origin": "user_include",
@@ -7058,7 +7058,7 @@
     "location": {
       "column": "9",
       "line": "101",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_ReadFromInputPin",
     "origin": "user_include",
@@ -7072,7 +7072,7 @@
     "location": {
       "column": "9",
       "line": "101",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_ReadFromInputPin",
     "origin": "user_include",
@@ -7086,7 +7086,7 @@
     "location": {
       "column": "10",
       "line": "102",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_ReadFromInputPort",
     "origin": "user_include",
@@ -7100,7 +7100,7 @@
     "location": {
       "column": "10",
       "line": "102",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_ReadFromInputPort",
     "origin": "user_include",
@@ -7114,7 +7114,7 @@
     "location": {
       "column": "6",
       "line": "103",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_WriteFromInputPin",
     "origin": "user_include",
@@ -7128,7 +7128,7 @@
     "location": {
       "column": "6",
       "line": "104",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_WriteFromInputPort",
     "origin": "user_include",
@@ -7142,7 +7142,7 @@
     "location": {
       "column": "6",
       "line": "105",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_TogglePin",
     "origin": "user_include",
@@ -7156,7 +7156,7 @@
     "location": {
       "column": "6",
       "line": "105",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_TogglePin",
     "origin": "user_include",
@@ -7170,7 +7170,7 @@
     "location": {
       "column": "6",
       "line": "108",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_IRQInterruptConf",
     "origin": "user_include",
@@ -7184,7 +7184,7 @@
     "location": {
       "column": "6",
       "line": "108",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_IRQInterruptConf",
     "origin": "user_include",
@@ -7198,7 +7198,7 @@
     "location": {
       "column": "6",
       "line": "109",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_IRQHandling",
     "origin": "user_include",
@@ -7212,7 +7212,7 @@
     "location": {
       "column": "6",
       "line": "109",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_IRQHandling",
     "origin": "user_include",
@@ -7226,7 +7226,7 @@
     "location": {
       "column": "6",
       "line": "110",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_IRQPriorityConfig",
     "origin": "user_include",
@@ -7240,7 +7240,7 @@
     "location": {
       "column": "6",
       "line": "110",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_IRQPriorityConfig",
     "origin": "user_include",
@@ -7254,7 +7254,7 @@
     "location": {
       "column": "6",
       "line": "111",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_WriteToOutputPinBSSR",
     "origin": "user_include",
@@ -7268,7 +7268,7 @@
     "location": {
       "column": "6",
       "line": "111",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Inc\\stm32f103c8xx.h_gpio_driver.h"
     },
     "name": "GPIO_WriteToOutputPinBSSR",
     "origin": "user_include",
@@ -7282,7 +7282,7 @@
     "location": {
       "column": "6",
       "line": "18",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_PeriClockControl",
     "origin": "project_file",
@@ -7296,7 +7296,7 @@
     "location": {
       "column": "6",
       "line": "61",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_Init",
     "origin": "project_file",
@@ -7310,7 +7310,7 @@
     "location": {
       "column": "14",
       "line": "68",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "tempreg",
     "origin": "project_file",
@@ -7324,7 +7324,7 @@
     "location": {
       "column": "6",
       "line": "145",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_DeInit",
     "origin": "project_file",
@@ -7338,7 +7338,7 @@
     "location": {
       "column": "9",
       "line": "165",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_GetFlagStatus",
     "origin": "project_file",
@@ -7352,7 +7352,7 @@
     "location": {
       "column": "6",
       "line": "194",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_SendData",
     "origin": "project_file",
@@ -7366,7 +7366,7 @@
     "location": {
       "column": "17",
       "line": "200",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "status",
     "origin": "project_file",
@@ -7380,7 +7380,7 @@
     "location": {
       "column": "6",
       "line": "244",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_ReceiveData",
     "origin": "project_file",
@@ -7394,7 +7394,7 @@
     "location": {
       "column": "6",
       "line": "251",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_PeriControl",
     "origin": "project_file",
@@ -7408,7 +7408,7 @@
     "location": {
       "column": "6",
       "line": "280",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_SSIConfig",
     "origin": "project_file",
@@ -7422,7 +7422,7 @@
     "location": {
       "column": "6",
       "line": "307",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_IRQInterruptConf",
     "origin": "project_file",
@@ -7436,7 +7436,7 @@
     "location": {
       "column": "6",
       "line": "329",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_IRQPriorityConfig",
     "origin": "project_file",
@@ -7450,7 +7450,7 @@
     "location": {
       "column": "6",
       "line": "354",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
     },
     "name": "SPI_IRQHandling",
     "origin": "project_file",
@@ -7870,7 +7870,7 @@
     "location": {
       "column": "6",
       "line": "18",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_PeriClockControll",
     "origin": "project_file",
@@ -7884,7 +7884,7 @@
     "location": {
       "column": "6",
       "line": "72",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_Init",
     "origin": "project_file",
@@ -7898,7 +7898,7 @@
     "location": {
       "column": "14",
       "line": "77",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "temp1",
     "origin": "project_file",
@@ -7912,7 +7912,7 @@
     "location": {
       "column": "25",
       "line": "77",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "temp2",
     "origin": "project_file",
@@ -7926,7 +7926,7 @@
     "location": {
       "column": "21",
       "line": "129",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "temp1",
     "origin": "project_file",
@@ -7940,7 +7940,7 @@
     "location": {
       "column": "28",
       "line": "129",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "temp2",
     "origin": "project_file",
@@ -7954,7 +7954,7 @@
     "location": {
       "column": "35",
       "line": "129",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "portcode",
     "origin": "project_file",
@@ -7968,7 +7968,7 @@
     "location": {
       "column": "6",
       "line": "170",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_DeInit",
     "origin": "project_file",
@@ -7982,7 +7982,7 @@
     "location": {
       "column": "9",
       "line": "237",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_ReadFromInputPin",
     "origin": "project_file",
@@ -7996,7 +7996,7 @@
     "location": {
       "column": "13",
       "line": "238",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "value",
     "origin": "project_file",
@@ -8010,7 +8010,7 @@
     "location": {
       "column": "10",
       "line": "257",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_ReadFromInputPort",
     "origin": "project_file",
@@ -8024,7 +8024,7 @@
     "location": {
       "column": "14",
       "line": "258",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "value",
     "origin": "project_file",
@@ -8038,7 +8038,7 @@
     "location": {
       "column": "6",
       "line": "276",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_WriteToOutputPin",
     "origin": "project_file",
@@ -8052,7 +8052,7 @@
     "location": {
       "column": "6",
       "line": "304",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_WriteToOutputPinBSSR",
     "origin": "project_file",
@@ -8066,7 +8066,7 @@
     "location": {
       "column": "6",
       "line": "331",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_WriteToOutputPort",
     "origin": "project_file",
@@ -8080,7 +8080,7 @@
     "location": {
       "column": "6",
       "line": "351",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_TogglePin",
     "origin": "project_file",
@@ -8094,7 +8094,7 @@
     "location": {
       "column": "6",
       "line": "371",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_IRQInterruptConf",
     "origin": "project_file",
@@ -8108,7 +8108,7 @@
     "location": {
       "column": "6",
       "line": "437",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_IRQPriorityConfig",
     "origin": "project_file",
@@ -8122,7 +8122,7 @@
     "location": {
       "column": "13",
       "line": "454",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "iprx",
     "origin": "project_file",
@@ -8136,7 +8136,7 @@
     "location": {
       "column": "13",
       "line": "455",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "iprx_section",
     "origin": "project_file",
@@ -8150,7 +8150,7 @@
     "location": {
       "column": "13",
       "line": "458",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "shift_amount",
     "origin": "project_file",
@@ -8164,7 +8164,7 @@
     "location": {
       "column": "6",
       "line": "479",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\myDriver\\Src\\stm32f103c8xx.h_gpio_driver.c"
     },
     "name": "GPIO_IRQHandling",
     "origin": "project_file",
@@ -8584,7 +8584,7 @@
     "location": {
       "column": "6",
       "line": "12",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\main.c"
     },
     "name": "SPI1_GPIOInits",
     "origin": "project_file",
@@ -8598,7 +8598,7 @@
     "location": {
       "column": "19",
       "line": "14",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\main.c"
     },
     "name": "SPIPins",
     "origin": "project_file",
@@ -8612,7 +8612,7 @@
     "location": {
       "column": "6",
       "line": "49",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\main.c"
     },
     "name": "SPI1_Inits",
     "origin": "project_file",
@@ -8626,7 +8626,7 @@
     "location": {
       "column": "18",
       "line": "51",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\main.c"
     },
     "name": "SPI1Handle",
     "origin": "project_file",
@@ -8640,7 +8640,7 @@
     "location": {
       "column": "6",
       "line": "70",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\main.c"
     },
     "name": "delay",
     "origin": "project_file",
@@ -8654,7 +8654,7 @@
     "location": {
       "column": "5",
       "line": "76",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\main.c"
     },
     "name": "main",
     "origin": "project_file",
@@ -8668,7 +8668,7 @@
     "location": {
       "column": "10",
       "line": "91",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\done\\SPI\\main.c"
     },
     "name": "userData",
     "origin": "project_file",

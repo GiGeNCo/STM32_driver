@@ -1741,20 +1741,6 @@
     "scope": null
   },
   {
-    "ID": "c:stdint.h@T@__data_uintptr_t",
-    "What": "Typedef",
-    "defdec": "Def",
-    "display": "unsigned int",
-    "location": {
-      "column": "1",
-      "line": "89",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\stdint.h"
-    },
-    "name": "__data_uintptr_t",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
     "ID": "c:stdint.h@T@__data_intptr_t",
     "What": "Typedef",
     "defdec": "Def",
@@ -1765,6 +1751,20 @@
       "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\stdint.h"
     },
     "name": "__data_intptr_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@__data_uintptr_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "1",
+      "line": "89",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "__data_uintptr_t",
     "origin": "system_include",
     "scope": null
   },
@@ -2637,13 +2637,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@95@macro@__vo",
+    "ID": "c:stm32f103c8xx.h@129@macro@__vo",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "__vo",
     "location": {
       "column": "9",
-      "line": "7",
+      "line": "9",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "__vo",
@@ -2651,13 +2651,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@161@macro@NVIC_ISER0",
+    "ID": "c:stm32f103c8xx.h@195@macro@NVIC_ISER0",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NVIC_ISER0",
     "location": {
       "column": "9",
-      "line": "11",
+      "line": "13",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ISER0",
@@ -2665,13 +2665,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@225@macro@NVIC_ISER1",
+    "ID": "c:stm32f103c8xx.h@259@macro@NVIC_ISER1",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NVIC_ISER1",
     "location": {
       "column": "9",
-      "line": "12",
+      "line": "14",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ISER1",
@@ -2679,13 +2679,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@289@macro@NVIC_ISER2",
+    "ID": "c:stm32f103c8xx.h@323@macro@NVIC_ISER2",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NVIC_ISER2",
     "location": {
       "column": "9",
-      "line": "13",
+      "line": "15",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ISER2",
@@ -2693,13 +2693,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@353@macro@NVIC_ISER3",
+    "ID": "c:stm32f103c8xx.h@387@macro@NVIC_ISER3",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NVIC_ISER3",
     "location": {
       "column": "9",
-      "line": "14",
+      "line": "16",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ISER3",
@@ -2707,13 +2707,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@421@macro@NVIC_ICER0",
+    "ID": "c:stm32f103c8xx.h@455@macro@NVIC_ICER0",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NVIC_ICER0",
     "location": {
       "column": "9",
-      "line": "17",
+      "line": "19",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ICER0",
@@ -2721,13 +2721,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@485@macro@NVIC_ICER1",
+    "ID": "c:stm32f103c8xx.h@519@macro@NVIC_ICER1",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NVIC_ICER1",
     "location": {
       "column": "9",
-      "line": "18",
+      "line": "20",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ICER1",
@@ -2735,13 +2735,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@549@macro@NVIC_ICER2",
+    "ID": "c:stm32f103c8xx.h@583@macro@NVIC_ICER2",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NVIC_ICER2",
     "location": {
       "column": "9",
-      "line": "19",
+      "line": "21",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ICER2",
@@ -2749,13 +2749,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@613@macro@NVIC_ICER3",
+    "ID": "c:stm32f103c8xx.h@647@macro@NVIC_ICER3",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NVIC_ICER3",
     "location": {
       "column": "9",
-      "line": "20",
+      "line": "22",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_ICER3",
@@ -2763,13 +2763,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@726@macro@NVIC_PR_BASE_ADDR",
+    "ID": "c:stm32f103c8xx.h@760@macro@NVIC_PR_BASE_ADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NVIC_PR_BASE_ADDR",
     "location": {
       "column": "9",
-      "line": "24",
+      "line": "26",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NVIC_PR_BASE_ADDR",
@@ -2777,13 +2777,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@836@macro@NO_PR_BITS_IMPLEMENTED",
+    "ID": "c:stm32f103c8xx.h@870@macro@NO_PR_BITS_IMPLEMENTED",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "NO_PR_BITS_IMPLEMENTED",
     "location": {
       "column": "9",
-      "line": "27",
+      "line": "29",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "NO_PR_BITS_IMPLEMENTED",
@@ -2791,13 +2791,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@922@macro@FLASH_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@956@macro@FLASH_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "FLASH_BASEADDR",
     "location": {
       "column": "9",
-      "line": "33",
+      "line": "35",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "FLASH_BASEADDR",
@@ -2805,13 +2805,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@979@macro@SRAM_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1013@macro@SRAM_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SRAM_BASEADDR",
     "location": {
       "column": "9",
-      "line": "34",
+      "line": "36",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SRAM_BASEADDR",
@@ -2819,13 +2819,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1086@macro@ROM_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1120@macro@ROM_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "ROM_BASEADDR",
     "location": {
       "column": "9",
-      "line": "35",
+      "line": "37",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "ROM_BASEADDR",
@@ -2833,13 +2833,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1174@macro@PERIPH_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1208@macro@PERIPH_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PERIPH_BASEADDR",
     "location": {
       "column": "9",
-      "line": "38",
+      "line": "40",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PERIPH_BASEADDR",
@@ -2847,13 +2847,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1219@macro@APB1PERIPH_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1253@macro@APB1PERIPH_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "APB1PERIPH_BASEADDR",
     "location": {
       "column": "9",
-      "line": "39",
+      "line": "41",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "APB1PERIPH_BASEADDR",
@@ -2861,13 +2861,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1268@macro@APB2PERIPH_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1302@macro@APB2PERIPH_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "APB2PERIPH_BASEADDR",
     "location": {
       "column": "9",
-      "line": "40",
+      "line": "42",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "APB2PERIPH_BASEADDR",
@@ -2875,13 +2875,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1313@macro@AHBPERIPH_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1347@macro@AHBPERIPH_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "AHBPERIPH_BASEADDR",
     "location": {
       "column": "9",
-      "line": "41",
+      "line": "43",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "AHBPERIPH_BASEADDR",
@@ -2889,13 +2889,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1360@macro@RCC_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1394@macro@RCC_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "RCC_BASEADDR",
     "location": {
       "column": "9",
-      "line": "43",
+      "line": "45",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "RCC_BASEADDR",
@@ -2903,13 +2903,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1482@macro@GPIOA_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1516@macro@GPIOA_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOA_BASEADDR",
     "location": {
       "column": "9",
-      "line": "47",
+      "line": "49",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOA_BASEADDR",
@@ -2917,13 +2917,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1544@macro@GPIOB_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1578@macro@GPIOB_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOB_BASEADDR",
     "location": {
       "column": "9",
-      "line": "48",
+      "line": "50",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOB_BASEADDR",
@@ -2931,13 +2931,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1606@macro@GPIOC_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1640@macro@GPIOC_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOC_BASEADDR",
     "location": {
       "column": "9",
-      "line": "49",
+      "line": "51",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOC_BASEADDR",
@@ -2945,13 +2945,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1668@macro@GPIOD_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1702@macro@GPIOD_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOD_BASEADDR",
     "location": {
       "column": "9",
-      "line": "50",
+      "line": "52",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOD_BASEADDR",
@@ -2959,13 +2959,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1730@macro@GPIOE_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1764@macro@GPIOE_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOE_BASEADDR",
     "location": {
       "column": "9",
-      "line": "51",
+      "line": "53",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOE_BASEADDR",
@@ -2973,13 +2973,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1792@macro@GPIOF_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1826@macro@GPIOF_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOF_BASEADDR",
     "location": {
       "column": "9",
-      "line": "52",
+      "line": "54",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOF_BASEADDR",
@@ -2987,13 +2987,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1854@macro@GPIOG_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1888@macro@GPIOG_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOG_BASEADDR",
     "location": {
       "column": "9",
-      "line": "53",
+      "line": "55",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOG_BASEADDR",
@@ -3001,13 +3001,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1922@macro@EXTI_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@1956@macro@EXTI_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "EXTI_BASEADDR",
     "location": {
       "column": "9",
-      "line": "57",
+      "line": "59",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "EXTI_BASEADDR",
@@ -3015,13 +3015,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@1986@macro@AIFO_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2020@macro@AIFO_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "AIFO_BASEADDR",
     "location": {
       "column": "9",
-      "line": "59",
+      "line": "61",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "AIFO_BASEADDR",
@@ -3029,13 +3029,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2092@macro@I2C1_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2126@macro@I2C1_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "I2C1_BASEADDR",
     "location": {
       "column": "9",
-      "line": "62",
+      "line": "64",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "I2C1_BASEADDR",
@@ -3043,13 +3043,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2154@macro@I2C2_BASEARRD",
+    "ID": "c:stm32f103c8xx.h@2188@macro@I2C2_BASEARRD",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "I2C2_BASEARRD",
     "location": {
       "column": "9",
-      "line": "63",
+      "line": "65",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "I2C2_BASEARRD",
@@ -3057,13 +3057,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2218@macro@SPI1_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2252@macro@SPI1_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI1_BASEADDR",
     "location": {
       "column": "9",
-      "line": "65",
+      "line": "67",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI1_BASEADDR",
@@ -3071,13 +3071,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2280@macro@SPI2_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2314@macro@SPI2_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI2_BASEADDR",
     "location": {
       "column": "9",
-      "line": "66",
+      "line": "68",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI2_BASEADDR",
@@ -3085,13 +3085,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2342@macro@SPI3_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2376@macro@SPI3_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI3_BASEADDR",
     "location": {
       "column": "9",
-      "line": "67",
+      "line": "69",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI3_BASEADDR",
@@ -3099,13 +3099,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2406@macro@USART1_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2440@macro@USART1_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "USART1_BASEADDR",
     "location": {
       "column": "9",
-      "line": "69",
+      "line": "71",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART1_BASEADDR",
@@ -3113,13 +3113,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2468@macro@USART2_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2502@macro@USART2_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "USART2_BASEADDR",
     "location": {
       "column": "9",
-      "line": "70",
+      "line": "72",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART2_BASEADDR",
@@ -3127,13 +3127,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2530@macro@USART3_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2564@macro@USART3_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "USART3_BASEADDR",
     "location": {
       "column": "9",
-      "line": "71",
+      "line": "73",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART3_BASEADDR",
@@ -3141,13 +3141,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2592@macro@UART4_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2626@macro@UART4_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "UART4_BASEADDR",
     "location": {
       "column": "9",
-      "line": "72",
+      "line": "74",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "UART4_BASEADDR",
@@ -3155,13 +3155,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@2654@macro@UART5_BASEADDR",
+    "ID": "c:stm32f103c8xx.h@2688@macro@UART5_BASEADDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "UART5_BASEADDR",
     "location": {
       "column": "9",
-      "line": "73",
+      "line": "75",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "UART5_BASEADDR",
@@ -3175,7 +3175,7 @@
     "display": "",
     "location": {
       "column": "9",
-      "line": "80",
+      "line": "82",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
@@ -3186,12 +3186,12 @@
         "display": "CR",
         "location": {
           "column": "17",
-          "line": "82",
+          "line": "84",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_80_9"
+        "scope": "_anonymous_stm32f103c8xx_h_82_9"
       },
       {
         "ID": "c:@SA@GPIO_RegDef_t@FI@IDR",
@@ -3200,12 +3200,12 @@
         "display": "IDR",
         "location": {
           "column": "17",
-          "line": "85",
+          "line": "87",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "IDR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_80_9"
+        "scope": "_anonymous_stm32f103c8xx_h_82_9"
       },
       {
         "ID": "c:@SA@GPIO_RegDef_t@FI@ODR",
@@ -3214,12 +3214,12 @@
         "display": "ODR",
         "location": {
           "column": "17",
-          "line": "86",
+          "line": "88",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "ODR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_80_9"
+        "scope": "_anonymous_stm32f103c8xx_h_82_9"
       },
       {
         "ID": "c:@SA@GPIO_RegDef_t@FI@BSRR",
@@ -3228,12 +3228,12 @@
         "display": "BSRR",
         "location": {
           "column": "17",
-          "line": "87",
+          "line": "89",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "BSRR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_80_9"
+        "scope": "_anonymous_stm32f103c8xx_h_82_9"
       },
       {
         "ID": "c:@SA@GPIO_RegDef_t@FI@BRR",
@@ -3242,12 +3242,12 @@
         "display": "BRR",
         "location": {
           "column": "17",
-          "line": "88",
+          "line": "90",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "BRR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_80_9"
+        "scope": "_anonymous_stm32f103c8xx_h_82_9"
       },
       {
         "ID": "c:@SA@GPIO_RegDef_t@FI@LCKR",
@@ -3256,12 +3256,12 @@
         "display": "LCKR",
         "location": {
           "column": "17",
-          "line": "89",
+          "line": "91",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "LCKR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_80_9"
+        "scope": "_anonymous_stm32f103c8xx_h_82_9"
       },
       {
         "ID": "c:@T@GPIO_RegDef_t",
@@ -3270,12 +3270,12 @@
         "display": "struct GPIO_RegDef_t",
         "location": {
           "column": "2",
-          "line": "90",
+          "line": "92",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "GPIO_RegDef_t",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_80_9"
+        "scope": "_anonymous_stm32f103c8xx_h_82_9"
       }
     ],
     "name": "",
@@ -3289,7 +3289,7 @@
     "display": "",
     "location": {
       "column": "9",
-      "line": "93",
+      "line": "95",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
@@ -3300,12 +3300,12 @@
         "display": "CR",
         "location": {
           "column": "17",
-          "line": "95",
+          "line": "97",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@CFGR",
@@ -3314,12 +3314,12 @@
         "display": "CFGR",
         "location": {
           "column": "17",
-          "line": "96",
+          "line": "98",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CFGR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@CIR",
@@ -3328,12 +3328,12 @@
         "display": "CIR",
         "location": {
           "column": "17",
-          "line": "97",
+          "line": "99",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CIR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@APB2RSTR",
@@ -3342,12 +3342,12 @@
         "display": "APB2RSTR",
         "location": {
           "column": "17",
-          "line": "98",
+          "line": "100",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "APB2RSTR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@APB1RSTR",
@@ -3356,12 +3356,12 @@
         "display": "APB1RSTR",
         "location": {
           "column": "17",
-          "line": "99",
+          "line": "101",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "APB1RSTR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@AHBENR",
@@ -3370,12 +3370,12 @@
         "display": "AHBENR",
         "location": {
           "column": "17",
-          "line": "100",
+          "line": "102",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "AHBENR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@APB2ENR",
@@ -3384,12 +3384,12 @@
         "display": "APB2ENR",
         "location": {
           "column": "17",
-          "line": "101",
+          "line": "103",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "APB2ENR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@APB1ENR",
@@ -3398,12 +3398,12 @@
         "display": "APB1ENR",
         "location": {
           "column": "17",
-          "line": "102",
+          "line": "104",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "APB1ENR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@BDCR",
@@ -3412,12 +3412,12 @@
         "display": "BDCR",
         "location": {
           "column": "17",
-          "line": "103",
+          "line": "105",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "BDCR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@CSR",
@@ -3426,12 +3426,12 @@
         "display": "CSR",
         "location": {
           "column": "17",
-          "line": "104",
+          "line": "106",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CSR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@AHBSTR",
@@ -3440,12 +3440,12 @@
         "display": "AHBSTR",
         "location": {
           "column": "17",
-          "line": "105",
+          "line": "107",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "AHBSTR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@SA@RCC_RegDef_t@FI@CFGR2",
@@ -3454,12 +3454,12 @@
         "display": "CFGR2",
         "location": {
           "column": "17",
-          "line": "106",
+          "line": "108",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CFGR2",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       },
       {
         "ID": "c:@T@RCC_RegDef_t",
@@ -3468,12 +3468,12 @@
         "display": "struct RCC_RegDef_t",
         "location": {
           "column": "2",
-          "line": "109",
+          "line": "111",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "RCC_RegDef_t",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_93_9"
+        "scope": "_anonymous_stm32f103c8xx_h_95_9"
       }
     ],
     "name": "",
@@ -3487,7 +3487,7 @@
     "display": "",
     "location": {
       "column": "9",
-      "line": "111",
+      "line": "113",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
@@ -3498,12 +3498,12 @@
         "display": "IMR",
         "location": {
           "column": "17",
-          "line": "113",
+          "line": "115",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "IMR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_111_9"
+        "scope": "_anonymous_stm32f103c8xx_h_113_9"
       },
       {
         "ID": "c:@SA@EXTI_RegDef_t@FI@EMR",
@@ -3512,12 +3512,12 @@
         "display": "EMR",
         "location": {
           "column": "17",
-          "line": "114",
+          "line": "116",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "EMR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_111_9"
+        "scope": "_anonymous_stm32f103c8xx_h_113_9"
       },
       {
         "ID": "c:@SA@EXTI_RegDef_t@FI@RTSR",
@@ -3526,12 +3526,12 @@
         "display": "RTSR",
         "location": {
           "column": "17",
-          "line": "115",
+          "line": "117",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "RTSR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_111_9"
+        "scope": "_anonymous_stm32f103c8xx_h_113_9"
       },
       {
         "ID": "c:@SA@EXTI_RegDef_t@FI@FTSR",
@@ -3540,12 +3540,12 @@
         "display": "FTSR",
         "location": {
           "column": "17",
-          "line": "116",
+          "line": "118",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "FTSR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_111_9"
+        "scope": "_anonymous_stm32f103c8xx_h_113_9"
       },
       {
         "ID": "c:@SA@EXTI_RegDef_t@FI@SWIER",
@@ -3554,12 +3554,12 @@
         "display": "SWIER",
         "location": {
           "column": "17",
-          "line": "117",
+          "line": "119",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "SWIER",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_111_9"
+        "scope": "_anonymous_stm32f103c8xx_h_113_9"
       },
       {
         "ID": "c:@SA@EXTI_RegDef_t@FI@PR",
@@ -3568,12 +3568,12 @@
         "display": "PR",
         "location": {
           "column": "17",
-          "line": "118",
+          "line": "120",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "PR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_111_9"
+        "scope": "_anonymous_stm32f103c8xx_h_113_9"
       },
       {
         "ID": "c:@T@EXTI_RegDef_t",
@@ -3582,12 +3582,12 @@
         "display": "struct EXTI_RegDef_t",
         "location": {
           "column": "2",
-          "line": "121",
+          "line": "123",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "EXTI_RegDef_t",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_111_9"
+        "scope": "_anonymous_stm32f103c8xx_h_113_9"
       }
     ],
     "name": "",
@@ -3601,7 +3601,7 @@
     "display": "",
     "location": {
       "column": "9",
-      "line": "123",
+      "line": "125",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
@@ -3612,12 +3612,12 @@
         "display": "EVCR",
         "location": {
           "column": "17",
-          "line": "125",
+          "line": "127",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "EVCR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_123_9"
+        "scope": "_anonymous_stm32f103c8xx_h_125_9"
       },
       {
         "ID": "c:@SA@AFIO_RegDef_t@FI@MAPR",
@@ -3626,12 +3626,12 @@
         "display": "MAPR",
         "location": {
           "column": "17",
-          "line": "126",
+          "line": "128",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "MAPR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_123_9"
+        "scope": "_anonymous_stm32f103c8xx_h_125_9"
       },
       {
         "ID": "c:@SA@AFIO_RegDef_t@FI@EXTR",
@@ -3640,12 +3640,12 @@
         "display": "EXTR",
         "location": {
           "column": "17",
-          "line": "127",
+          "line": "129",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "EXTR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_123_9"
+        "scope": "_anonymous_stm32f103c8xx_h_125_9"
       },
       {
         "ID": "c:@SA@AFIO_RegDef_t@FI@MAPR2",
@@ -3654,12 +3654,12 @@
         "display": "MAPR2",
         "location": {
           "column": "17",
-          "line": "128",
+          "line": "130",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "MAPR2",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_123_9"
+        "scope": "_anonymous_stm32f103c8xx_h_125_9"
       },
       {
         "ID": "c:@T@AFIO_RegDef_t",
@@ -3668,12 +3668,12 @@
         "display": "struct AFIO_RegDef_t",
         "location": {
           "column": "2",
-          "line": "130",
+          "line": "132",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "AFIO_RegDef_t",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_123_9"
+        "scope": "_anonymous_stm32f103c8xx_h_125_9"
       }
     ],
     "name": "",
@@ -3687,7 +3687,7 @@
     "display": "",
     "location": {
       "column": "9",
-      "line": "133",
+      "line": "135",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "members": [
@@ -3698,12 +3698,12 @@
         "display": "CR1",
         "location": {
           "column": "19",
-          "line": "135",
+          "line": "137",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CR1",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       },
       {
         "ID": "c:@SA@SPI_RegDef_t@FI@CR2",
@@ -3712,12 +3712,12 @@
         "display": "CR2",
         "location": {
           "column": "19",
-          "line": "136",
+          "line": "138",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CR2",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       },
       {
         "ID": "c:@SA@SPI_RegDef_t@FI@SR",
@@ -3726,12 +3726,12 @@
         "display": "SR",
         "location": {
           "column": "19",
-          "line": "137",
+          "line": "139",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "SR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       },
       {
         "ID": "c:@SA@SPI_RegDef_t@FI@DR",
@@ -3740,12 +3740,12 @@
         "display": "DR",
         "location": {
           "column": "19",
-          "line": "138",
+          "line": "140",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "DR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       },
       {
         "ID": "c:@SA@SPI_RegDef_t@FI@CRCPR",
@@ -3754,12 +3754,12 @@
         "display": "CRCPR",
         "location": {
           "column": "19",
-          "line": "139",
+          "line": "141",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "CRCPR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       },
       {
         "ID": "c:@SA@SPI_RegDef_t@FI@RXCRCR",
@@ -3768,12 +3768,12 @@
         "display": "RXCRCR",
         "location": {
           "column": "19",
-          "line": "140",
+          "line": "142",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "RXCRCR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       },
       {
         "ID": "c:@SA@SPI_RegDef_t@FI@TXCRCR",
@@ -3782,12 +3782,12 @@
         "display": "TXCRCR",
         "location": {
           "column": "19",
-          "line": "141",
+          "line": "143",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "TXCRCR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       },
       {
         "ID": "c:@SA@SPI_RegDef_t@FI@I2SCFGR",
@@ -3796,12 +3796,12 @@
         "display": "I2SCFGR",
         "location": {
           "column": "19",
-          "line": "142",
+          "line": "144",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "I2SCFGR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       },
       {
         "ID": "c:@SA@SPI_RegDef_t@FI@I2SPR",
@@ -3810,12 +3810,12 @@
         "display": "I2SPR",
         "location": {
           "column": "19",
-          "line": "143",
+          "line": "145",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "I2SPR",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       },
       {
         "ID": "c:@T@SPI_RegDef_t",
@@ -3824,12 +3824,12 @@
         "display": "struct SPI_RegDef_t",
         "location": {
           "column": "2",
-          "line": "145",
+          "line": "147",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
         },
         "name": "SPI_RegDef_t",
         "origin": "user_include",
-        "scope": "_anonymous_stm32f103c8xx_h_133_9"
+        "scope": "_anonymous_stm32f103c8xx_h_135_9"
       }
     ],
     "name": "",
@@ -3837,13 +3837,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5022@macro@GPIOA",
+    "ID": "c:stm32f103c8xx.h@5056@macro@GPIOA",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOA",
     "location": {
       "column": "9",
-      "line": "149",
+      "line": "151",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOA",
@@ -3851,13 +3851,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5088@macro@GPIOB",
+    "ID": "c:stm32f103c8xx.h@5122@macro@GPIOB",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOB",
     "location": {
       "column": "9",
-      "line": "150",
+      "line": "152",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOB",
@@ -3865,13 +3865,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5154@macro@GPIOC",
+    "ID": "c:stm32f103c8xx.h@5188@macro@GPIOC",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOC",
     "location": {
       "column": "9",
-      "line": "151",
+      "line": "153",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOC",
@@ -3879,13 +3879,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5220@macro@GPIOD",
+    "ID": "c:stm32f103c8xx.h@5254@macro@GPIOD",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOD",
     "location": {
       "column": "9",
-      "line": "152",
+      "line": "154",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOD",
@@ -3893,13 +3893,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5286@macro@GPIOE",
+    "ID": "c:stm32f103c8xx.h@5320@macro@GPIOE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOE",
     "location": {
       "column": "9",
-      "line": "153",
+      "line": "155",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOE",
@@ -3907,13 +3907,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5352@macro@GPIOF",
+    "ID": "c:stm32f103c8xx.h@5386@macro@GPIOF",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOF",
     "location": {
       "column": "9",
-      "line": "154",
+      "line": "156",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOF",
@@ -3921,13 +3921,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5418@macro@GPIOG",
+    "ID": "c:stm32f103c8xx.h@5452@macro@GPIOG",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIOG",
     "location": {
       "column": "9",
-      "line": "155",
+      "line": "157",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIOG",
@@ -3935,13 +3935,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5486@macro@RCC",
+    "ID": "c:stm32f103c8xx.h@5520@macro@RCC",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "RCC",
     "location": {
       "column": "9",
-      "line": "157",
+      "line": "159",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "RCC",
@@ -3949,13 +3949,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5551@macro@EXTI",
+    "ID": "c:stm32f103c8xx.h@5585@macro@EXTI",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "EXTI",
     "location": {
       "column": "9",
-      "line": "159",
+      "line": "161",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "EXTI",
@@ -3963,13 +3963,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5618@macro@AIFO",
+    "ID": "c:stm32f103c8xx.h@5652@macro@AIFO",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "AIFO",
     "location": {
       "column": "9",
-      "line": "161",
+      "line": "163",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "AIFO",
@@ -3977,13 +3977,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5687@macro@SPI1",
+    "ID": "c:stm32f103c8xx.h@5721@macro@SPI1",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI1",
     "location": {
       "column": "9",
-      "line": "164",
+      "line": "166",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI1",
@@ -3991,13 +3991,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5750@macro@SPI2",
+    "ID": "c:stm32f103c8xx.h@5784@macro@SPI2",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI2",
     "location": {
       "column": "9",
-      "line": "165",
+      "line": "167",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI2",
@@ -4005,13 +4005,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5813@macro@SPI3",
+    "ID": "c:stm32f103c8xx.h@5847@macro@SPI3",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI3",
     "location": {
       "column": "9",
-      "line": "166",
+      "line": "168",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI3",
@@ -4019,13 +4019,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@5971@macro@PA_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6005@macro@PA_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PA_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "172",
+      "line": "174",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PA_PCLK_EN",
@@ -4033,13 +4033,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6083@macro@PB_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6117@macro@PB_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PB_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "174",
+      "line": "176",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PB_PCLK_EN",
@@ -4047,13 +4047,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6143@macro@PC_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6177@macro@PC_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PC_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "175",
+      "line": "177",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PC_PCLK_EN",
@@ -4061,13 +4061,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6203@macro@PD_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6237@macro@PD_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PD_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "176",
+      "line": "178",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PD_PCLK_EN",
@@ -4075,13 +4075,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6263@macro@PE_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6297@macro@PE_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PE_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "177",
+      "line": "179",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PE_PCLK_EN",
@@ -4089,13 +4089,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6323@macro@PF_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6357@macro@PF_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PF_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "178",
+      "line": "180",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PF_PCLK_EN",
@@ -4103,13 +4103,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6383@macro@PG_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6417@macro@PG_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PG_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "179",
+      "line": "181",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PG_PCLK_EN",
@@ -4117,13 +4117,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6478@macro@I2C1_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6512@macro@I2C1_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "I2C1_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "183",
+      "line": "185",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "I2C1_PCLK_EN",
@@ -4131,13 +4131,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6539@macro@I2C2_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6573@macro@I2C2_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "I2C2_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "184",
+      "line": "186",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "I2C2_PCLK_EN",
@@ -4145,13 +4145,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6637@macro@SPI1_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6671@macro@SPI1_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI1_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "189",
+      "line": "191",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI1_PCLK_EN",
@@ -4159,13 +4159,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6698@macro@SPI2_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6732@macro@SPI2_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI2_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "190",
+      "line": "192",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI2_PCLK_EN",
@@ -4173,13 +4173,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6759@macro@SPI3_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6793@macro@SPI3_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI3_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "191",
+      "line": "193",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI3_PCLK_EN",
@@ -4187,13 +4187,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6854@macro@USART1_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6888@macro@USART1_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "USART1_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "194",
+      "line": "196",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART1_PCLK_EN",
@@ -4201,13 +4201,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6915@macro@USART2_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@6949@macro@USART2_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "USART2_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "195",
+      "line": "197",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART2_PCLK_EN",
@@ -4215,13 +4215,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@6976@macro@USART3_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@7010@macro@USART3_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "USART3_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "196",
+      "line": "198",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "USART3_PCLK_EN",
@@ -4229,13 +4229,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7039@macro@UART4_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@7073@macro@UART4_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "UART4_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "198",
+      "line": "200",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "UART4_PCLK_EN",
@@ -4243,13 +4243,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7100@macro@UART5_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@7134@macro@UART5_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "UART5_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "199",
+      "line": "201",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "UART5_PCLK_EN",
@@ -4257,13 +4257,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7197@macro@AIFO_PCLK_EN",
+    "ID": "c:stm32f103c8xx.h@7231@macro@AIFO_PCLK_EN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "AIFO_PCLK_EN",
     "location": {
       "column": "9",
-      "line": "203",
+      "line": "205",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "AIFO_PCLK_EN",
@@ -4271,13 +4271,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7298@macro@PA_PCLK_DI",
+    "ID": "c:stm32f103c8xx.h@7332@macro@PA_PCLK_DI",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PA_PCLK_DI",
     "location": {
       "column": "9",
-      "line": "209",
+      "line": "211",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PA_PCLK_DI",
@@ -4285,13 +4285,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7379@macro@PA_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@7413@macro@PA_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PA_REG_RESET",
     "location": {
       "column": "9",
-      "line": "212",
+      "line": "214",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PA_REG_RESET",
@@ -4299,13 +4299,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7479@macro@PB_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@7513@macro@PB_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PB_REG_RESET",
     "location": {
       "column": "9",
-      "line": "213",
+      "line": "215",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PB_REG_RESET",
@@ -4313,13 +4313,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7579@macro@PC_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@7613@macro@PC_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PC_REG_RESET",
     "location": {
       "column": "9",
-      "line": "214",
+      "line": "216",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PC_REG_RESET",
@@ -4327,13 +4327,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7679@macro@PD_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@7713@macro@PD_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PD_REG_RESET",
     "location": {
       "column": "9",
-      "line": "215",
+      "line": "217",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PD_REG_RESET",
@@ -4341,13 +4341,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7779@macro@PE_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@7813@macro@PE_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PE_REG_RESET",
     "location": {
       "column": "9",
-      "line": "216",
+      "line": "218",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PE_REG_RESET",
@@ -4355,13 +4355,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7879@macro@PF_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@7913@macro@PF_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PF_REG_RESET",
     "location": {
       "column": "9",
-      "line": "217",
+      "line": "219",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PF_REG_RESET",
@@ -4369,13 +4369,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@7979@macro@PG_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@8013@macro@PG_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PG_REG_RESET",
     "location": {
       "column": "9",
-      "line": "218",
+      "line": "220",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "PG_REG_RESET",
@@ -4383,13 +4383,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@8107@macro@SPI1_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@8141@macro@SPI1_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI1_REG_RESET",
     "location": {
       "column": "9",
-      "line": "222",
+      "line": "224",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI1_REG_RESET",
@@ -4397,13 +4397,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@8217@macro@SPI2_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@8251@macro@SPI2_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI2_REG_RESET",
     "location": {
       "column": "9",
-      "line": "223",
+      "line": "225",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI2_REG_RESET",
@@ -4411,13 +4411,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@8320@macro@SPI3_REG_RESET",
+    "ID": "c:stm32f103c8xx.h@8354@macro@SPI3_REG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI3_REG_RESET",
     "location": {
       "column": "9",
-      "line": "224",
+      "line": "226",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI3_REG_RESET",
@@ -4425,13 +4425,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@8427@macro@GPIO_BASEADDR_TO_CODE",
+    "ID": "c:stm32f103c8xx.h@8461@macro@GPIO_BASEADDR_TO_CODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIO_BASEADDR_TO_CODE",
     "location": {
       "column": "9",
-      "line": "227",
+      "line": "229",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIO_BASEADDR_TO_CODE",
@@ -4439,13 +4439,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@8908@macro@IRQ_NO_EXTI0",
+    "ID": "c:stm32f103c8xx.h@8942@macro@IRQ_NO_EXTI0",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "IRQ_NO_EXTI0",
     "location": {
       "column": "9",
-      "line": "241",
+      "line": "243",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI0",
@@ -4453,13 +4453,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@8947@macro@IRQ_NO_EXTI1",
+    "ID": "c:stm32f103c8xx.h@8981@macro@IRQ_NO_EXTI1",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "IRQ_NO_EXTI1",
     "location": {
       "column": "9",
-      "line": "242",
+      "line": "244",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI1",
@@ -4467,13 +4467,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@8986@macro@IRQ_NO_EXTI2",
+    "ID": "c:stm32f103c8xx.h@9020@macro@IRQ_NO_EXTI2",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "IRQ_NO_EXTI2",
     "location": {
       "column": "9",
-      "line": "243",
+      "line": "245",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI2",
@@ -4481,13 +4481,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9025@macro@IRQ_NO_EXTI3",
+    "ID": "c:stm32f103c8xx.h@9059@macro@IRQ_NO_EXTI3",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "IRQ_NO_EXTI3",
     "location": {
       "column": "9",
-      "line": "244",
+      "line": "246",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI3",
@@ -4495,13 +4495,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9064@macro@IRQ_NO_EXTI4",
+    "ID": "c:stm32f103c8xx.h@9098@macro@IRQ_NO_EXTI4",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "IRQ_NO_EXTI4",
     "location": {
       "column": "9",
-      "line": "245",
+      "line": "247",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI4",
@@ -4509,13 +4509,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9104@macro@IRQ_NO_EXTI9_5",
+    "ID": "c:stm32f103c8xx.h@9138@macro@IRQ_NO_EXTI9_5",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "IRQ_NO_EXTI9_5",
     "location": {
       "column": "9",
-      "line": "246",
+      "line": "248",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI9_5",
@@ -4523,13 +4523,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9144@macro@IRQ_NO_EXTI15_10",
+    "ID": "c:stm32f103c8xx.h@9178@macro@IRQ_NO_EXTI15_10",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "IRQ_NO_EXTI15_10",
     "location": {
       "column": "9",
-      "line": "247",
+      "line": "249",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "IRQ_NO_EXTI15_10",
@@ -4537,13 +4537,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9214@macro@ENABLE",
+    "ID": "c:stm32f103c8xx.h@9248@macro@ENABLE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "ENABLE",
     "location": {
       "column": "9",
-      "line": "252",
+      "line": "254",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "ENABLE",
@@ -4551,13 +4551,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9257@macro@DISABLE",
+    "ID": "c:stm32f103c8xx.h@9291@macro@DISABLE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "DISABLE",
     "location": {
       "column": "9",
-      "line": "253",
+      "line": "255",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "DISABLE",
@@ -4565,13 +4565,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9300@macro@SET",
+    "ID": "c:stm32f103c8xx.h@9334@macro@SET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SET",
     "location": {
       "column": "9",
-      "line": "254",
+      "line": "256",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SET",
@@ -4579,13 +4579,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9348@macro@RESET",
+    "ID": "c:stm32f103c8xx.h@9382@macro@RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "RESET",
     "location": {
       "column": "9",
-      "line": "255",
+      "line": "257",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "RESET",
@@ -4593,13 +4593,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9397@macro@GPIO_PIN_SET",
+    "ID": "c:stm32f103c8xx.h@9431@macro@GPIO_PIN_SET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIO_PIN_SET",
     "location": {
       "column": "9",
-      "line": "256",
+      "line": "258",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIO_PIN_SET",
@@ -4607,13 +4607,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9445@macro@GPIO_PIN_RESET",
+    "ID": "c:stm32f103c8xx.h@9479@macro@GPIO_PIN_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GPIO_PIN_RESET",
     "location": {
       "column": "9",
-      "line": "257",
+      "line": "259",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "GPIO_PIN_RESET",
@@ -4621,13 +4621,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9494@macro@FLAG_RESET",
+    "ID": "c:stm32f103c8xx.h@9528@macro@FLAG_RESET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "FLAG_RESET",
     "location": {
       "column": "9",
-      "line": "258",
+      "line": "260",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "FLAG_RESET",
@@ -4635,13 +4635,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9541@macro@FLAG_SET",
+    "ID": "c:stm32f103c8xx.h@9575@macro@FLAG_SET",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "FLAG_SET",
     "location": {
       "column": "9",
-      "line": "259",
+      "line": "261",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "FLAG_SET",
@@ -4649,13 +4649,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9644@macro@SPI_CR1_CHPA",
+    "ID": "c:stm32f103c8xx.h@9678@macro@SPI_CR1_CHPA",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_CHPA",
     "location": {
       "column": "9",
-      "line": "263",
+      "line": "265",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_CHPA",
@@ -4663,13 +4663,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9687@macro@SPI_CR1_CPOL",
+    "ID": "c:stm32f103c8xx.h@9721@macro@SPI_CR1_CPOL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_CPOL",
     "location": {
       "column": "9",
-      "line": "264",
+      "line": "266",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_CPOL",
@@ -4677,13 +4677,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9730@macro@SPI_CR1_MSTR",
+    "ID": "c:stm32f103c8xx.h@9764@macro@SPI_CR1_MSTR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_MSTR",
     "location": {
       "column": "9",
-      "line": "265",
+      "line": "267",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_MSTR",
@@ -4691,13 +4691,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9773@macro@SPI_CR1_BR",
+    "ID": "c:stm32f103c8xx.h@9807@macro@SPI_CR1_BR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_BR",
     "location": {
       "column": "9",
-      "line": "266",
+      "line": "268",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_BR",
@@ -4705,13 +4705,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9816@macro@SPI_CR1_SPE",
+    "ID": "c:stm32f103c8xx.h@9850@macro@SPI_CR1_SPE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_SPE",
     "location": {
       "column": "9",
-      "line": "267",
+      "line": "269",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_SPE",
@@ -4719,13 +4719,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9859@macro@SPI_CR1_LSBFIRST",
+    "ID": "c:stm32f103c8xx.h@9893@macro@SPI_CR1_LSBFIRST",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_LSBFIRST",
     "location": {
       "column": "9",
-      "line": "268",
+      "line": "270",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_LSBFIRST",
@@ -4733,13 +4733,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9902@macro@SPI_CR1_SSI",
+    "ID": "c:stm32f103c8xx.h@9936@macro@SPI_CR1_SSI",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_SSI",
     "location": {
       "column": "9",
-      "line": "269",
+      "line": "271",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_SSI",
@@ -4747,13 +4747,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9945@macro@SPI_CR1_SSM",
+    "ID": "c:stm32f103c8xx.h@9979@macro@SPI_CR1_SSM",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_SSM",
     "location": {
       "column": "9",
-      "line": "270",
+      "line": "272",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_SSM",
@@ -4761,13 +4761,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@9988@macro@SPI_CR1_RXONLY",
+    "ID": "c:stm32f103c8xx.h@10022@macro@SPI_CR1_RXONLY",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_RXONLY",
     "location": {
       "column": "9",
-      "line": "271",
+      "line": "273",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_RXONLY",
@@ -4775,13 +4775,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10032@macro@SPI_CR1_DFF",
+    "ID": "c:stm32f103c8xx.h@10066@macro@SPI_CR1_DFF",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_DFF",
     "location": {
       "column": "9",
-      "line": "272",
+      "line": "274",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_DFF",
@@ -4789,13 +4789,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10076@macro@SPI_CR1_CRCNEXT",
+    "ID": "c:stm32f103c8xx.h@10110@macro@SPI_CR1_CRCNEXT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_CRCNEXT",
     "location": {
       "column": "9",
-      "line": "273",
+      "line": "275",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_CRCNEXT",
@@ -4803,13 +4803,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10120@macro@SPI_CR1_CRCEN",
+    "ID": "c:stm32f103c8xx.h@10154@macro@SPI_CR1_CRCEN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_CRCEN",
     "location": {
       "column": "9",
-      "line": "274",
+      "line": "276",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_CRCEN",
@@ -4817,13 +4817,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10164@macro@SPI_CR1_BIDIOE",
+    "ID": "c:stm32f103c8xx.h@10198@macro@SPI_CR1_BIDIOE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_BIDIOE",
     "location": {
       "column": "9",
-      "line": "275",
+      "line": "277",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_BIDIOE",
@@ -4831,13 +4831,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10208@macro@SPI_CR1_BIDIMODE",
+    "ID": "c:stm32f103c8xx.h@10242@macro@SPI_CR1_BIDIMODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR1_BIDIMODE",
     "location": {
       "column": "9",
-      "line": "276",
+      "line": "278",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR1_BIDIMODE",
@@ -4845,13 +4845,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10307@macro@SPI_CR2_RXDMAEN",
+    "ID": "c:stm32f103c8xx.h@10341@macro@SPI_CR2_RXDMAEN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR2_RXDMAEN",
     "location": {
       "column": "9",
-      "line": "279",
+      "line": "281",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_RXDMAEN",
@@ -4859,13 +4859,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10350@macro@SPI_CR2_TXDMAEN",
+    "ID": "c:stm32f103c8xx.h@10384@macro@SPI_CR2_TXDMAEN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR2_TXDMAEN",
     "location": {
       "column": "9",
-      "line": "280",
+      "line": "282",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_TXDMAEN",
@@ -4873,13 +4873,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10393@macro@SPI_CR2_SSOE",
+    "ID": "c:stm32f103c8xx.h@10427@macro@SPI_CR2_SSOE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR2_SSOE",
     "location": {
       "column": "9",
-      "line": "281",
+      "line": "283",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_SSOE",
@@ -4887,13 +4887,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10436@macro@SPI_CR2_ERRIE",
+    "ID": "c:stm32f103c8xx.h@10470@macro@SPI_CR2_ERRIE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR2_ERRIE",
     "location": {
       "column": "9",
-      "line": "282",
+      "line": "284",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_ERRIE",
@@ -4901,13 +4901,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10479@macro@SPI_CR2_RXNEIE",
+    "ID": "c:stm32f103c8xx.h@10513@macro@SPI_CR2_RXNEIE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR2_RXNEIE",
     "location": {
       "column": "9",
-      "line": "283",
+      "line": "285",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_RXNEIE",
@@ -4915,13 +4915,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10522@macro@SPI_CR2_TXNEIE",
+    "ID": "c:stm32f103c8xx.h@10556@macro@SPI_CR2_TXNEIE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CR2_TXNEIE",
     "location": {
       "column": "9",
-      "line": "284",
+      "line": "286",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_CR2_TXNEIE",
@@ -4929,13 +4929,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10613@macro@SPI_SR_RXNE",
+    "ID": "c:stm32f103c8xx.h@10647@macro@SPI_SR_RXNE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SR_RXNE",
     "location": {
       "column": "9",
-      "line": "287",
+      "line": "289",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_RXNE",
@@ -4943,13 +4943,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10656@macro@SPI_SR_TXE",
+    "ID": "c:stm32f103c8xx.h@10690@macro@SPI_SR_TXE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SR_TXE",
     "location": {
       "column": "9",
-      "line": "288",
+      "line": "290",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_TXE",
@@ -4957,13 +4957,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10699@macro@SPI_SR_CHSIDE",
+    "ID": "c:stm32f103c8xx.h@10733@macro@SPI_SR_CHSIDE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SR_CHSIDE",
     "location": {
       "column": "9",
-      "line": "289",
+      "line": "291",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_CHSIDE",
@@ -4971,13 +4971,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10742@macro@SPI_SR_UDR",
+    "ID": "c:stm32f103c8xx.h@10776@macro@SPI_SR_UDR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SR_UDR",
     "location": {
       "column": "9",
-      "line": "290",
+      "line": "292",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_UDR",
@@ -4985,13 +4985,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10785@macro@SPI_SR_CRCERR",
+    "ID": "c:stm32f103c8xx.h@10819@macro@SPI_SR_CRCERR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SR_CRCERR",
     "location": {
       "column": "9",
-      "line": "291",
+      "line": "293",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_CRCERR",
@@ -4999,13 +4999,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10828@macro@SPI_SR_MODF",
+    "ID": "c:stm32f103c8xx.h@10862@macro@SPI_SR_MODF",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SR_MODF",
     "location": {
       "column": "9",
-      "line": "292",
+      "line": "294",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_MODF",
@@ -5013,13 +5013,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10871@macro@SPI_SR_OVR",
+    "ID": "c:stm32f103c8xx.h@10905@macro@SPI_SR_OVR",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SR_OVR",
     "location": {
       "column": "9",
-      "line": "293",
+      "line": "295",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_OVR",
@@ -5027,395 +5027,17 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h@10914@macro@SPI_SR_BSY",
+    "ID": "c:stm32f103c8xx.h@10948@macro@SPI_SR_BSY",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SR_BSY",
     "location": {
       "column": "9",
-      "line": "294",
+      "line": "296",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8xx.h"
     },
     "name": "SPI_SR_BSY",
     "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@1169@macro@_DLIB_DEFAULTS_H",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_DEFAULTS_H",
-    "location": {
-      "column": "9",
-      "line": "31",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_DEFAULTS_H",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@3035@macro@_DLIB_FILE_DESCRIPTOR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_FILE_DESCRIPTOR",
-    "location": {
-      "column": "11",
-      "line": "85",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_FILE_DESCRIPTOR",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@3448@macro@_DLIB_STDOUT_USES_STATIC_BUFFER",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_STDOUT_USES_STATIC_BUFFER",
-    "location": {
-      "column": "11",
-      "line": "100",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_STDOUT_USES_STATIC_BUFFER",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@4471@macro@_DLIB_FULL_LOCALE_SUPPORT",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_FULL_LOCALE_SUPPORT",
-    "location": {
-      "column": "11",
-      "line": "127",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_FULL_LOCALE_SUPPORT",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@4649@macro@_DLIB_LOCALE_TABLE_MEMORY",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_LOCALE_TABLE_MEMORY",
-    "location": {
-      "column": "11",
-      "line": "135",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_LOCALE_TABLE_MEMORY",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@5493@macro@_DLIB_FORMATTED_MULTIBYTE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_FORMATTED_MULTIBYTE",
-    "location": {
-      "column": "11",
-      "line": "165",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_FORMATTED_MULTIBYTE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@6974@macro@_DLIB_PRINTF_MULTIBYTE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_PRINTF_MULTIBYTE",
-    "location": {
-      "column": "11",
-      "line": "213",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_PRINTF_MULTIBYTE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@7889@macro@_DLIB_PRINTF_INT_TYPE_IS_INT",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_PRINTF_INT_TYPE_IS_INT",
-    "location": {
-      "column": "11",
-      "line": "238",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_PRINTF_INT_TYPE_IS_INT",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@8492@macro@_DLIB_PRINTF_INT_TYPE_IS_LONG",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_PRINTF_INT_TYPE_IS_LONG",
-    "location": {
-      "column": "11",
-      "line": "255",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_PRINTF_INT_TYPE_IS_LONG",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@9338@macro@_DLIB_PRINTF_CHAR_BY_CHAR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_PRINTF_CHAR_BY_CHAR",
-    "location": {
-      "column": "11",
-      "line": "277",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_PRINTF_CHAR_BY_CHAR",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@10025@macro@_DLIB_SCANF_MULTIBYTE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_SCANF_MULTIBYTE",
-    "location": {
-      "column": "11",
-      "line": "301",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_SCANF_MULTIBYTE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@10673@macro@_DLIB_STRFTIME_MULTIBYTE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_STRFTIME_MULTIBYTE",
-    "location": {
-      "column": "11",
-      "line": "321",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_STRFTIME_MULTIBYTE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@11257@macro@_DLIB_QSORT_USE_BUBBLE_SORT",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_QSORT_USE_BUBBLE_SORT",
-    "location": {
-      "column": "11",
-      "line": "340",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_QSORT_USE_BUBBLE_SORT",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@11840@macro@_DLIB_RAND_USE_SIMPLE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_RAND_USE_SIMPLE",
-    "location": {
-      "column": "11",
-      "line": "365",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_RAND_USE_SIMPLE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@12026@macro@_DLIB_DEBUG_BREAK_FUNCTION_ATTRIBUTE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_DEBUG_BREAK_FUNCTION_ATTRIBUTE",
-    "location": {
-      "column": "11",
-      "line": "374",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_DEBUG_BREAK_FUNCTION_ATTRIBUTE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@12745@macro@_DLIB_DATA_ATTR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_DATA_ATTR",
-    "location": {
-      "column": "11",
-      "line": "390",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_DATA_ATTR",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@12836@macro@_DLIB_CONST_ATTR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_CONST_ATTR",
-    "location": {
-      "column": "13",
-      "line": "395",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_CONST_ATTR",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@13453@macro@_DLIB_MBSTATET_USES_UNSIGNED_LONG",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_MBSTATET_USES_UNSIGNED_LONG",
-    "location": {
-      "column": "15",
-      "line": "421",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_MBSTATET_USES_UNSIGNED_LONG",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@13636@macro@_DLIB_TIME_USES_LONG",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_TIME_USES_LONG",
-    "location": {
-      "column": "15",
-      "line": "429",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_TIME_USES_LONG",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@14183@macro@_DLIB_AEABI_DIFUNC_CONTAINS_OFFSETS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_AEABI_DIFUNC_CONTAINS_OFFSETS",
-    "location": {
-      "column": "13",
-      "line": "443",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_AEABI_DIFUNC_CONTAINS_OFFSETS",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@14573@macro@_DLIB_ONLY_USE_CXA_FUNCTIONS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ONLY_USE_CXA_FUNCTIONS",
-    "location": {
-      "column": "13",
-      "line": "458",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_ONLY_USE_CXA_FUNCTIONS",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@15142@macro@_DLIB_FAST_FMA",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_FAST_FMA",
-    "location": {
-      "column": "11",
-      "line": "485",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_FAST_FMA",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@16042@macro@_DLIB_INCLUDE_DLMALLOC_ALTERNATIVE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_INCLUDE_DLMALLOC_ALTERNATIVE",
-    "location": {
-      "column": "13",
-      "line": "515",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_INCLUDE_DLMALLOC_ALTERNATIVE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@16406@macro@_DLIB_TIME_ALLOW_64",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_TIME_ALLOW_64",
-    "location": {
-      "column": "13",
-      "line": "537",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_TIME_ALLOW_64",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@16880@macro@_DLIB_ALLOW_LARGE_CONSTANT_TABLES_FOR_MATH",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ALLOW_LARGE_CONSTANT_TABLES_FOR_MATH",
-    "location": {
-      "column": "11",
-      "line": "562",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "_DLIB_ALLOW_LARGE_CONSTANT_TABLES_FOR_MATH",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@17280@macro@__WEAK",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__WEAK",
-    "location": {
-      "column": "11",
-      "line": "579",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "__WEAK",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Defaults.h@17335@macro@__WEAK_DEFS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__WEAK_DEFS",
-    "location": {
-      "column": "11",
-      "line": "580",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
-    },
-    "name": "__WEAK_DEFS",
-    "origin": "system_include",
     "scope": null
   },
   {
@@ -5801,13 +5423,41 @@
     "scope": null
   },
   {
+    "ID": "c:@F@SPI_SSOEConfig",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SPI_SSOEConfig(SPI_RegDef_t *, uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "53",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+    },
+    "name": "SPI_SSOEConfig",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_SSOEConfig",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SPI_SSOEConfig(SPI_RegDef_t *, uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "53",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+    },
+    "name": "SPI_SSOEConfig",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
     "ID": "c:@F@SPI_PeriControl",
     "What": "Function",
     "defdec": "Dec",
     "display": "void SPI_PeriControl(SPI_RegDef_t *, uint8_t)",
     "location": {
       "column": "6",
-      "line": "53",
+      "line": "54",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_PeriControl",
@@ -5821,7 +5471,7 @@
     "display": "void SPI_PeriControl(SPI_RegDef_t *, uint8_t)",
     "location": {
       "column": "6",
-      "line": "53",
+      "line": "54",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_PeriControl",
@@ -5829,13 +5479,41 @@
     "scope": null
   },
   {
+    "ID": "c:@F@SPI_GetFlagStatus",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "uint8_t SPI_GetFlagStatus(SPI_RegDef_t *, uint32_t)",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+    },
+    "name": "SPI_GetFlagStatus",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_GetFlagStatus",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "uint8_t SPI_GetFlagStatus(SPI_RegDef_t *, uint32_t)",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+    },
+    "name": "SPI_GetFlagStatus",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
     "ID": "c:@F@SPI_IRQInterruptConf",
     "What": "Function",
     "defdec": "Dec",
     "display": "void SPI_IRQInterruptConf(uint8_t, uint8_t)",
     "location": {
       "column": "6",
-      "line": "61",
+      "line": "64",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQInterruptConf",
@@ -5849,7 +5527,7 @@
     "display": "void SPI_IRQInterruptConf(uint8_t, uint8_t)",
     "location": {
       "column": "6",
-      "line": "61",
+      "line": "64",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQInterruptConf",
@@ -5863,7 +5541,7 @@
     "display": "void SPI_IRQHandling(SPI_Handle_t *)",
     "location": {
       "column": "6",
-      "line": "62",
+      "line": "65",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQHandling",
@@ -5877,7 +5555,7 @@
     "display": "void SPI_IRQHandling(SPI_Handle_t *)",
     "location": {
       "column": "6",
-      "line": "62",
+      "line": "65",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQHandling",
@@ -5891,7 +5569,7 @@
     "display": "void SPI_IRQPriorityConfig(uint8_t, uint8_t)",
     "location": {
       "column": "6",
-      "line": "63",
+      "line": "66",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQPriorityConfig",
@@ -5905,7 +5583,7 @@
     "display": "void SPI_IRQPriorityConfig(uint8_t, uint8_t)",
     "location": {
       "column": "6",
-      "line": "63",
+      "line": "66",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_IRQPriorityConfig",
@@ -5913,13 +5591,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@1618@macro@SPI_MODE_MASTER",
+    "ID": "c:stm32f103c8_SPI.h@1747@macro@SPI_MODE_MASTER",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_MODE_MASTER",
     "location": {
       "column": "9",
-      "line": "71",
+      "line": "74",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_MODE_MASTER",
@@ -5927,13 +5605,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@1661@macro@SPI_MODE_SLAVE",
+    "ID": "c:stm32f103c8_SPI.h@1790@macro@SPI_MODE_SLAVE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_MODE_SLAVE",
     "location": {
       "column": "9",
-      "line": "72",
+      "line": "75",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_MODE_SLAVE",
@@ -5941,13 +5619,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@1783@macro@SPI_BUS_FD",
+    "ID": "c:stm32f103c8_SPI.h@1912@macro@SPI_BUS_FD",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_BUS_FD",
     "location": {
       "column": "9",
-      "line": "76",
+      "line": "79",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUS_FD",
@@ -5955,13 +5633,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@1826@macro@SPI_BUS_HD",
+    "ID": "c:stm32f103c8_SPI.h@1955@macro@SPI_BUS_HD",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_BUS_HD",
     "location": {
       "column": "9",
-      "line": "77",
+      "line": "80",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUS_HD",
@@ -5969,13 +5647,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@1869@macro@SPI_BUS_SIMPLEX_TX",
+    "ID": "c:stm32f103c8_SPI.h@1998@macro@SPI_BUS_SIMPLEX_TX",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_BUS_SIMPLEX_TX",
     "location": {
       "column": "9",
-      "line": "78",
+      "line": "81",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUS_SIMPLEX_TX",
@@ -5983,13 +5661,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@1912@macro@SPI_BUS_SIMPLEX_RX",
+    "ID": "c:stm32f103c8_SPI.h@2041@macro@SPI_BUS_SIMPLEX_RX",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_BUS_SIMPLEX_RX",
     "location": {
       "column": "9",
-      "line": "79",
+      "line": "82",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUS_SIMPLEX_RX",
@@ -5997,13 +5675,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2004@macro@SPI_SCLK_SPEED_DIV2",
+    "ID": "c:stm32f103c8_SPI.h@2133@macro@SPI_SCLK_SPEED_DIV2",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SCLK_SPEED_DIV2",
     "location": {
       "column": "9",
-      "line": "83",
+      "line": "86",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV2",
@@ -6011,13 +5689,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2047@macro@SPI_SCLK_SPEED_DIV4",
+    "ID": "c:stm32f103c8_SPI.h@2176@macro@SPI_SCLK_SPEED_DIV4",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SCLK_SPEED_DIV4",
     "location": {
       "column": "9",
-      "line": "84",
+      "line": "87",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV4",
@@ -6025,13 +5703,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2090@macro@SPI_SCLK_SPEED_DIV8",
+    "ID": "c:stm32f103c8_SPI.h@2219@macro@SPI_SCLK_SPEED_DIV8",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SCLK_SPEED_DIV8",
     "location": {
       "column": "9",
-      "line": "85",
+      "line": "88",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV8",
@@ -6039,13 +5717,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2133@macro@SPI_SCLK_SPEED_DIV16",
+    "ID": "c:stm32f103c8_SPI.h@2262@macro@SPI_SCLK_SPEED_DIV16",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SCLK_SPEED_DIV16",
     "location": {
       "column": "9",
-      "line": "86",
+      "line": "89",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV16",
@@ -6053,13 +5731,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2176@macro@SPI_SCLK_SPEED_DIV32",
+    "ID": "c:stm32f103c8_SPI.h@2305@macro@SPI_SCLK_SPEED_DIV32",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SCLK_SPEED_DIV32",
     "location": {
       "column": "9",
-      "line": "87",
+      "line": "90",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV32",
@@ -6067,13 +5745,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2219@macro@SPI_SCLK_SPEED_DIV64",
+    "ID": "c:stm32f103c8_SPI.h@2348@macro@SPI_SCLK_SPEED_DIV64",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SCLK_SPEED_DIV64",
     "location": {
       "column": "9",
-      "line": "88",
+      "line": "91",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV64",
@@ -6081,13 +5759,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2262@macro@SPI_SCLK_SPEED_DIV128",
+    "ID": "c:stm32f103c8_SPI.h@2391@macro@SPI_SCLK_SPEED_DIV128",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SCLK_SPEED_DIV128",
     "location": {
       "column": "9",
-      "line": "89",
+      "line": "92",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV128",
@@ -6095,13 +5773,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2305@macro@SPI_SCLK_SPEED_DIV256",
+    "ID": "c:stm32f103c8_SPI.h@2434@macro@SPI_SCLK_SPEED_DIV256",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SCLK_SPEED_DIV256",
     "location": {
       "column": "9",
-      "line": "90",
+      "line": "93",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SCLK_SPEED_DIV256",
@@ -6109,13 +5787,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2381@macro@SPI_DFF_8",
+    "ID": "c:stm32f103c8_SPI.h@2510@macro@SPI_DFF_8",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_DFF_8",
     "location": {
       "column": "9",
-      "line": "94",
+      "line": "97",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_DFF_8",
@@ -6123,13 +5801,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2424@macro@SPI_DFF_16",
+    "ID": "c:stm32f103c8_SPI.h@2553@macro@SPI_DFF_16",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_DFF_16",
     "location": {
       "column": "9",
-      "line": "95",
+      "line": "98",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_DFF_16",
@@ -6137,13 +5815,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2477@macro@SPI_CPOL_HIGH",
+    "ID": "c:stm32f103c8_SPI.h@2606@macro@SPI_CPOL_HIGH",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CPOL_HIGH",
     "location": {
       "column": "9",
-      "line": "98",
+      "line": "101",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_CPOL_HIGH",
@@ -6151,13 +5829,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2520@macro@SPI_CPOL_LOW",
+    "ID": "c:stm32f103c8_SPI.h@2649@macro@SPI_CPOL_LOW",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CPOL_LOW",
     "location": {
       "column": "9",
-      "line": "99",
+      "line": "102",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_CPOL_LOW",
@@ -6165,13 +5843,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2573@macro@SPI_CPHA_HIGH",
+    "ID": "c:stm32f103c8_SPI.h@2702@macro@SPI_CPHA_HIGH",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CPHA_HIGH",
     "location": {
       "column": "9",
-      "line": "102",
+      "line": "105",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_CPHA_HIGH",
@@ -6179,13 +5857,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2616@macro@SPI_CPHA_LOW",
+    "ID": "c:stm32f103c8_SPI.h@2745@macro@SPI_CPHA_LOW",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_CPHA_LOW",
     "location": {
       "column": "9",
-      "line": "103",
+      "line": "106",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_CPHA_LOW",
@@ -6193,13 +5871,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2710@macro@SPI_SSM_SW",
+    "ID": "c:stm32f103c8_SPI.h@2839@macro@SPI_SSM_SW",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SSM_SW",
     "location": {
       "column": "9",
-      "line": "106",
+      "line": "109",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SSM_SW",
@@ -6207,13 +5885,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2753@macro@SPI_SSM_HW",
+    "ID": "c:stm32f103c8_SPI.h@2882@macro@SPI_SSM_HW",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_SSM_HW",
     "location": {
       "column": "9",
-      "line": "107",
+      "line": "110",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_SSM_HW",
@@ -6221,13 +5899,41 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2802@macro@SPI_TXE_FLAG",
+    "ID": "c:stm32f103c8_SPI.h@2951@macro@SPI_SSM_EN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPI_SSM_EN",
+    "location": {
+      "column": "9",
+      "line": "116",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+    },
+    "name": "SPI_SSM_EN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32f103c8_SPI.h@2977@macro@SPI_SSM_DI",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPI_SSM_DI",
+    "location": {
+      "column": "9",
+      "line": "117",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
+    },
+    "name": "SPI_SSM_DI",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32f103c8_SPI.h@3009@macro@SPI_TXE_FLAG",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_TXE_FLAG",
     "location": {
       "column": "9",
-      "line": "111",
+      "line": "121",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_TXE_FLAG",
@@ -6235,13 +5941,13 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2859@macro@SPI_RXNE_FLAG",
+    "ID": "c:stm32f103c8_SPI.h@3066@macro@SPI_RXNE_FLAG",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_RXNE_FLAG",
     "location": {
       "column": "9",
-      "line": "112",
+      "line": "122",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_RXNE_FLAG",
@@ -6249,17 +5955,955 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8_SPI.h@2916@macro@SPI_BUSY_FLAG",
+    "ID": "c:stm32f103c8_SPI.h@3123@macro@SPI_BUSY_FLAG",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SPI_BUSY_FLAG",
     "location": {
       "column": "9",
-      "line": "113",
+      "line": "123",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Inc\\stm32f103c8_SPI.h"
     },
     "name": "SPI_BUSY_FLAG",
     "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@75@macro@_DLIB_PRODUCTS_H_",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRODUCTS_H_",
+    "location": {
+      "column": "9",
+      "line": "4",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_PRODUCTS_H_",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@524@macro@_DLIB_WIDE_CHARACTERS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_WIDE_CHARACTERS",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_WIDE_CHARACTERS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@680@macro@_DLIB_PRODUCT_STRING",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRODUCT_STRING",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_PRODUCT_STRING",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@831@macro@_DLIB_PRODUCT_FENV",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRODUCT_FENV",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_PRODUCT_FENV",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@984@macro@_DLIB_PRODUCT_STDLIB",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRODUCT_STDLIB",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_PRODUCT_STDLIB",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1095@macro@_DLIB_QSORT_BUF_SIZE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_QSORT_BUF_SIZE",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_QSORT_BUF_SIZE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1270@macro@_DLIB_SUPPORT_FOR_AEABI",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_SUPPORT_FOR_AEABI",
+    "location": {
+      "column": "9",
+      "line": "46",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_SUPPORT_FOR_AEABI",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1353@macro@_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "location": {
+      "column": "9",
+      "line": "49",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1479@macro@_DLIB_STRTOD_HEX_FLOAT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_STRTOD_HEX_FLOAT",
+    "location": {
+      "column": "9",
+      "line": "53",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_STRTOD_HEX_FLOAT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1833@macro@_USE_ATOMIC_OPS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_USE_ATOMIC_OPS",
+    "location": {
+      "column": "11",
+      "line": "65",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_USE_ATOMIC_OPS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1992@macro@__SOFTFP",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__SOFTFP",
+    "location": {
+      "column": "11",
+      "line": "70",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "__SOFTFP",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2116@macro@__NO_SCRATCH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__NO_SCRATCH",
+    "location": {
+      "column": "9",
+      "line": "74",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "__NO_SCRATCH",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2240@macro@_DLIB_SPEEDY_FLOATS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_SPEEDY_FLOATS",
+    "location": {
+      "column": "9",
+      "line": "77",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_SPEEDY_FLOATS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2301@macro@_DLIB_TIME_USES_64_DEFAULT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_TIME_USES_64_DEFAULT",
+    "location": {
+      "column": "9",
+      "line": "80",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_TIME_USES_64_DEFAULT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2414@macro@_DLIB_ELF_INIT_STATIC_BASE_DECLARATION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_STATIC_BASE_DECLARATION",
+    "location": {
+      "column": "11",
+      "line": "84",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_STATIC_BASE_DECLARATION",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2498@macro@_DLIB_ELF_INIT_STATIC_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_STATIC_BASE",
+    "location": {
+      "column": "11",
+      "line": "85",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_STATIC_BASE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2545@macro@_DLIB_ELF_INIT_FUNCTION_ATTRIBUTES",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_FUNCTION_ATTRIBUTES",
+    "location": {
+      "column": "11",
+      "line": "86",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_FUNCTION_ATTRIBUTES",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2905@macro@_DLIB_ELF_INIT_TABLE_MEMORY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_TABLE_MEMORY",
+    "location": {
+      "column": "9",
+      "line": "96",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_TABLE_MEMORY",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2955@macro@_DLIB_ELF_INIT_SOURCE_MEMORY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_SOURCE_MEMORY",
+    "location": {
+      "column": "9",
+      "line": "97",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_SOURCE_MEMORY",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3005@macro@_DLIB_ELF_INIT_DESTINATION_MEMORY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_DESTINATION_MEMORY",
+    "location": {
+      "column": "9",
+      "line": "98",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_DESTINATION_MEMORY",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3153@macro@_DLIB_ELF_INIT_USE_RELATIVE_ROM_ADDRESSES",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_USE_RELATIVE_ROM_ADDRESSES",
+    "location": {
+      "column": "11",
+      "line": "103",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_USE_RELATIVE_ROM_ADDRESSES",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3214@macro@_DLIB_ELF_INIT_REGION_COUNT_TYPE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_REGION_COUNT_TYPE",
+    "location": {
+      "column": "9",
+      "line": "105",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_REGION_COUNT_TYPE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3266@macro@_DLIB_ELF_INIT_MODULE_ATTRIBUTES",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_MODULE_ATTRIBUTES",
+    "location": {
+      "column": "9",
+      "line": "106",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_MODULE_ATTRIBUTES",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3458@macro@_DLIB_ELF_INIT_INTERFACE_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_INTERFACE_VERSION",
+    "location": {
+      "column": "9",
+      "line": "110",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_INTERFACE_VERSION",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3504@macro@_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "location": {
+      "column": "9",
+      "line": "112",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3556@macro@_XMATHWRAPPERS_DEF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_XMATHWRAPPERS_DEF",
+    "location": {
+      "column": "9",
+      "line": "114",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_XMATHWRAPPERS_DEF",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3605@macro@_CPPINIT_ATTR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_CPPINIT_ATTR",
+    "location": {
+      "column": "9",
+      "line": "116",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_CPPINIT_ATTR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_PeriClockControl",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_PeriClockControl(SPI_RegDef_t *, uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "18",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_PeriClockControl",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_Init(SPI_Handle_t *)",
+    "location": {
+      "column": "6",
+      "line": "61",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32f103c8_SPI.c@1469@F@SPI_Init@tempreg",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "tempreg",
+    "location": {
+      "column": "14",
+      "line": "68",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "tempreg",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_DeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_DeInit(SPI_RegDef_t *)",
+    "location": {
+      "column": "6",
+      "line": "145",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_DeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_GetFlagStatus",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "uint8_t SPI_GetFlagStatus(SPI_RegDef_t *, uint32_t)",
+    "location": {
+      "column": "9",
+      "line": "165",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_GetFlagStatus",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_SendData",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_SendData(SPI_RegDef_t *, uint8_t *, uint32_t)",
+    "location": {
+      "column": "6",
+      "line": "194",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_SendData",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_ReceiveData",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_ReceiveData(SPI_RegDef_t *, uint8_t *, uint32_t)",
+    "location": {
+      "column": "6",
+      "line": "243",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_ReceiveData",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_PeriControl",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_PeriControl(SPI_RegDef_t *, uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "250",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_PeriControl",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_SSIConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_SSIConfig(SPI_RegDef_t *, uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "279",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_SSIConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_SSOEConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_SSOEConfig(SPI_RegDef_t *, uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "307",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_SSOEConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_IRQInterruptConf",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_IRQInterruptConf(uint8_t, uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "334",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_IRQInterruptConf",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_IRQPriorityConfig",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_IRQPriorityConfig(uint8_t, uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "356",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_IRQPriorityConfig",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SPI_IRQHandling",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SPI_IRQHandling(SPI_Handle_t *)",
+    "location": {
+      "column": "6",
+      "line": "381",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
+    },
+    "name": "SPI_IRQHandling",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@1169@macro@_DLIB_DEFAULTS_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_DEFAULTS_H",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_DEFAULTS_H",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@3035@macro@_DLIB_FILE_DESCRIPTOR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_FILE_DESCRIPTOR",
+    "location": {
+      "column": "11",
+      "line": "85",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_FILE_DESCRIPTOR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@3448@macro@_DLIB_STDOUT_USES_STATIC_BUFFER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_STDOUT_USES_STATIC_BUFFER",
+    "location": {
+      "column": "11",
+      "line": "100",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_STDOUT_USES_STATIC_BUFFER",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@4471@macro@_DLIB_FULL_LOCALE_SUPPORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_FULL_LOCALE_SUPPORT",
+    "location": {
+      "column": "11",
+      "line": "127",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_FULL_LOCALE_SUPPORT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@4649@macro@_DLIB_LOCALE_TABLE_MEMORY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_LOCALE_TABLE_MEMORY",
+    "location": {
+      "column": "11",
+      "line": "135",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_LOCALE_TABLE_MEMORY",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@5493@macro@_DLIB_FORMATTED_MULTIBYTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_FORMATTED_MULTIBYTE",
+    "location": {
+      "column": "11",
+      "line": "165",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_FORMATTED_MULTIBYTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@6974@macro@_DLIB_PRINTF_MULTIBYTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRINTF_MULTIBYTE",
+    "location": {
+      "column": "11",
+      "line": "213",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_PRINTF_MULTIBYTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@7889@macro@_DLIB_PRINTF_INT_TYPE_IS_INT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRINTF_INT_TYPE_IS_INT",
+    "location": {
+      "column": "11",
+      "line": "238",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_PRINTF_INT_TYPE_IS_INT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@8492@macro@_DLIB_PRINTF_INT_TYPE_IS_LONG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRINTF_INT_TYPE_IS_LONG",
+    "location": {
+      "column": "11",
+      "line": "255",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_PRINTF_INT_TYPE_IS_LONG",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@9338@macro@_DLIB_PRINTF_CHAR_BY_CHAR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRINTF_CHAR_BY_CHAR",
+    "location": {
+      "column": "11",
+      "line": "277",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_PRINTF_CHAR_BY_CHAR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@10025@macro@_DLIB_SCANF_MULTIBYTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_SCANF_MULTIBYTE",
+    "location": {
+      "column": "11",
+      "line": "301",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_SCANF_MULTIBYTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@10673@macro@_DLIB_STRFTIME_MULTIBYTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_STRFTIME_MULTIBYTE",
+    "location": {
+      "column": "11",
+      "line": "321",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_STRFTIME_MULTIBYTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@11257@macro@_DLIB_QSORT_USE_BUBBLE_SORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_QSORT_USE_BUBBLE_SORT",
+    "location": {
+      "column": "11",
+      "line": "340",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_QSORT_USE_BUBBLE_SORT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@11840@macro@_DLIB_RAND_USE_SIMPLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_RAND_USE_SIMPLE",
+    "location": {
+      "column": "11",
+      "line": "365",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_RAND_USE_SIMPLE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@12026@macro@_DLIB_DEBUG_BREAK_FUNCTION_ATTRIBUTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_DEBUG_BREAK_FUNCTION_ATTRIBUTE",
+    "location": {
+      "column": "11",
+      "line": "374",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_DEBUG_BREAK_FUNCTION_ATTRIBUTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@12745@macro@_DLIB_DATA_ATTR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_DATA_ATTR",
+    "location": {
+      "column": "11",
+      "line": "390",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_DATA_ATTR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@12836@macro@_DLIB_CONST_ATTR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_CONST_ATTR",
+    "location": {
+      "column": "13",
+      "line": "395",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_CONST_ATTR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@13453@macro@_DLIB_MBSTATET_USES_UNSIGNED_LONG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_MBSTATET_USES_UNSIGNED_LONG",
+    "location": {
+      "column": "15",
+      "line": "421",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_MBSTATET_USES_UNSIGNED_LONG",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@13636@macro@_DLIB_TIME_USES_LONG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_TIME_USES_LONG",
+    "location": {
+      "column": "15",
+      "line": "429",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_TIME_USES_LONG",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@14183@macro@_DLIB_AEABI_DIFUNC_CONTAINS_OFFSETS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_AEABI_DIFUNC_CONTAINS_OFFSETS",
+    "location": {
+      "column": "13",
+      "line": "443",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_AEABI_DIFUNC_CONTAINS_OFFSETS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@14573@macro@_DLIB_ONLY_USE_CXA_FUNCTIONS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ONLY_USE_CXA_FUNCTIONS",
+    "location": {
+      "column": "13",
+      "line": "458",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_ONLY_USE_CXA_FUNCTIONS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@15142@macro@_DLIB_FAST_FMA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_FAST_FMA",
+    "location": {
+      "column": "11",
+      "line": "485",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_FAST_FMA",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@16042@macro@_DLIB_INCLUDE_DLMALLOC_ALTERNATIVE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_INCLUDE_DLMALLOC_ALTERNATIVE",
+    "location": {
+      "column": "13",
+      "line": "515",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_INCLUDE_DLMALLOC_ALTERNATIVE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@16406@macro@_DLIB_TIME_ALLOW_64",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_TIME_ALLOW_64",
+    "location": {
+      "column": "13",
+      "line": "537",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_TIME_ALLOW_64",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@16880@macro@_DLIB_ALLOW_LARGE_CONSTANT_TABLES_FOR_MATH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ALLOW_LARGE_CONSTANT_TABLES_FOR_MATH",
+    "location": {
+      "column": "11",
+      "line": "562",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_ALLOW_LARGE_CONSTANT_TABLES_FOR_MATH",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@17280@macro@__WEAK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__WEAK",
+    "location": {
+      "column": "11",
+      "line": "579",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "__WEAK",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@17335@macro@__WEAK_DEFS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__WEAK_DEFS",
+    "location": {
+      "column": "11",
+      "line": "580",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "__WEAK_DEFS",
+    "origin": "system_include",
     "scope": null
   },
   {
@@ -7275,188 +7919,6 @@
     "scope": null
   },
   {
-    "ID": "c:@F@SPI_PeriClockControl",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_PeriClockControl(SPI_RegDef_t *, uint8_t)",
-    "location": {
-      "column": "6",
-      "line": "18",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_PeriClockControl",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_Init",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_Init(SPI_Handle_t *)",
-    "location": {
-      "column": "6",
-      "line": "61",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_Init",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:stm32f103c8_SPI.c@1469@F@SPI_Init@tempreg",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "tempreg",
-    "location": {
-      "column": "14",
-      "line": "68",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "tempreg",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_DeInit",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_DeInit(SPI_RegDef_t *)",
-    "location": {
-      "column": "6",
-      "line": "145",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_DeInit",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_GetFlagStatus",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "uint8_t SPI_GetFlagStatus(SPI_RegDef_t *, uint32_t)",
-    "location": {
-      "column": "9",
-      "line": "165",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_GetFlagStatus",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_SendData",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_SendData(SPI_RegDef_t *, uint8_t *, uint32_t)",
-    "location": {
-      "column": "6",
-      "line": "194",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_SendData",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:stm32f103c8_SPI.c@4552@F@SPI_SendData@status",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "status",
-    "location": {
-      "column": "17",
-      "line": "200",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "status",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_ReceiveData",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_ReceiveData(SPI_RegDef_t *, uint8_t *, uint32_t)",
-    "location": {
-      "column": "6",
-      "line": "244",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_ReceiveData",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_PeriControl",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_PeriControl(SPI_RegDef_t *, uint8_t)",
-    "location": {
-      "column": "6",
-      "line": "251",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_PeriControl",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_SSIConfig",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_SSIConfig(SPI_RegDef_t *, uint8_t)",
-    "location": {
-      "column": "6",
-      "line": "280",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_SSIConfig",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_IRQInterruptConf",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_IRQInterruptConf(uint8_t, uint8_t)",
-    "location": {
-      "column": "6",
-      "line": "307",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_IRQInterruptConf",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_IRQPriorityConfig",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_IRQPriorityConfig(uint8_t, uint8_t)",
-    "location": {
-      "column": "6",
-      "line": "329",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_IRQPriorityConfig",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SPI_IRQHandling",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI_IRQHandling(SPI_Handle_t *)",
-    "location": {
-      "column": "6",
-      "line": "354",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\myDriver\\Src\\stm32f103c8_SPI.c"
-    },
-    "name": "SPI_IRQHandling",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
     "ID": "c:ycheck.h@1402@macro@__AEABI_PORTABILITY_INTERNAL_LEVEL",
     "What": "MacroDef",
     "defdec": "Def",
@@ -7467,384 +7929,6 @@
       "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\ycheck.h"
     },
     "name": "__AEABI_PORTABILITY_INTERNAL_LEVEL",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@75@macro@_DLIB_PRODUCTS_H_",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_PRODUCTS_H_",
-    "location": {
-      "column": "9",
-      "line": "4",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_PRODUCTS_H_",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@524@macro@_DLIB_WIDE_CHARACTERS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_WIDE_CHARACTERS",
-    "location": {
-      "column": "9",
-      "line": "21",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_WIDE_CHARACTERS",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@680@macro@_DLIB_PRODUCT_STRING",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_PRODUCT_STRING",
-    "location": {
-      "column": "9",
-      "line": "25",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_PRODUCT_STRING",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@831@macro@_DLIB_PRODUCT_FENV",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_PRODUCT_FENV",
-    "location": {
-      "column": "9",
-      "line": "29",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_PRODUCT_FENV",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@984@macro@_DLIB_PRODUCT_STDLIB",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_PRODUCT_STDLIB",
-    "location": {
-      "column": "9",
-      "line": "33",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_PRODUCT_STDLIB",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@1095@macro@_DLIB_QSORT_BUF_SIZE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_QSORT_BUF_SIZE",
-    "location": {
-      "column": "9",
-      "line": "37",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_QSORT_BUF_SIZE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@1270@macro@_DLIB_SUPPORT_FOR_AEABI",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_SUPPORT_FOR_AEABI",
-    "location": {
-      "column": "9",
-      "line": "46",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_SUPPORT_FOR_AEABI",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@1353@macro@_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
-    "location": {
-      "column": "9",
-      "line": "49",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@1479@macro@_DLIB_STRTOD_HEX_FLOAT",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_STRTOD_HEX_FLOAT",
-    "location": {
-      "column": "9",
-      "line": "53",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_STRTOD_HEX_FLOAT",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@1833@macro@_USE_ATOMIC_OPS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_USE_ATOMIC_OPS",
-    "location": {
-      "column": "11",
-      "line": "65",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_USE_ATOMIC_OPS",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@1992@macro@__SOFTFP",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__SOFTFP",
-    "location": {
-      "column": "11",
-      "line": "70",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "__SOFTFP",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@2116@macro@__NO_SCRATCH",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__NO_SCRATCH",
-    "location": {
-      "column": "9",
-      "line": "74",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "__NO_SCRATCH",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@2240@macro@_DLIB_SPEEDY_FLOATS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_SPEEDY_FLOATS",
-    "location": {
-      "column": "9",
-      "line": "77",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_SPEEDY_FLOATS",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@2301@macro@_DLIB_TIME_USES_64_DEFAULT",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_TIME_USES_64_DEFAULT",
-    "location": {
-      "column": "9",
-      "line": "80",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_TIME_USES_64_DEFAULT",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@2414@macro@_DLIB_ELF_INIT_STATIC_BASE_DECLARATION",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_STATIC_BASE_DECLARATION",
-    "location": {
-      "column": "11",
-      "line": "84",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_STATIC_BASE_DECLARATION",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@2498@macro@_DLIB_ELF_INIT_STATIC_BASE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_STATIC_BASE",
-    "location": {
-      "column": "11",
-      "line": "85",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_STATIC_BASE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@2545@macro@_DLIB_ELF_INIT_FUNCTION_ATTRIBUTES",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_FUNCTION_ATTRIBUTES",
-    "location": {
-      "column": "11",
-      "line": "86",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_FUNCTION_ATTRIBUTES",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@2905@macro@_DLIB_ELF_INIT_TABLE_MEMORY",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_TABLE_MEMORY",
-    "location": {
-      "column": "9",
-      "line": "96",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_TABLE_MEMORY",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@2955@macro@_DLIB_ELF_INIT_SOURCE_MEMORY",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_SOURCE_MEMORY",
-    "location": {
-      "column": "9",
-      "line": "97",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_SOURCE_MEMORY",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@3005@macro@_DLIB_ELF_INIT_DESTINATION_MEMORY",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_DESTINATION_MEMORY",
-    "location": {
-      "column": "9",
-      "line": "98",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_DESTINATION_MEMORY",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@3153@macro@_DLIB_ELF_INIT_USE_RELATIVE_ROM_ADDRESSES",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_USE_RELATIVE_ROM_ADDRESSES",
-    "location": {
-      "column": "11",
-      "line": "103",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_USE_RELATIVE_ROM_ADDRESSES",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@3214@macro@_DLIB_ELF_INIT_REGION_COUNT_TYPE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_REGION_COUNT_TYPE",
-    "location": {
-      "column": "9",
-      "line": "105",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_REGION_COUNT_TYPE",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@3266@macro@_DLIB_ELF_INIT_MODULE_ATTRIBUTES",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_MODULE_ATTRIBUTES",
-    "location": {
-      "column": "9",
-      "line": "106",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_MODULE_ATTRIBUTES",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@3458@macro@_DLIB_ELF_INIT_INTERFACE_VERSION",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_ELF_INIT_INTERFACE_VERSION",
-    "location": {
-      "column": "9",
-      "line": "110",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_ELF_INIT_INTERFACE_VERSION",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@3504@macro@_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
-    "location": {
-      "column": "9",
-      "line": "112",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@3556@macro@_XMATHWRAPPERS_DEF",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_XMATHWRAPPERS_DEF",
-    "location": {
-      "column": "9",
-      "line": "114",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_XMATHWRAPPERS_DEF",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DLib_Product.h@3605@macro@_CPPINIT_ATTR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_CPPINIT_ATTR",
-    "location": {
-      "column": "9",
-      "line": "116",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Product.h"
-    },
-    "name": "_CPPINIT_ATTR",
     "origin": "system_include",
     "scope": null
   },
@@ -8115,7 +8199,7 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h_gpio_driver.c@10598@F@GPIO_IRQPriorityConfig@iprx",
+    "ID": "c:stm32f103c8xx.h_gpio_driver.c@10595@F@GPIO_IRQPriorityConfig@iprx",
     "What": "Variable",
     "defdec": "Def",
     "display": "iprx",
@@ -8129,7 +8213,7 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h_gpio_driver.c@10633@F@GPIO_IRQPriorityConfig@iprx_section",
+    "ID": "c:stm32f103c8xx.h_gpio_driver.c@10630@F@GPIO_IRQPriorityConfig@iprx_section",
     "What": "Variable",
     "defdec": "Def",
     "display": "iprx_section",
@@ -8143,7 +8227,7 @@
     "scope": null
   },
   {
-    "ID": "c:stm32f103c8xx.h_gpio_driver.c@10688@F@GPIO_IRQPriorityConfig@shift_amount",
+    "ID": "c:stm32f103c8xx.h_gpio_driver.c@10685@F@GPIO_IRQPriorityConfig@shift_amount",
     "What": "Variable",
     "defdec": "Def",
     "display": "shift_amount",
@@ -8583,7 +8667,7 @@
     "display": "void SPI1_GPIOInits(void)",
     "location": {
       "column": "6",
-      "line": "12",
+      "line": "13",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "SPI1_GPIOInits",
@@ -8591,13 +8675,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@216@F@SPI1_GPIOInits@SPIPins",
+    "ID": "c:main.c@218@F@SPI1_GPIOInits@SPIPins",
     "What": "Variable",
     "defdec": "Def",
     "display": "SPIPins",
     "location": {
       "column": "19",
-      "line": "14",
+      "line": "15",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "SPIPins",
@@ -8611,7 +8695,7 @@
     "display": "void SPI1_Inits(void)",
     "location": {
       "column": "6",
-      "line": "49",
+      "line": "50",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "SPI1_Inits",
@@ -8619,13 +8703,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@1228@F@SPI1_Inits@SPI1Handle",
+    "ID": "c:main.c@1230@F@SPI1_Inits@SPI1Handle",
     "What": "Variable",
     "defdec": "Def",
     "display": "SPI1Handle",
     "location": {
       "column": "18",
-      "line": "51",
+      "line": "52",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "SPI1Handle",
@@ -8639,10 +8723,38 @@
     "display": "void delay(volatile uint32_t)",
     "location": {
       "column": "6",
-      "line": "70",
+      "line": "71",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "delay",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_Button_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void GPIO_Button_Init(void)",
+    "location": {
+      "column": "6",
+      "line": "78",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+    },
+    "name": "GPIO_Button_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1936@F@GPIO_Button_Init@GPIOBtn",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "GPIOBtn",
+    "location": {
+      "column": "19",
+      "line": "80",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+    },
+    "name": "GPIOBtn",
     "origin": "project_file",
     "scope": null
   },
@@ -8653,7 +8765,7 @@
     "display": "int main(void)",
     "location": {
       "column": "5",
-      "line": "76",
+      "line": "90",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "main",
@@ -8661,16 +8773,30 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@2141@F@main@userData",
+    "ID": "c:main.c@2255@F@main@userData",
     "What": "Variable",
     "defdec": "Def",
     "display": "userData",
     "location": {
       "column": "10",
-      "line": "91",
+      "line": "93",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "userData",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@3216@F@main@datalen",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "datalen",
+    "location": {
+      "column": "17",
+      "line": "137",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
+    },
+    "name": "datalen",
     "origin": "project_file",
     "scope": null
   },

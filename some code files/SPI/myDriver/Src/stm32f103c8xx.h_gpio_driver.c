@@ -305,11 +305,11 @@ void GPIO_WriteToOutputPinBSSR(GPIO_RegDef_t *pGPIOx, uint8_t PinNumber, uint8_t
 
     if(Value == GPIO_PIN_SET)
     {
-        pGPIOx->BSRR |= (1 << (16+PinNumber));
+        pGPIOx->ODR |= (1 << (0+PinNumber));
     }
     else
     {
-        pGPIOx->BSRR &= ~(1<<PinNumber);
+        pGPIOx->ODR &= ~(1<<PinNumber);
     }
 
 

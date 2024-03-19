@@ -92,7 +92,7 @@ int main()
     //SPI_SendData(SPI1,(uint8_t*)userData,12);
     while (1)
     {
-        delay(1000);
+        delay(10000);
         SPI_SendData(SPI1,(uint8_t*)userData,strlen(userData));
 
     }

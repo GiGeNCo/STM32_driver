@@ -197,10 +197,9 @@ void SPI_SendData(SPI_RegDef_t *pSPIx, uint8_t *pTxBuffer, uint32_t Len)
     {
         // 1 - wait until TX emprty is set
         //while( ! (pSPIx->SR & ( 1 << 1 )));
-        uint8_t status = pSPIx->SR;
+        //uint8_t status = pSPIx->SR;
         while(SPI_GetFlagStatus(pSPIx,SPI_TXE_FLAG)==FLAG_RESET);
         // 2 - check dff bit in CR1
-        GPIO_WriteToOutputPinBSSR(GPIOA, 4, 0);
         if(pSPIx->CR1   & (1 << SPI_CR1_DFF))
         {
             // 16 bit mode
@@ -221,7 +220,7 @@ void SPI_SendData(SPI_RegDef_t *pSPIx, uint8_t *pTxBuffer, uint32_t Len)
             Len--;
             pTxBuffer ++;
         }
-        GPIO_WriteToOutputPinBSSR(GPIOA, 4, 1);
+        
     }
 
 
@@ -286,6 +285,34 @@ void SPI_SSIConfig(SPI_RegDef_t *pSPIx, uint8_t EnOrDi)
     else
     {
         pSPIx->CR1 &= ~(1<<SPI_CR1_SSI);
+    }
+
+}
+
+/********************************************************
+
+* @fn                           SSOE Config
+  *
+  * @brief
+  *
+  * @param [in]
+  * @param [in]
+  * @param [in]
+  *
+  * @return 
+  *
+  * @note
+********************************************************/
+//IRQ conf and ISR Handling ########################################
+void SPI_SSOEConfig(SPI_RegDef_t *pSPIx, uint8_t EnOrDi)
+{
+    if(EnOrDi == ENABLE)
+    {
+        pSPIx->CR2 |= (1<<SPI_CR2_SSOE);
+    }
+    else
+    {
+        pSPIx->CR2 &= ~(1<<SPI_CR2_SSOE);
     }
 
 }

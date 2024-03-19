@@ -2,6 +2,8 @@
 #define INC_STM32F103C8XX_H_
 
 #include <stdint.h>
+//#include "stm32f103c8_SPI.h"
+
 
 
 #define __vo                    volatile

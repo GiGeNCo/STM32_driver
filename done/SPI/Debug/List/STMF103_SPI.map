@@ -1,39 +1,36 @@
 ###############################################################################
 #
-# IAR ELF Linker V9.32.1.338/W64 for ARM                  01/Dec/2023  16:18:37
+# IAR ELF Linker V9.32.1.338/W64 for ARM                  27/Feb/2024  14:01:07
 # Copyright 2007-2022 IAR Systems AB.
 #
 #    Output file  =
 #        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
-#        Arm\Embedded Coding\STM32_driver\some code
-#        files\SPI\Debug\Exe\STMF103_SPI.out
+#        Arm\Embedded Coding\STM32_driver\done\SPI\Debug\Exe\STMF103_SPI.out
 #    Map file     =
 #        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
-#        Arm\Embedded Coding\STM32_driver\some code
-#        files\SPI\Debug\List\STMF103_SPI.map
+#        Arm\Embedded Coding\STM32_driver\done\SPI\Debug\List\STMF103_SPI.map
 #    Command line =
 #        -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
-#        Arm\Embedded Coding\STM32_driver\some code
-#        files\SPI\Debug\Exe\STMF103_SPI.out.rsp"
+#        Arm\Embedded
+#        Coding\STM32_driver\done\SPI\Debug\Exe\STMF103_SPI.out.rsp"
 #        ("C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
-#        Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj\main.o"
+#        Arm\Embedded Coding\STM32_driver\done\SPI\Debug\Obj\main.o"
 #        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
-#        Arm\Embedded Coding\STM32_driver\some code
-#        files\SPI\Debug\Obj\myDriver\Src\stm32f103c8_SPI.o"
+#        Arm\Embedded
+#        Coding\STM32_driver\done\SPI\Debug\Obj\myDriver\Src\stm32f103c8_SPI.o"
 #        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
-#        Arm\Embedded Coding\STM32_driver\some code
-#        files\SPI\Debug\Obj\myDriver\Src\stm32f103c8xx.h_gpio_driver.o"
+#        Arm\Embedded
+#        Coding\STM32_driver\done\SPI\Debug\Obj\myDriver\Src\stm32f103c8xx.h_gpio_driver.o"
 #        --no_out_extension -o
 #        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
-#        Arm\Embedded Coding\STM32_driver\some code
-#        files\SPI\Debug\Exe\STMF103_SPI.out" --redirect
-#        _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb --map
-#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
-#        Arm\Embedded Coding\STM32_driver\some code
-#        files\SPI\Debug\List\STMF103_SPI.map" --config "C:\Program Files\IAR
-#        Systems\Embedded Workbench 9.1\arm/config/linker/ST/stm32f103x8.icf"
-#        --semihosting --entry __iar_program_start --vfe --text_out locale
-#        --cpu=Cortex-M3 --fpu=None)
+#        Arm\Embedded Coding\STM32_driver\done\SPI\Debug\Exe\STMF103_SPI.out"
+#        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
+#        --map "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\done\SPI\Debug\List\STMF103_SPI.map"
+#        --config "C:\Program Files\IAR Systems\Embedded Workbench
+#        9.1\arm/config/linker/ST/stm32f103x8.icf" --semihosting --entry
+#        __iar_program_start --vfe --text_out locale --cpu=Cortex-M3
+#        --fpu=None)
 #
 ###############################################################################
 
@@ -118,12 +115,12 @@ command line/config:
     --------------------------------------------------------
     Total:
 
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj: [1]
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\SPI\Debug\Obj: [1]
     main.o                             220       16
     --------------------------------------------------------
     Total:                             220       16
 
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj\myDriver\Src: [2]
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\SPI\Debug\Obj\myDriver\Src: [2]
     stm32f103c8_SPI.o                  310
     stm32f103c8xx.h_gpio_driver.o      632
     --------------------------------------------------------
@@ -205,8 +202,8 @@ main                     0x800'0487   0x38  Code  Gb  main.o [1]
 strlen                   0x800'0525         Code  Gb  strlen.o [4]
 
 
-[1] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj
-[2] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\SPI\Debug\Obj\myDriver\Src
+[1] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\SPI\Debug\Obj
+[2] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\SPI\Debug\Obj\myDriver\Src
 [3] = dl7M_tln.a
 [4] = rt7M_tl.a
 [5] = shb_l.a
