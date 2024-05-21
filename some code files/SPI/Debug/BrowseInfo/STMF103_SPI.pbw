@@ -8661,30 +8661,16 @@
     "scope": null
   },
   {
-    "ID": "c:@F@SPI1_GPIOInits",
+    "ID": "c:@F@GPIO_Init",
     "What": "Function",
-    "defdec": "Def",
-    "display": "void SPI1_GPIOInits(void)",
+    "defdec": "Dec",
+    "display": "int GPIO_Init(void)",
     "location": {
-      "column": "6",
-      "line": "13",
+      "column": "5",
+      "line": "46",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
-    "name": "SPI1_GPIOInits",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@218@F@SPI1_GPIOInits@SPIPins",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "SPIPins",
-    "location": {
-      "column": "19",
-      "line": "15",
-      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
-    },
-    "name": "SPIPins",
+    "name": "GPIO_Init",
     "origin": "project_file",
     "scope": null
   },
@@ -8695,7 +8681,7 @@
     "display": "void SPI1_Inits(void)",
     "location": {
       "column": "6",
-      "line": "50",
+      "line": "54",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "SPI1_Inits",
@@ -8703,13 +8689,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@1230@F@SPI1_Inits@SPI1Handle",
+    "ID": "c:main.c@1240@F@SPI1_Inits@SPI1Handle",
     "What": "Variable",
     "defdec": "Def",
     "display": "SPI1Handle",
     "location": {
       "column": "18",
-      "line": "52",
+      "line": "56",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "SPI1Handle",
@@ -8723,7 +8709,7 @@
     "display": "void delay(volatile uint32_t)",
     "location": {
       "column": "6",
-      "line": "71",
+      "line": "75",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "delay",
@@ -8737,7 +8723,7 @@
     "display": "void GPIO_Button_Init(void)",
     "location": {
       "column": "6",
-      "line": "78",
+      "line": "82",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "GPIO_Button_Init",
@@ -8745,13 +8731,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@1936@F@GPIO_Button_Init@GPIOBtn",
+    "ID": "c:main.c@1946@F@GPIO_Button_Init@GPIOBtn",
     "What": "Variable",
     "defdec": "Def",
     "display": "GPIOBtn",
     "location": {
       "column": "19",
-      "line": "80",
+      "line": "84",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "GPIOBtn",
@@ -8765,7 +8751,7 @@
     "display": "int main(void)",
     "location": {
       "column": "5",
-      "line": "90",
+      "line": "94",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "main",
@@ -8773,13 +8759,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@2255@F@main@userData",
+    "ID": "c:main.c@2265@F@main@userData",
     "What": "Variable",
     "defdec": "Def",
     "display": "userData",
     "location": {
       "column": "10",
-      "line": "93",
+      "line": "97",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "userData",
@@ -8787,13 +8773,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@3216@F@main@datalen",
+    "ID": "c:main.c@3226@F@main@datalen",
     "What": "Variable",
     "defdec": "Def",
     "display": "datalen",
     "location": {
       "column": "17",
-      "line": "137",
+      "line": "141",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\SPI\\main.c"
     },
     "name": "datalen",

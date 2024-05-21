@@ -55,7 +55,7 @@ void SPI1_Inits()
     SPI1Handle.pSPIx = SPI1;
     //SPI1Handle.SPIConf.SPI_BusConf = SPI_BUS_FD; //1
     SPI1Handle.SPIConf.SPI_DevMode = SPI_MODE_MASTER; //1
-    SPI1Handle.SPIConf.SPI_SclkSpeed = SPI_SCLK_SPEED_DIV256; //1
+    SPI1Handle.SPIConf.SPI_SclkSpeed = SPI_SCLK_SPEED_DIV8; //1
     SPI1Handle.SPIConf.SPI_DFF = SPI_DFF_8;//0
     SPI1Handle.SPIConf.SPI_CHPA = SPI_CPHA_LOW;//0
     SPI1Handle.SPIConf.SPI_CPOL = SPI_CPOL_LOW;//0
@@ -106,7 +106,12 @@ int main()
         //delay(100);
         //SPI_SendData(SPI1,(uint8_t*)userData,strlen(userData));
         //GPIO_WriteToOutputPinBSSR(GPIOA, 4, 1);
-        delay(10000);
+        //activate slave what is connected to nss pin
+        GPIO_WriteToOutputPinBSSR(GPIOA, 4, 0);
+            
+        SPI_SendData(SPI1,(uint8_t*)userData,strlen(userData));
+        GPIO_WriteToOutputPinBSSR(GPIOA, 4, 1);
+        delay(500000);
 
     }
     

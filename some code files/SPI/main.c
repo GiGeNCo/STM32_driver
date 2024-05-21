@@ -1,3 +1,5 @@
+
+
 #include "stm32f103c8xx.h"
 #include "string.h"
 
@@ -10,6 +12,8 @@
 *       PA7 --> MOSI
 *       ALF Function    5
 */
+
+/*
 void SPI1_GPIOInits()
 {
     GPIO_Handle_t SPIPins;
@@ -146,3 +150,6 @@ int main()
     }
     //return 0;
 }
+
+
+*/

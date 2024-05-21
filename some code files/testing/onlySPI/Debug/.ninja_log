@@ -1,0 +1,19 @@
+# ninja log v5
+6	175	7377720161795890	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Obj/main.o	a7807523351f4e61
+178	254	7377720162626049	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Exe/onlySPI.out	f734f865c9f7045f
+3	309	7377723092998059	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Obj/main.o	a7807523351f4e61
+333	398	7377723093977576	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Exe/onlySPI.out	f734f865c9f7045f
+2	282	7377728549466159	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Obj/main.o	a7807523351f4e61
+283	380	7377728550486396	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Exe/onlySPI.out	f734f865c9f7045f
+3	321	7377737534509604	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Obj/main.o	a7807523351f4e61
+324	420	7377737535630315	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Exe/onlySPI.out	f734f865c9f7045f
+3	159	7377738168083863	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Obj/main.o	a7807523351f4e61
+162	229	7377738168844041	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Exe/onlySPI.out	f734f865c9f7045f
+1	299	7379750600032138	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Obj/main.o	a7807523351f4e61
+301	440	7379750601468089	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Exe/onlySPI.out	f734f865c9f7045f
+1	63	7379750957676449	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Obj/main.o	a7807523351f4e61
+64	90	7379750957956514	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Exe/onlySPI.out	f734f865c9f7045f
+2	153	7379754259730413	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Obj/main.o	a7807523351f4e61
+154	191	7379754260130115	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Exe/onlySPI.out	f734f865c9f7045f
+1	71	7379755700960170	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Obj/main.o	a7807523351f4e61
+72	99	7379755701270237	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/onlySPI/Debug/Exe/onlySPI.out	f734f865c9f7045f
