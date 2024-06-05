@@ -23,6 +23,8 @@
             <file>$PROJ_DIR$\Debug\Exe\onlySPI.out</file>
             <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
             <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\..\..\..\done\SPI_UDR\main.c</file>
+            <file>$PROJ_DIR$\..\..\..\done\SPI_UDR\myDriver\Src\stm32f103c8_SPI.c</file>
         </outputs>
         <file>
             <name>$PROJ_DIR$\main.c</name>

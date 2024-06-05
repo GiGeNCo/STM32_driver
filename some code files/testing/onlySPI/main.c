@@ -17,6 +17,7 @@
 
 #define GPIOA_CRL           (*(volatile uint32_t*)(GPIOA_BASE + 0x00))
 #define SPI1_CR1            (*(volatile uint32_t*)(SPI1_BASE + 0x00))
+#define SPI1_CR2            (*(volatile uint32_t*)(SPI1_BASE + 0x04))
 #define SPI1_DR             (*(volatile uint32_t*)(SPI1_BASE + 0x0C))
 #define SPI1_SR             (*(volatile uint32_t*)(SPI1_BASE + 0x08))
 #define GPIOA_BSRR          (*(volatile uint32_t*)(GPIOA_BASE + 0x10))
@@ -107,6 +108,15 @@ void SPI1_SendString(uint8_t *pTxBuffer, uint32_t len);
 int main(void) {
     SPI1_Init();
 
+    
+    /*
+        making SSOE 1 does NSS output enable
+        the NSS pin is automatically managed by the hardware
+        i.e when SPE=1 NSS will be pulled to low
+        and NSS will be pulled to high when SPE=1
+    */
+    //SPI1_CR2 |= (1 << 2);
+    
     char userData[] = "Hello World!";
      
     //first send lenght information

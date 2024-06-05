@@ -1,0 +1,23 @@
+# ninja log v5
+1	309	7380697660000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/main.xcl	fa89becb99b0fed7
+310	398	7380697660955146	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/main.pbi	73e50208be2ad506
+400	461	7380697661595375	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbd	e7015919b511cd8b
+464	1069	7380697667372021	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbw	de26f95e98487b4c
+1	179	7380758696493661	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/main.pbi	73e50208be2ad506
+181	203	7380758696743720	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbd	e7015919b511cd8b
+205	716	7380758701077801	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbw	de26f95e98487b4c
+1	79	7380760067644910	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/main.pbi	73e50208be2ad506
+81	100	7380760067864991	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbd	e7015919b511cd8b
+102	508	7380760071615994	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbw	de26f95e98487b4c
+1	99	7380760376495781	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/main.pbi	73e50208be2ad506
+102	124	7380760376755845	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbd	e7015919b511cd8b
+1	468	7380760431589626	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbw	de26f95e98487b4c
+1	72	7380760584978217	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/main.pbi	73e50208be2ad506
+74	95	7380760585228269	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbd	e7015919b511cd8b
+98	598	7380760589453075	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbw	de26f95e98487b4c
+1	70	7380768878995298	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/main.pbi	73e50208be2ad506
+72	91	7380768879225368	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbd	e7015919b511cd8b
+94	530	7380768883081843	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbw	de26f95e98487b4c
+1	70	7380769238275080	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/main.pbi	73e50208be2ad506
+72	90	7380769238495134	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbd	e7015919b511cd8b
+93	515	7380769242228482	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/BrowseInfo/GPIO_Output.pbw	de26f95e98487b4c

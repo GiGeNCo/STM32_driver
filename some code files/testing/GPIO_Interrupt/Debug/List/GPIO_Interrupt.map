@@ -1,0 +1,300 @@
+###############################################################################
+#
+# IAR ELF Linker V9.32.1.338/W64 for ARM                  03/Jun/2024  13:18:28
+# Copyright 2007-2022 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\testing\GPIO_Interrupt\Debug\Exe\GPIO_Interrupt.out
+#    Map file     =
+#        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\testing\GPIO_Interrupt\Debug\List\GPIO_Interrupt.map
+#    Command line =
+#        -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\testing\GPIO_Interrupt\Debug\Exe\GPIO_Interrupt.out.rsp"
+#        ("C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\testing\GPIO_Interrupt\Debug\Obj\main.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\testing\GPIO_Interrupt\Debug\Obj\startup_stm32f103xb.o"
+#        --no_out_extension -o
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\testing\GPIO_Interrupt\Debug\Exe\GPIO_Interrupt.out" --redirect
+#        _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb --map
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded Coding\STM32_driver\some code
+#        files\testing\GPIO_Interrupt\Debug\List\GPIO_Interrupt.map" --config
+#        "C:\Program Files\IAR Systems\Embedded Workbench
+#        9.1\arm/config/linker/ST/stm32f103x8.icf" --semihosting --entry
+#        __iar_program_start --vfe --text_out locale --cpu=Cortex-M3
+#        --fpu=None)
+#
+###############################################################################
+
+*******************************************************************************
+*** MESSAGES
+***
+
+Error[Li005]: no definition for "SystemInit" [referenced from
+          C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+          Arm\Embedded Coding\STM32_driver\some code
+          files\testing\GPIO_Interrupt\Debug\Obj\startup_stm32f103xb.o]
+
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because --advanced_heap
+was not specified and the application did not appear to
+be primarily optimized for speed.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x800'0000 { ro section .intvec };
+"P1":  place in [from 0x800'0000 to 0x800'ffff] { ro };
+define block CSTACK with size = 2K, alignment = 8 { };
+define block HEAP with size = 2K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'4fff] {
+          rw, block CSTACK, block HEAP };
+
+No sections matched the following patterns:
+
+  rw  in "P2"
+
+
+  Section   Kind         Address   Size  Object
+  -------   ----         -------   ----  ------
+"A0":                              0xec
+  .intvec   ro code   0x800'0000   0xec  startup_stm32f103xb.o [1]
+                    - 0x800'00ec   0xec
+
+"P1":                             0x1ec
+  .text     ro code   0x800'00ec   0xac  main.o [1]
+  .text     ro code   0x800'0198   0x1e  cmain.o [3]
+  .text     ro code   0x800'01b6    0x4  low_level_init.o [2]
+  .text     ro code   0x800'01ba    0x4  exit.o [2]
+  .text     ro code   0x800'01c0    0xa  cexit.o [3]
+  .text     ro code   0x800'01cc   0x14  exit.o [4]
+  .text     ro code   0x800'01e0   0x1c  cstartup_M.o [3]
+  .text     ro code   0x800'01fc   0x10  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'020c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0210    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0214    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0218    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'021c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0220    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0224    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0228    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'022c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0230    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0234    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0238    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'023c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0240    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0244    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0248    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'024c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0250    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0254    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0258    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'025c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0260    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0264    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0268    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'026c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0270    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0274    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0278    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'027c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0280    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0284    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0288    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'028c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0290    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0294    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'0298    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'029c    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02a0    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02a4    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02a8    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02ac    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02b0    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02b4    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02b8    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02bc    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02c0    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02c4    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02c8    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02cc    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02d0    0x4  startup_stm32f103xb.o [1]
+  .text     ro code   0x800'02d4    0x4  startup_stm32f103xb.o [1]
+                    - 0x800'02d8  0x1ec
+
+"P2":                             0x800
+  CSTACK             0x2000'0000  0x800  <Block>
+    CSTACK  uninit   0x2000'0000  0x800  <Block tail>
+                   - 0x2000'0800  0x800
+
+Unused ranges:
+
+         From           To    Size
+         ----           --    ----
+   0x800'02d8   0x800'ffff  0xfd28
+  0x2000'0800  0x2000'4fff  0x4800
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                 ro code  rw data
+    ------                 -------  -------
+command line/config:
+    ---------------------------------------
+    Total:
+
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\testing\GPIO_Interrupt\Debug\Obj: [1]
+    main.o                     172
+    startup_stm32f103xb.o      456
+    ---------------------------------------
+    Total:                     628
+
+dl7M_tln.a: [2]
+    exit.o                       4
+    low_level_init.o             4
+    ---------------------------------------
+    Total:                       8
+
+rt7M_tl.a: [3]
+    cexit.o                     10
+    cmain.o                     30
+    cstartup_M.o                28
+    ---------------------------------------
+    Total:                      68
+
+shb_l.a: [4]
+    exit.o                      20
+    ---------------------------------------
+    Total:                      20
+
+    Gaps                         4
+    Linker created                    2'048
+-------------------------------------------
+    Grand Total:               728    2'048
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address  Size  Type      Object
+-----                       -------  ----  ----      ------
+?main                    0x800'0199        Code  Gb  cmain.o [3]
+ADC1_2_IRQHandler        0x800'0279        Code  Wk  startup_stm32f103xb.o [1]
+BusFault_Handler         0x800'0219        Code  Wk  startup_stm32f103xb.o [1]
+CAN1_RX1_IRQHandler      0x800'0285        Code  Wk  startup_stm32f103xb.o [1]
+CAN1_SCE_IRQHandler      0x800'0289        Code  Wk  startup_stm32f103xb.o [1]
+CSTACK$$Base            0x2000'0000         --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'0800         --   Gb  - Linker created -
+DMA1_Channel1_IRQHandler
+                         0x800'025d        Code  Wk  startup_stm32f103xb.o [1]
+DMA1_Channel2_IRQHandler
+                         0x800'0261        Code  Wk  startup_stm32f103xb.o [1]
+DMA1_Channel3_IRQHandler
+                         0x800'0265        Code  Wk  startup_stm32f103xb.o [1]
+DMA1_Channel4_IRQHandler
+                         0x800'0269        Code  Wk  startup_stm32f103xb.o [1]
+DMA1_Channel5_IRQHandler
+                         0x800'026d        Code  Wk  startup_stm32f103xb.o [1]
+DMA1_Channel6_IRQHandler
+                         0x800'0271        Code  Wk  startup_stm32f103xb.o [1]
+DMA1_Channel7_IRQHandler
+                         0x800'0275        Code  Wk  startup_stm32f103xb.o [1]
+DebugMon_Handler         0x800'0225        Code  Wk  startup_stm32f103xb.o [1]
+EXTI0_IRQHandler         0x800'0249        Code  Wk  startup_stm32f103xb.o [1]
+EXTI15_10_IRQHandler     0x800'015d  0x1c  Code  Gb  main.o [1]
+EXTI1_IRQHandler         0x800'024d        Code  Wk  startup_stm32f103xb.o [1]
+EXTI2_IRQHandler         0x800'0251        Code  Wk  startup_stm32f103xb.o [1]
+EXTI3_IRQHandler         0x800'0255        Code  Wk  startup_stm32f103xb.o [1]
+EXTI4_IRQHandler         0x800'0259        Code  Wk  startup_stm32f103xb.o [1]
+EXTI9_5_IRQHandler       0x800'028d        Code  Wk  startup_stm32f103xb.o [1]
+FLASH_IRQHandler         0x800'0241        Code  Wk  startup_stm32f103xb.o [1]
+HardFault_Handler        0x800'0211        Code  Wk  startup_stm32f103xb.o [1]
+I2C1_ER_IRQHandler       0x800'02b1        Code  Wk  startup_stm32f103xb.o [1]
+I2C1_EV_IRQHandler       0x800'02ad        Code  Wk  startup_stm32f103xb.o [1]
+I2C2_ER_IRQHandler       0x800'02b9        Code  Wk  startup_stm32f103xb.o [1]
+I2C2_EV_IRQHandler       0x800'02b5        Code  Wk  startup_stm32f103xb.o [1]
+MemManage_Handler        0x800'0215        Code  Wk  startup_stm32f103xb.o [1]
+NMI_Handler              0x800'020d        Code  Wk  startup_stm32f103xb.o [1]
+PVD_IRQHandler           0x800'0235        Code  Wk  startup_stm32f103xb.o [1]
+PendSV_Handler           0x800'0229        Code  Wk  startup_stm32f103xb.o [1]
+RCC_IRQHandler           0x800'0245        Code  Wk  startup_stm32f103xb.o [1]
+RTC_Alarm_IRQHandler     0x800'02d1        Code  Wk  startup_stm32f103xb.o [1]
+RTC_IRQHandler           0x800'023d        Code  Wk  startup_stm32f103xb.o [1]
+Region$$Table$$Base             0x0         --   Gb  - Linker created -
+Region$$Table$$Limit            0x0         --   Gb  - Linker created -
+Reset_Handler            0x800'01fd        Code  Wk  startup_stm32f103xb.o [1]
+SPI1_IRQHandler          0x800'02bd        Code  Wk  startup_stm32f103xb.o [1]
+SPI2_IRQHandler          0x800'02c1        Code  Wk  startup_stm32f103xb.o [1]
+SVC_Handler              0x800'0221        Code  Wk  startup_stm32f103xb.o [1]
+SysTick_Handler          0x800'022d        Code  Wk  startup_stm32f103xb.o [1]
+TAMPER_IRQHandler        0x800'0239        Code  Wk  startup_stm32f103xb.o [1]
+TIM1_BRK_IRQHandler      0x800'0291        Code  Wk  startup_stm32f103xb.o [1]
+TIM1_CC_IRQHandler       0x800'029d        Code  Wk  startup_stm32f103xb.o [1]
+TIM1_TRG_COM_IRQHandler
+                         0x800'0299        Code  Wk  startup_stm32f103xb.o [1]
+TIM1_UP_IRQHandler       0x800'0295        Code  Wk  startup_stm32f103xb.o [1]
+TIM2_IRQHandler          0x800'02a1        Code  Wk  startup_stm32f103xb.o [1]
+TIM3_IRQHandler          0x800'02a5        Code  Wk  startup_stm32f103xb.o [1]
+TIM4_IRQHandler          0x800'02a9        Code  Wk  startup_stm32f103xb.o [1]
+USART1_IRQHandler        0x800'02c5        Code  Wk  startup_stm32f103xb.o [1]
+USART2_IRQHandler        0x800'02c9        Code  Wk  startup_stm32f103xb.o [1]
+USART3_IRQHandler        0x800'02cd        Code  Wk  startup_stm32f103xb.o [1]
+USBWakeUp_IRQHandler     0x800'02d5        Code  Wk  startup_stm32f103xb.o [1]
+USB_HP_CAN1_TX_IRQHandler
+                         0x800'027d        Code  Wk  startup_stm32f103xb.o [1]
+USB_LP_CAN1_RX0_IRQHandler
+                         0x800'0281        Code  Wk  startup_stm32f103xb.o [1]
+UsageFault_Handler       0x800'021d        Code  Wk  startup_stm32f103xb.o [1]
+WWDG_IRQHandler          0x800'0231        Code  Wk  startup_stm32f103xb.o [1]
+__cmain                  0x800'0199        Code  Gb  cmain.o [3]
+__exit                   0x800'01cd  0x14  Code  Gb  exit.o [4]
+__iar_program_start      0x800'01e1        Code  Gb  cstartup_M.o [3]
+__low_level_init         0x800'01b7   0x4  Code  Gb  low_level_init.o [2]
+__vector_table           0x800'0000        Data  Gb  startup_stm32f103xb.o [1]
+_call_main               0x800'01a5        Code  Gb  cmain.o [3]
+_exit                    0x800'01c1        Code  Gb  cexit.o [3]
+exit                     0x800'01bb   0x4  Code  Gb  exit.o [2]
+main                     0x800'00ed  0x70  Code  Gb  main.o [1]
+
+
+[1] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\testing\GPIO_Interrupt\Debug\Obj
+[2] = dl7M_tln.a
+[3] = rt7M_tl.a
+[4] = shb_l.a
+
+    728 bytes of readonly  code memory
+  2'048 bytes of readwrite data memory
+
+Errors: 1
+Warnings: none

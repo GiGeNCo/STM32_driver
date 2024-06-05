@@ -1,0 +1,9 @@
+# ninja log v5
+0	73	7392043747766521	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI_Receive/Debug/Obj/main.o	4ebd58aa403ee03c
+75	220	7392043749225002	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI_Receive/Debug/Exe/SPI_Receive.out	c279abcb462545af
+1	50	7392049437395398	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI_Receive/Debug/Obj/main.o	4ebd58aa403ee03c
+51	84	7392049437753343	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI_Receive/Debug/Exe/SPI_Receive.out	c279abcb462545af
+1	54	7392050386868929	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI_Receive/Debug/Obj/main.o	4ebd58aa403ee03c
+55	80	7392050387158998	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI_Receive/Debug/Exe/SPI_Receive.out	c279abcb462545af
+1	121	7392052763532513	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI_Receive/Debug/Obj/main.o	4ebd58aa403ee03c
+122	147	7392052763852578	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI_Receive/Debug/Exe/SPI_Receive.out	c279abcb462545af

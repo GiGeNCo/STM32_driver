@@ -1,0 +1,26 @@
+# ninja log v5
+1	173	7386016291702414	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+174	289	7386016292904616	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	c51f86aafc4945f4
+1	60	7386016849172017	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+61	89	7386016849512097	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	c51f86aafc4945f4
+1	40	7386017288439452	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	62	7386017649131911	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+63	95	7386017649501991	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	60	7386017906584238	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+61	85	7386017906884309	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	61	7386018280751016	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+62	86	7386018281051082	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	58	7386018494390968	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+59	84	7386018494681034	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	135	7386019821050971	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+136	161	7386019821341037	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	57	7386020100315187	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+58	84	7386020100605252	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	65	7386021117297839	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+66	92	7386021117617910	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	68	7386021800475173	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+69	103	7386021800885258	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	62	7386022005719229	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+63	87	7386022006029285	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793
+1	59	7386022522721240	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Obj/main.o	65b91de4ff7aceff
+61	92	7386022523071319	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI2_SendSting_SendByte_GPIO_GPIOCLed/Debug/Exe/GPIO_SPI2.out	12f2e398d122d793

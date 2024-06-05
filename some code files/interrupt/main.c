@@ -21,7 +21,7 @@ int main()
     
     
     gpioLed.pGPIOx = GPIOC;
-    gpioLed.GPIO_PinConfig.GPIO_PinNumber = 13;
+    gpioLed.GPIO_PinConfig.GPIO_PinNumber = 15;
     gpioLed.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT_2mhz;      //11
     gpioLed.GPIO_PinConfig.GPIO_PinConf = GPIO_OUTCONF_PP;          //0
     
@@ -31,12 +31,12 @@ int main()
     
 
     
-    gpioButton.pGPIOx = GPIOB;
-    gpioButton.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_12;
+    gpioButton.pGPIOx = GPIOC;
+    gpioButton.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_14;
     gpioButton.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_IT_RT;      //11
     gpioButton.GPIO_PinConfig.GPIO_PinConf = GPIO_INMODE_PUPD;  //0
     
-    GPIO_PeriClockControll(GPIOB,ENABLE);
+    GPIO_PeriClockControll(GPIOC,ENABLE);
     GPIO_Init(&gpioButton);
     
     GPIO_IRQPriorityConfig(IRQ_NO_EXTI15_10,15);

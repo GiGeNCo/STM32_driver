@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Documents\testing\EWARM\settings\testing.testing.general.xcl" --backend -f "C:\Users\Interrupt\Documents\testing\EWARM\settings\testing.testing.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\Interrupt\EWARM\settings\testing.testing.general.xcl" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\Interrupt\EWARM\settings\testing.testing.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Documents\testing\EWARM\settings\testing.testing.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\Interrupt\Documents\testing\EWARM\settings\testing.testing.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\Interrupt\EWARM\settings\testing.testing.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\Interrupt\EWARM\settings\testing.testing.driver.xcl" 
 }

@@ -1,0 +1,11 @@
+# ninja log v5
+1	439	7380758690604561	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Obj/main.o	17a52a0866465677
+443	752	7380758693833019	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Exe/GPIO_Output.out	66d986b6cc3fac14
+2	99	7380760065186791	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Obj/main.o	17a52a0866465677
+102	203	7380760066266338	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Exe/GPIO_Output.out	66d986b6cc3fac14
+3	101	7380760364050661	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Obj/main.o	17a52a0866465677
+104	205	7380760365153538	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Exe/GPIO_Output.out	66d986b6cc3fac14
+3	103	7380760568651846	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Obj/main.o	17a52a0866465677
+106	206	7380760569739784	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Exe/GPIO_Output.out	66d986b6cc3fac14
+3	269	7380768833743025	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Obj/main.o	17a52a0866465677
+271	328	7380768834407221	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/testing/GPIO_Output/Debug/Exe/GPIO_Output.out	66d986b6cc3fac14

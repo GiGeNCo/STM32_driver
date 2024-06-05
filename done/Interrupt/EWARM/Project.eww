@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspace>
-  <project>
-    <path>$WS_DIR$\testing.ewp</path>
-  </project>
-  <batchBuild />
+    <project>
+        <path>$WS_DIR$\..\..\..\some code files\API_Structuring\API_Structuring.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\..\some code files\testing\GPIO_Interrupt\GPIO_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\inputmode\input.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\..\some code files\interrupt\interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\..\some code files\SPI_Receive\SPI_Receive.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\testing.ewp</path>
+    </project>
+    <batchBuild />
 </workspace>

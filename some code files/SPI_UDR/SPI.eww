@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\testing\GPIO_INPUT_BTN\GPIO_IN_BTN.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\GPIO_IN_BTN\GPIO_IN_BTN.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\testing\GPIO_Interrupt\GPIO_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\done\SPI2_SendSting_SendByte_GPIO_GPIOCLed\GPIO_SPI2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\testing\Interrupt_GPIO.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\STMF103_SPI.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

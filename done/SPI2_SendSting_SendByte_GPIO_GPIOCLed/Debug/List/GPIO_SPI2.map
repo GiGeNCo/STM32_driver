@@ -1,0 +1,199 @@
+###############################################################################
+#
+# IAR ELF Linker V9.32.1.338/W64 for ARM                  28/May/2024  16:24:12
+# Copyright 2007-2022 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded
+#        Coding\STM32_driver\done\SPI2_SendSting_SendByte_GPIO_GPIOCLed\Debug\Exe\GPIO_SPI2.out
+#    Map file     =
+#        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded
+#        Coding\STM32_driver\done\SPI2_SendSting_SendByte_GPIO_GPIOCLed\Debug\List\GPIO_SPI2.map
+#    Command line =
+#        -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded
+#        Coding\STM32_driver\done\SPI2_SendSting_SendByte_GPIO_GPIOCLed\Debug\Exe\GPIO_SPI2.out.rsp"
+#        ("C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded
+#        Coding\STM32_driver\done\SPI2_SendSting_SendByte_GPIO_GPIOCLed\Debug\Obj\main.o"
+#        --no_out_extension -o
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded
+#        Coding\STM32_driver\done\SPI2_SendSting_SendByte_GPIO_GPIOCLed\Debug\Exe\GPIO_SPI2.out"
+#        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
+#        --map "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C
+#        Arm\Embedded
+#        Coding\STM32_driver\done\SPI2_SendSting_SendByte_GPIO_GPIOCLed\Debug\List\GPIO_SPI2.map"
+#        --config "C:\Program Files\IAR Systems\Embedded Workbench
+#        9.1\arm/config/linker/ST/stm32f103x8.icf" --semihosting --entry
+#        __iar_program_start --vfe --text_out locale --cpu=Cortex-M3
+#        --fpu=None)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because --advanced_heap
+was not specified and the application did not appear to
+be primarily optimized for speed.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x800'0000 { ro section .intvec };
+"P1":  place in [from 0x800'0000 to 0x800'ffff] { ro };
+define block CSTACK with size = 2K, alignment = 8 { };
+define block HEAP with size = 2K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'4fff] {
+          rw, block CSTACK, block HEAP };
+
+No sections matched the following patterns:
+
+  rw  in "P2"
+
+
+  Section   Kind         Address   Size  Object
+  -------   ----         -------   ----  ------
+"A0":                              0x40
+  .intvec   ro code   0x800'0000   0x40  vector_table_M.o [3]
+                    - 0x800'0040   0x40
+
+"P1":                             0x2cc
+  .text     ro code   0x800'0040  0x1c8  main.o [1]
+  .text     ro code   0x800'0208   0x56  ABImemcpy_unaligned.o [3]
+  .text     ro code   0x800'025e    0x2  vectortrap_M.o [3]
+  .text     ro code   0x800'0260   0x36  strlen.o [3]
+  .text     ro code   0x800'0298   0x1e  cmain.o [3]
+  .text     ro code   0x800'02b6    0x4  low_level_init.o [2]
+  .text     ro code   0x800'02ba    0x4  exit.o [2]
+  .text     ro code   0x800'02c0    0xa  cexit.o [3]
+  .text     ro code   0x800'02cc   0x14  exit.o [4]
+  .text     ro code   0x800'02e0   0x1c  cstartup_M.o [3]
+  .rodata   const     0x800'02fc   0x10  main.o [1]
+                    - 0x800'030c  0x2cc
+
+"P2":                             0x800
+  CSTACK             0x2000'0000  0x800  <Block>
+    CSTACK  uninit   0x2000'0000  0x800  <Block tail>
+                   - 0x2000'0800  0x800
+
+Unused ranges:
+
+         From           To    Size
+         ----           --    ----
+   0x800'030c   0x800'ffff  0xfcf4
+  0x2000'0800  0x2000'4fff  0x4800
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                 ro code  ro data  rw data
+    ------                 -------  -------  -------
+command line/config:
+    ------------------------------------------------
+    Total:
+
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\SPI2_SendSting_SendByte_GPIO_GPIOCLed\Debug\Obj: [1]
+    main.o                     456       16
+    ------------------------------------------------
+    Total:                     456       16
+
+dl7M_tln.a: [2]
+    exit.o                       4
+    low_level_init.o             4
+    ------------------------------------------------
+    Total:                       8
+
+rt7M_tl.a: [3]
+    ABImemcpy_unaligned.o       86
+    cexit.o                     10
+    cmain.o                     30
+    cstartup_M.o                28
+    strlen.o                    54
+    vector_table_M.o            64
+    vectortrap_M.o               2
+    ------------------------------------------------
+    Total:                     274
+
+shb_l.a: [4]
+    exit.o                      20
+    ------------------------------------------------
+    Total:                      20
+
+    Gaps                         6
+    Linker created                             2'048
+----------------------------------------------------
+    Grand Total:               764       16    2'048
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address  Size  Type      Object
+-----                       -------  ----  ----      ------
+?main                    0x800'0299        Code  Gb  cmain.o [3]
+BusFault_Handler         0x800'025f        Code  Wk  vectortrap_M.o [3]
+CSTACK$$Base            0x2000'0000         --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'0800         --   Gb  - Linker created -
+DebugMon_Handler         0x800'025f        Code  Wk  vectortrap_M.o [3]
+GPIO_Config              0x800'0041  0x36  Code  Gb  main.o [1]
+HardFault_Handler        0x800'025f        Code  Wk  vectortrap_M.o [3]
+MemManage_Handler        0x800'025f        Code  Wk  vectortrap_M.o [3]
+NMI_Handler              0x800'025f        Code  Wk  vectortrap_M.o [3]
+PendSV_Handler           0x800'025f        Code  Wk  vectortrap_M.o [3]
+Region$$Table$$Base             0x0         --   Gb  - Linker created -
+Region$$Table$$Limit            0x0         --   Gb  - Linker created -
+SPI2_Byte                0x800'015f  0x2e  Code  Gb  main.o [1]
+SPI2_Config              0x800'0077  0x9e  Code  Gb  main.o [1]
+SPI2_SendString          0x800'0125  0x3a  Code  Gb  main.o [1]
+SVC_Handler              0x800'025f        Code  Wk  vectortrap_M.o [3]
+SysTick_Handler          0x800'025f        Code  Wk  vectortrap_M.o [3]
+UsageFault_Handler       0x800'025f        Code  Wk  vectortrap_M.o [3]
+__cmain                  0x800'0299        Code  Gb  cmain.o [3]
+__exit                   0x800'02cd  0x14  Code  Gb  exit.o [4]
+__iar_program_start      0x800'02e1        Code  Gb  cstartup_M.o [3]
+__iar_unaligned_memcpy4
+                         0x800'0209        Code  Gb  ABImemcpy_unaligned.o [3]
+__iar_unaligned_memcpy8
+                         0x800'0209        Code  Gb  ABImemcpy_unaligned.o [3]
+__low_level_init         0x800'02b7   0x4  Code  Gb  low_level_init.o [2]
+__vector_table           0x800'0000        Data  Gb  vector_table_M.o [3]
+_call_main               0x800'02a5        Code  Gb  cmain.o [3]
+_exit                    0x800'02c1        Code  Gb  cexit.o [3]
+delay                    0x800'0115  0x10  Code  Gb  main.o [1]
+exit                     0x800'02bb   0x4  Code  Gb  exit.o [2]
+main                     0x800'018d  0x4e  Code  Gb  main.o [1]
+strlen                   0x800'0261        Code  Gb  strlen.o [3]
+
+
+[1] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\done\SPI2_SendSting_SendByte_GPIO_GPIOCLed\Debug\Obj
+[2] = dl7M_tln.a
+[3] = rt7M_tl.a
+[4] = shb_l.a
+
+    764 bytes of readonly  code memory
+     16 bytes of readonly  data memory
+  2'048 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

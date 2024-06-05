@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# IAR ELF Linker V9.32.1.338/W64 for ARM                  21/May/2024  10:19:30
+# IAR ELF Linker V9.32.1.338/W64 for ARM                  21/May/2024  12:11:08
 # Copyright 2007-2022 IAR Systems AB.
 #
 #    Output file  =
@@ -73,19 +73,19 @@ No sections matched the following patterns:
   .intvec   ro code   0x800'0000   0x40  vector_table_M.o [3]
                     - 0x800'0040   0x40
 
-"P1":                             0x278
-  .text     ro code   0x800'0040  0x174  main.o [1]
-  .text     ro code   0x800'01b4   0x56  ABImemcpy_unaligned.o [3]
-  .text     ro code   0x800'020a    0x2  vectortrap_M.o [3]
-  .text     ro code   0x800'020c   0x36  strlen.o [3]
-  .text     ro code   0x800'0244   0x1e  cmain.o [3]
-  .text     ro code   0x800'0262    0x4  low_level_init.o [2]
-  .text     ro code   0x800'0266    0x4  exit.o [2]
-  .text     ro code   0x800'026c    0xa  cexit.o [3]
-  .text     ro code   0x800'0278   0x14  exit.o [4]
-  .text     ro code   0x800'028c   0x1c  cstartup_M.o [3]
-  .rodata   const     0x800'02a8   0x10  main.o [1]
-                    - 0x800'02b8  0x278
+"P1":                             0x21c
+  .text     ro code   0x800'0040  0x118  main.o [1]
+  .text     ro code   0x800'0158   0x56  ABImemcpy_unaligned.o [3]
+  .text     ro code   0x800'01ae    0x2  vectortrap_M.o [3]
+  .text     ro code   0x800'01b0   0x36  strlen.o [3]
+  .text     ro code   0x800'01e8   0x1e  cmain.o [3]
+  .text     ro code   0x800'0206    0x4  low_level_init.o [2]
+  .text     ro code   0x800'020a    0x4  exit.o [2]
+  .text     ro code   0x800'0210    0xa  cexit.o [3]
+  .text     ro code   0x800'021c   0x14  exit.o [4]
+  .text     ro code   0x800'0230   0x1c  cstartup_M.o [3]
+  .rodata   const     0x800'024c   0x10  main.o [1]
+                    - 0x800'025c  0x21c
 
 "P2":                             0x800
   CSTACK             0x2000'0000  0x800  <Block>
@@ -96,7 +96,7 @@ Unused ranges:
 
          From           To    Size
          ----           --    ----
-   0x800'02b8   0x800'ffff  0xfd48
+   0x800'025c   0x800'ffff  0xfda4
   0x2000'0800  0x2000'4fff  0x4800
 
 
@@ -112,9 +112,9 @@ command line/config:
     Total:
 
 C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\testing\onlySPI\Debug\Obj: [1]
-    main.o                     372       16
+    main.o                     280       16
     ------------------------------------------------
-    Total:                     372       16
+    Total:                     280       16
 
 dl7M_tln.a: [2]
     exit.o                       4
@@ -141,7 +141,7 @@ shb_l.a: [4]
     Gaps                         6
     Linker created                             2'048
 ----------------------------------------------------
-    Grand Total:               680       16    2'048
+    Grand Total:               588       16    2'048
 
 
 *******************************************************************************
@@ -150,41 +150,36 @@ shb_l.a: [4]
 
 Entry                       Address  Size  Type      Object
 -----                       -------  ----  ----      ------
-?main                    0x800'0245        Code  Gb  cmain.o [3]
-BusFault_Handler         0x800'020b        Code  Wk  vectortrap_M.o [3]
+?main                    0x800'01e9        Code  Gb  cmain.o [3]
+BusFault_Handler         0x800'01af        Code  Wk  vectortrap_M.o [3]
 CSTACK$$Base            0x2000'0000         --   Gb  - Linker created -
 CSTACK$$Limit           0x2000'0800         --   Gb  - Linker created -
-DebugMon_Handler         0x800'020b        Code  Wk  vectortrap_M.o [3]
-HardFault_Handler        0x800'020b        Code  Wk  vectortrap_M.o [3]
-MemManage_Handler        0x800'020b        Code  Wk  vectortrap_M.o [3]
-NMI_Handler              0x800'020b        Code  Wk  vectortrap_M.o [3]
-PendSV_Handler           0x800'020b        Code  Wk  vectortrap_M.o [3]
+DebugMon_Handler         0x800'01af        Code  Wk  vectortrap_M.o [3]
+HardFault_Handler        0x800'01af        Code  Wk  vectortrap_M.o [3]
+MemManage_Handler        0x800'01af        Code  Wk  vectortrap_M.o [3]
+NMI_Handler              0x800'01af        Code  Wk  vectortrap_M.o [3]
+PendSV_Handler           0x800'01af        Code  Wk  vectortrap_M.o [3]
 Region$$Table$$Base             0x0         --   Gb  - Linker created -
 Region$$Table$$Limit            0x0         --   Gb  - Linker created -
-SPI1_DisableSS           0x800'00f5   0xc  Code  Gb  main.o [1]
-SPI1_EnableSS            0x800'00e9   0xc  Code  Gb  main.o [1]
-SPI1_Init                0x800'0055  0x94  Code  Gb  main.o [1]
-SPI1_SendByte            0x800'0101  0x20  Code  Gb  main.o [1]
-SPI1_SendData            0x800'0167  0x16  Code  Gb  main.o [1]
-SPI1_SendString          0x800'019d  0x18  Code  Gb  main.o [1]
-SVC_Handler              0x800'020b        Code  Wk  vectortrap_M.o [3]
-SysTick_Handler          0x800'020b        Code  Wk  vectortrap_M.o [3]
-UsageFault_Handler       0x800'020b        Code  Wk  vectortrap_M.o [3]
-__cmain                  0x800'0245        Code  Gb  cmain.o [3]
-__exit                   0x800'0279  0x14  Code  Gb  exit.o [4]
-__iar_program_start      0x800'028d        Code  Gb  cstartup_M.o [3]
+SPI1_Init                0x800'0041  0x88  Code  Gb  main.o [1]
+SPI_SendData             0x800'0117  0x24  Code  Gb  main.o [1]
+SVC_Handler              0x800'01af        Code  Wk  vectortrap_M.o [3]
+SysTick_Handler          0x800'01af        Code  Wk  vectortrap_M.o [3]
+UsageFault_Handler       0x800'01af        Code  Wk  vectortrap_M.o [3]
+__cmain                  0x800'01e9        Code  Gb  cmain.o [3]
+__exit                   0x800'021d  0x14  Code  Gb  exit.o [4]
+__iar_program_start      0x800'0231        Code  Gb  cstartup_M.o [3]
 __iar_unaligned_memcpy4
-                         0x800'01b5        Code  Gb  ABImemcpy_unaligned.o [3]
+                         0x800'0159        Code  Gb  ABImemcpy_unaligned.o [3]
 __iar_unaligned_memcpy8
-                         0x800'01b5        Code  Gb  ABImemcpy_unaligned.o [3]
-__low_level_init         0x800'0263   0x4  Code  Gb  low_level_init.o [2]
+                         0x800'0159        Code  Gb  ABImemcpy_unaligned.o [3]
+__low_level_init         0x800'0207   0x4  Code  Gb  low_level_init.o [2]
 __vector_table           0x800'0000        Data  Gb  vector_table_M.o [3]
-_call_main               0x800'0251        Code  Gb  cmain.o [3]
-_exit                    0x800'026d        Code  Gb  cexit.o [3]
-delay                    0x800'0041  0x14  Code  Gb  main.o [1]
-exit                     0x800'0267   0x4  Code  Gb  exit.o [2]
-main                     0x800'0121  0x46  Code  Gb  main.o [1]
-strlen                   0x800'020d        Code  Gb  strlen.o [3]
+_call_main               0x800'01f5        Code  Gb  cmain.o [3]
+_exit                    0x800'0211        Code  Gb  cexit.o [3]
+exit                     0x800'020b   0x4  Code  Gb  exit.o [2]
+main                     0x800'00c9  0x4e  Code  Gb  main.o [1]
+strlen                   0x800'01b1        Code  Gb  strlen.o [3]
 
 
 [1] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\testing\onlySPI\Debug\Obj
@@ -192,7 +187,7 @@ strlen                   0x800'020d        Code  Gb  strlen.o [3]
 [3] = rt7M_tl.a
 [4] = shb_l.a
 
-    680 bytes of readonly  code memory
+    588 bytes of readonly  code memory
      16 bytes of readonly  data memory
   2'048 bytes of readwrite data memory
 
