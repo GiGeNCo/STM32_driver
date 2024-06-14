@@ -74,11 +74,29 @@ int main()
     
     while(1)
     {
-        GPIO_Write(spipin.pGPIOx,12,LOW);
-        //SPI2_Byte(spi2.pSPIx,'c');
+        //first Send data size to slave
+        GPIO_Write(spipin.pGPIOx,datalen,LOW);
+        SPI2_Byte(spi2.pSPIx,datalen);
+        delay(5);
+        GPIO_Write(spipin.pGPIOx,datalen,HIGH);
+       
+        /****************** send data bite by bite *************
+        for(int i = 0; i < datalen; i++)
+        {
+            GPIO_Write(spipin.pGPIOx,12,LOW);
+            SPI2_Byte(spi2.pSPIx,userData[i]);
+            delay(5);
+            GPIO_Write(spipin.pGPIOx,12,HIGH);
+            
+        }
+
+        ********************************************************/
+        
+        GPIO_Write(spipin.pGPIOx,datalen,LOW);
         SPI_SendData(spi2.pSPIx, (uint8_t *) userData, datalen);
         delay(5);
-        GPIO_Write(spipin.pGPIOx,12,HIGH);
+        GPIO_Write(spipin.pGPIOx,datalen,HIGH);
+        
         //GPIO_Write(pin.pGPIOx,14,HIGH);
         //delay(1000000);
         //GPIO_Write(pin.pGPIOx,14,LOW);
@@ -92,6 +110,7 @@ int main()
             GPIO_Write(pin.pGPIOx,14,LOW);
         }
         
+        delay(1000000);
         
     }
 }
