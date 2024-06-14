@@ -7,9 +7,9 @@
 //in main code when we'll decide to configure SPI whe have to write our configuration using this structure
 typedef struct 
 {
-    uint8_t SPI_DevMode;
+    uint8_t SPI_Mode;
     uint8_t SPI_BusConf;
-    uint8_t SPI_SclkSpeed;
+    uint8_t SPI_Speed;          //sckl SPI_SCLK_SPEED
     uint8_t SPI_DFF;            //data fame fragment 8 or 16 bit 
     uint8_t SPI_CPOL;
     uint8_t SPI_CHPA;
@@ -41,14 +41,14 @@ typedef struct
 
 //clock speed, SPI BR (baud rate) register 
 
-#define SPI_SCLK_SPEED_DIV2             0
-#define SPI_SCLK_SPEED_DIV4             1
-#define SPI_SCLK_SPEED_DIV8             2
-#define SPI_SCLK_SPEED_DIV16            2
-#define SPI_SCLK_SPEED_DIV32            4
-#define SPI_SCLK_SPEED_DIV64            5
-#define SPI_SCLK_SPEED_DIV128           6
-#define SPI_SCLK_SPEED_DIV256           7
+#define SPI_SPEED_DIV2             0
+#define SPI_SPEED_DIV4             1
+#define SPI_SPEED_DIV8             2
+#define SPI_SPEED_DIV16            2
+#define SPI_SPEED_DIV32            4
+#define SPI_SPEED_DIV64            5
+#define SPI_SPEED_DIV128           6
+#define SPI_SPEED_DIV256           7
 
 // dff data frame fragments
 

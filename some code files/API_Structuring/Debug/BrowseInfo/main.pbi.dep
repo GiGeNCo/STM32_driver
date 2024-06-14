@@ -8,4 +8,8 @@ C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded\ C\ Arm\Embedded\ Cod
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Config_Normal.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product.h \
   C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded\ C\ Arm\Embedded\ Coding\STM32_driver\some\ code\ files\API_Structuring\driver\inc\GPIO_STM32F103C8xx.h \
-  C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded\ C\ Arm\Embedded\ Coding\STM32_driver\some\ code\ files\API_Structuring\driver\inc\stm32f103c8xx.h
+  C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded\ C\ Arm\Embedded\ Coding\STM32_driver\some\ code\ files\API_Structuring\driver\inc\stm32f103c8xx.h \
+  C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded\ C\ Arm\Embedded\ Coding\STM32_driver\some\ code\ files\API_Structuring\driver\inc\SPI_STM32F103C8xx.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\string.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ysizet.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product_string.h

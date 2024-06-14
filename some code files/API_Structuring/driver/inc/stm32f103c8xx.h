@@ -115,6 +115,21 @@ typedef struct
   
 }AFIO_Registers;
 
+typedef struct
+{
+
+    __vo uint32_t SPI_CR1;
+    __vo uint32_t SPI_CR2;
+    __vo uint32_t SPI_SR;
+    __vo uint32_t SPI_DR;
+    __vo uint32_t SPI_CRCPR;
+    __vo uint32_t SPI_RXCRCR;
+    __vo uint32_t SPI_TXCRCR;
+    __vo uint32_t SPI_I2SCFGR;
+    __vo uint32_t SPI_I2SPR;
+
+}SPI_Registers;
+
 
 //Create macros to access address of pheriperal with their structure pointer
 //every pharipheral has their own address so we have structures with their registers
@@ -146,6 +161,11 @@ typedef struct
 #define RCC_EN_PG       (RCC->APB2ENR |= (1 << 8))
 
 
+#define SPI1                   ((SPI_Registers*)SPI1_BASE)
+#define SPI2                   ((SPI_Registers*)SPI2_BASE)
+#define SPI3                   ((SPI_Registers*)SPI3_BASE)
+
+
 //usable macros
 #define HIGH            1
 #define LOW             0
@@ -154,4 +174,6 @@ typedef struct
 
 
 #include "GPIO_STM32F103C8xx.h"
+#include "SPI_STM32F103C8xx.h"
+
 #endif

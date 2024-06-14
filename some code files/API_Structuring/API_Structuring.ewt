@@ -2853,6 +2853,9 @@
                 <name>$PROJ_DIR$\driver\inc\GPIO_STM32F103C8xx.h</name>
             </file>
             <file>
+                <name>$PROJ_DIR$\driver\inc\SPI_STM32F103C8xx.h</name>
+            </file>
+            <file>
                 <name>$PROJ_DIR$\driver\inc\stm32f103c8xx.h</name>
             </file>
         </group>
@@ -2860,6 +2863,9 @@
             <name>src</name>
             <file>
                 <name>$PROJ_DIR$\driver\src\GPIO_STM32F103C8xx.c</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\driver\src\SPI_STM32F103C8xx.c</name>
             </file>
         </group>
     </group>
