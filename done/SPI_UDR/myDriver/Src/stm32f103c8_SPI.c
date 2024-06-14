@@ -102,8 +102,8 @@ void SPI_Init(SPI_Handle_t *pSPIHandle)
     //configure the DFF
     tempreg |= pSPIHandle->SPIConf.SPI_DFF << 11;
     
-    //configure the cpol
     tempreg |= pSPIHandle->SPIConf.SPI_CPOL << 1;
+    //configure the cpol
     
     //configure the chpa
     tempreg |= pSPIHandle->SPIConf.SPI_CHPA << 0;

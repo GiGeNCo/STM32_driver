@@ -61,7 +61,7 @@ void SPI1_Inits()
     SPI1Handle.SPIConf.SPI_CPOL = SPI_CPOL_LOW;//0
     
     SPI1Handle.SPIConf.SPI_SSM = 1; //software slave management
-    SPI1Handle.SPIConf.SPI_SSI = 1;
+    SPI1Handle.SPIConf.SPI_SSI = 1;	
     
     SPI_Init(&SPI1Handle);
 
