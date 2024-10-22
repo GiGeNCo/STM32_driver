@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspace>
     <project>
+        <path>$WS_DIR$\..\..\..\some code files\stm32f411ceu6\API_Driver.ewp</path>
+    </project>
+    <project>
         <path>$WS_DIR$\..\..\..\some code files\API_Structuring\API_Structuring.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\..\some code files\STM32F411CEU\builtin_btn_led.ewp</path>
     </project>
     <project>
         <path>$WS_DIR$\..\..\..\some code files\testing\GPIO_Interrupt\GPIO_Interrupt.ewp</path>
