@@ -1,0 +1,12 @@
+# ninja log v5
+1	393	7406187130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/main.xcl	83bf4b1d795c7251
+394	489	7406187135296392	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/main.pbi	5377b43acfbd21ff
+491	554	7406187135963614	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/builtin_btn_led.pbd	2b492142ed69968e
+557	1186	7406187141963432	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/builtin_btn_led.pbw	fe1d565395f31bc7
+0	114	7406187497812387	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/main.pbi	5377b43acfbd21ff
+117	140	7406187498092444	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/builtin_btn_led.pbd	2b492142ed69968e
+143	594	7406187501853471	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/builtin_btn_led.pbw	fe1d565395f31bc7
+1	155	7406187850000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/main.xcl	15e418c33764c44f
+156	220	7406187860180257	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/main.pbi	5377b43acfbd21ff
+223	243	7406187860410323	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/builtin_btn_led.pbd	2b492142ed69968e
+246	641	7406187864075673	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/STM32F411CEU/Debug/BrowseInfo/builtin_btn_led.pbw	fe1d565395f31bc7

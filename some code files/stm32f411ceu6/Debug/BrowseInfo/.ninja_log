@@ -1,0 +1,9 @@
+# ninja log v5
+11	140	7406951390000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/stm32f411ceu6/Debug/BrowseInfo/main.xcl	f2802b77154c7c1e
+2	171	7406951390000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/stm32f411ceu6/Debug/BrowseInfo/stm32f411eux_driver/src/gpio_stm32f411ceux.xcl	cc46e9cfd9ba054d
+2	182	7513159435202640	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/stm32f411ceu6/Debug/BrowseInfo/stm32f411eux_driver/src/i2c_stm32f411ceux.pbi	a67421e038632192
+1	204	7513029700000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/stm32f411ceu6/Debug/BrowseInfo/stm32f411eux_driver/src/i2c_stm32f411ceux.xcl	a5638827e1a6d8a9
+184	209	7513159435492779	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/stm32f411ceu6/Debug/BrowseInfo/API_Driver.pbd	a973a0ee20ad3c31
+1	104	7513154117588200	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/stm32f411ceu6/Debug/BrowseInfo/stm32f411eux_driver/src/gpio_stm32f411ceux.pbi	81ff3f771d360ce3
+9	101	7513154117578221	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/stm32f411ceu6/Debug/BrowseInfo/main.pbi	8edfb86b31925178
+211	722	7513159439890882	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/stm32f411ceu6/Debug/BrowseInfo/API_Driver.pbw	f2631ea7f696f29a
