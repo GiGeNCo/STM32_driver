@@ -420,20 +420,6 @@
     "scope": null
   },
   {
-    "ID": "c:stdint.h@T@__data_uintptr_t",
-    "What": "Typedef",
-    "defdec": "Def",
-    "display": "unsigned int",
-    "location": {
-      "column": "1",
-      "line": "89",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\stdint.h"
-    },
-    "name": "__data_uintptr_t",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
     "ID": "c:stdint.h@T@__data_intptr_t",
     "What": "Typedef",
     "defdec": "Def",
@@ -444,6 +430,20 @@
       "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\stdint.h"
     },
     "name": "__data_intptr_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@__data_uintptr_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "1",
+      "line": "89",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "__data_uintptr_t",
     "origin": "system_include",
     "scope": null
   },
@@ -5841,13 +5841,27 @@
     "scope": null
   },
   {
-    "ID": "c:gpio_stm32f411ceux.h@40@macro@OUTPUT",
+    "ID": "c:gpio_stm32f411ceux.h@43@macro@INC_GPIO_STM32F411CEUX_H_",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INC_GPIO_STM32F411CEUX_H_",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
+    },
+    "name": "INC_GPIO_STM32F411CEUX_H_",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:gpio_stm32f411ceux.h@112@macro@OUTPUT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "OUTPUT",
     "location": {
       "column": "9",
-      "line": "4",
+      "line": "7",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "OUTPUT",
@@ -5855,13 +5869,13 @@
     "scope": null
   },
   {
-    "ID": "c:gpio_stm32f411ceux.h@67@macro@INPUT",
+    "ID": "c:gpio_stm32f411ceux.h@139@macro@INPUT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "INPUT",
     "location": {
       "column": "9",
-      "line": "5",
+      "line": "8",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "INPUT",
@@ -5869,13 +5883,13 @@
     "scope": null
   },
   {
-    "ID": "c:gpio_stm32f411ceux.h@96@macro@LOWSPEED",
+    "ID": "c:gpio_stm32f411ceux.h@168@macro@LOWSPEED",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "LOWSPEED",
     "location": {
       "column": "9",
-      "line": "7",
+      "line": "10",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "LOWSPEED",
@@ -5883,13 +5897,13 @@
     "scope": null
   },
   {
-    "ID": "c:gpio_stm32f411ceux.h@123@macro@MEDSPEED",
+    "ID": "c:gpio_stm32f411ceux.h@195@macro@MEDSPEED",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "MEDSPEED",
     "location": {
       "column": "9",
-      "line": "8",
+      "line": "11",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "MEDSPEED",
@@ -5897,13 +5911,13 @@
     "scope": null
   },
   {
-    "ID": "c:gpio_stm32f411ceux.h@150@macro@FASTSPEED",
+    "ID": "c:gpio_stm32f411ceux.h@222@macro@FASTSPEED",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "FASTSPEED",
     "location": {
       "column": "9",
-      "line": "9",
+      "line": "12",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "FASTSPEED",
@@ -5911,13 +5925,13 @@
     "scope": null
   },
   {
-    "ID": "c:gpio_stm32f411ceux.h@177@macro@HIGHSPEED",
+    "ID": "c:gpio_stm32f411ceux.h@249@macro@HIGHSPEED",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "HIGHSPEED",
     "location": {
       "column": "9",
-      "line": "10",
+      "line": "13",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "HIGHSPEED",
@@ -5925,13 +5939,13 @@
     "scope": null
   },
   {
-    "ID": "c:gpio_stm32f411ceux.h@206@macro@PUSH_PULL",
+    "ID": "c:gpio_stm32f411ceux.h@278@macro@PUSH_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "PUSH_PULL",
     "location": {
       "column": "9",
-      "line": "12",
+      "line": "15",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "PUSH_PULL",
@@ -5939,13 +5953,13 @@
     "scope": null
   },
   {
-    "ID": "c:gpio_stm32f411ceux.h@233@macro@OPEN_DRAIN",
+    "ID": "c:gpio_stm32f411ceux.h@305@macro@OPEN_DRAIN",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "OPEN_DRAIN",
     "location": {
       "column": "9",
-      "line": "13",
+      "line": "16",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "OPEN_DRAIN",
@@ -5959,7 +5973,7 @@
     "display": "",
     "location": {
       "column": "9",
-      "line": "17",
+      "line": "21",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "members": [
@@ -5970,12 +5984,12 @@
         "display": "PinNumber",
         "location": {
           "column": "13",
-          "line": "19",
+          "line": "23",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
         },
         "name": "PinNumber",
         "origin": "user_include",
-        "scope": "_anonymous_gpio_stm32f411ceux_h_17_9"
+        "scope": "_anonymous_gpio_stm32f411ceux_h_21_9"
       },
       {
         "ID": "c:@SA@GPIO_Configuration@FI@Port",
@@ -5984,12 +5998,12 @@
         "display": "Port",
         "location": {
           "column": "13",
-          "line": "20",
+          "line": "24",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
         },
         "name": "Port",
         "origin": "user_include",
-        "scope": "_anonymous_gpio_stm32f411ceux_h_17_9"
+        "scope": "_anonymous_gpio_stm32f411ceux_h_21_9"
       },
       {
         "ID": "c:@SA@GPIO_Configuration@FI@IOMode",
@@ -5998,12 +6012,12 @@
         "display": "IOMode",
         "location": {
           "column": "13",
-          "line": "21",
+          "line": "25",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
         },
         "name": "IOMode",
         "origin": "user_include",
-        "scope": "_anonymous_gpio_stm32f411ceux_h_17_9"
+        "scope": "_anonymous_gpio_stm32f411ceux_h_21_9"
       },
       {
         "ID": "c:@SA@GPIO_Configuration@FI@Speed",
@@ -6012,12 +6026,12 @@
         "display": "Speed",
         "location": {
           "column": "13",
-          "line": "22",
+          "line": "26",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
         },
         "name": "Speed",
         "origin": "user_include",
-        "scope": "_anonymous_gpio_stm32f411ceux_h_17_9"
+        "scope": "_anonymous_gpio_stm32f411ceux_h_21_9"
       },
       {
         "ID": "c:@SA@GPIO_Configuration@FI@Type",
@@ -6026,12 +6040,12 @@
         "display": "Type",
         "location": {
           "column": "13",
-          "line": "23",
+          "line": "27",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
         },
         "name": "Type",
         "origin": "user_include",
-        "scope": "_anonymous_gpio_stm32f411ceux_h_17_9"
+        "scope": "_anonymous_gpio_stm32f411ceux_h_21_9"
       },
       {
         "ID": "c:@T@GPIO_Configuration",
@@ -6040,12 +6054,12 @@
         "display": "struct GPIO_Configuration",
         "location": {
           "column": "2",
-          "line": "25",
+          "line": "29",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
         },
         "name": "GPIO_Configuration",
         "origin": "user_include",
-        "scope": "_anonymous_gpio_stm32f411ceux_h_17_9"
+        "scope": "_anonymous_gpio_stm32f411ceux_h_21_9"
       }
     ],
     "name": "",
@@ -6059,7 +6073,7 @@
     "display": "",
     "location": {
       "column": "9",
-      "line": "27",
+      "line": "34",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "members": [
@@ -6070,12 +6084,12 @@
         "display": "GPIO_Conf",
         "location": {
           "column": "24",
-          "line": "29",
+          "line": "36",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
         },
         "name": "GPIO_Conf",
         "origin": "user_include",
-        "scope": "_anonymous_gpio_stm32f411ceux_h_27_9"
+        "scope": "_anonymous_gpio_stm32f411ceux_h_34_9"
       },
       {
         "ID": "c:@SA@GPIO_Handle@FI@pGPIOx",
@@ -6084,12 +6098,12 @@
         "display": "pGPIOx",
         "location": {
           "column": "15",
-          "line": "30",
+          "line": "37",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
         },
         "name": "pGPIOx",
         "origin": "user_include",
-        "scope": "_anonymous_gpio_stm32f411ceux_h_27_9"
+        "scope": "_anonymous_gpio_stm32f411ceux_h_34_9"
       },
       {
         "ID": "c:@T@GPIO_Handle",
@@ -6098,12 +6112,12 @@
         "display": "struct GPIO_Handle",
         "location": {
           "column": "2",
-          "line": "32",
+          "line": "39",
           "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
         },
         "name": "GPIO_Handle",
         "origin": "user_include",
-        "scope": "_anonymous_gpio_stm32f411ceux_h_27_9"
+        "scope": "_anonymous_gpio_stm32f411ceux_h_34_9"
       }
     ],
     "name": "",
@@ -6117,7 +6131,7 @@
     "display": "void GPIO_Init(GPIO_Handle *)",
     "location": {
       "column": "6",
-      "line": "36",
+      "line": "43",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "GPIO_Init",
@@ -6131,7 +6145,7 @@
     "display": "void GPIO_Init(GPIO_Handle *)",
     "location": {
       "column": "6",
-      "line": "36",
+      "line": "43",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "GPIO_Init",
@@ -6145,7 +6159,7 @@
     "display": "void GPIO_Write(GPIO_Reg *, uint8_t, uint8_t)",
     "location": {
       "column": "6",
-      "line": "37",
+      "line": "44",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "GPIO_Write",
@@ -6159,7 +6173,7 @@
     "display": "void GPIO_Write(GPIO_Reg *, uint8_t, uint8_t)",
     "location": {
       "column": "6",
-      "line": "37",
+      "line": "44",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\inc\\gpio_stm32f411ceux.h"
     },
     "name": "GPIO_Write",
@@ -6173,7 +6187,7 @@
     "display": "void RCC_EN_GPIO(GPIO_Reg *)",
     "location": {
       "column": "6",
-      "line": "5",
+      "line": "20",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\gpio_stm32f411ceux.c"
     },
     "name": "RCC_EN_GPIO",
@@ -6187,7 +6201,7 @@
     "display": "void GPIO_Init(GPIO_Handle *)",
     "location": {
       "column": "6",
-      "line": "36",
+      "line": "65",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\gpio_stm32f411ceux.c"
     },
     "name": "GPIO_Init",
@@ -6201,25 +6215,11 @@
     "display": "void GPIO_Write(GPIO_Reg *, uint8_t, uint8_t)",
     "location": {
       "column": "6",
-      "line": "49",
+      "line": "78",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\gpio_stm32f411ceux.c"
     },
     "name": "GPIO_Write",
     "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:ycheck.h@1402@macro@__AEABI_PORTABILITY_INTERNAL_LEVEL",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__AEABI_PORTABILITY_INTERNAL_LEVEL",
-    "location": {
-      "column": "11",
-      "line": "42",
-      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\ycheck.h"
-    },
-    "name": "__AEABI_PORTABILITY_INTERNAL_LEVEL",
-    "origin": "system_include",
     "scope": null
   },
   {
@@ -6237,16 +6237,170 @@
     "scope": null
   },
   {
+    "ID": "c:ycheck.h@1402@macro@__AEABI_PORTABILITY_INTERNAL_LEVEL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__AEABI_PORTABILITY_INTERNAL_LEVEL",
+    "location": {
+      "column": "11",
+      "line": "42",
+      "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\ycheck.h"
+    },
+    "name": "__AEABI_PORTABILITY_INTERNAL_LEVEL",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@AHB_Prescaler",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "AHB_Prescaler",
+    "location": {
+      "column": "10",
+      "line": "5",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "AHB_Prescaler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@APB1_Prescaler",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "APB1_Prescaler",
+    "location": {
+      "column": "10",
+      "line": "6",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "APB1_Prescaler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
     "ID": "c:@F@I2C_PeriClockControl",
     "What": "Function",
     "defdec": "Def",
     "display": "void I2C_PeriClockControl(I2C_Reg_t *, uint8_t)",
     "location": {
       "column": "6",
-      "line": "18",
+      "line": "23",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
     },
     "name": "I2C_PeriClockControl",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@RCC_GetPLLOutputClock",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "uint32_t RCC_GetPLLOutputClock(void)",
+    "location": {
+      "column": "10",
+      "line": "68",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "RCC_GetPLLOutputClock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@RCC_GetPCLK1Value",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "uint32_t RCC_GetPCLK1Value(void)",
+    "location": {
+      "column": "10",
+      "line": "74",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "RCC_GetPCLK1Value",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:i2c_stm32f411ceux.c@1666@F@RCC_GetPCLK1Value@pclk1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "pclk1",
+    "location": {
+      "column": "14",
+      "line": "76",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "pclk1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:i2c_stm32f411ceux.c@1666@F@RCC_GetPCLK1Value@systemclock",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "systemclock",
+    "location": {
+      "column": "21",
+      "line": "76",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "systemclock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:i2c_stm32f411ceux.c@1706@F@RCC_GetPCLK1Value@clkSrc",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "clkSrc",
+    "location": {
+      "column": "13",
+      "line": "78",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "clkSrc",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:i2c_stm32f411ceux.c@1706@F@RCC_GetPCLK1Value@temp",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "temp",
+    "location": {
+      "column": "21",
+      "line": "78",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "temp",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:i2c_stm32f411ceux.c@1706@F@RCC_GetPCLK1Value@ahbp",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "ahbp",
+    "location": {
+      "column": "27",
+      "line": "78",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "ahbp",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:i2c_stm32f411ceux.c@1706@F@RCC_GetPCLK1Value@apb1p",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "apb1p",
+    "location": {
+      "column": "32",
+      "line": "78",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "apb1p",
     "origin": "project_file",
     "scope": null
   },
@@ -6257,10 +6411,38 @@
     "display": "void I2C_Init(I2C_Handle_t *)",
     "location": {
       "column": "6",
-      "line": "61",
+      "line": "134",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
     },
     "name": "I2C_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:i2c_stm32f411ceux.c@2884@F@I2C_Init@tempreg",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "tempreg",
+    "location": {
+      "column": "14",
+      "line": "136",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "tempreg",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:i2c_stm32f411ceux.c@3532@F@I2C_Init@ccr_value",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "ccr_value",
+    "location": {
+      "column": "14",
+      "line": "155",
+      "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
+    },
+    "name": "ccr_value",
     "origin": "project_file",
     "scope": null
   },
@@ -6271,7 +6453,7 @@
     "display": "void I2C_DeInit(I2C_Reg_t *)",
     "location": {
       "column": "6",
-      "line": "84",
+      "line": "202",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
     },
     "name": "I2C_DeInit",
@@ -6285,7 +6467,7 @@
     "display": "uint8_t I2C_GetFlagStatus(I2C_Reg_t *, uint32_t)",
     "location": {
       "column": "9",
-      "line": "104",
+      "line": "222",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
     },
     "name": "I2C_GetFlagStatus",
@@ -6299,7 +6481,7 @@
     "display": "void I2C_IRQInterruptConf(uint8_t, uint8_t)",
     "location": {
       "column": "6",
-      "line": "147",
+      "line": "265",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
     },
     "name": "I2C_IRQInterruptConf",
@@ -6313,7 +6495,7 @@
     "display": "void I2C_IRQPriorityConfig(uint8_t, uint8_t)",
     "location": {
       "column": "6",
-      "line": "169",
+      "line": "287",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
     },
     "name": "I2C_IRQPriorityConfig",
@@ -6327,7 +6509,7 @@
     "display": "void I2C_IRQHandling(I2C_Handle_t *)",
     "location": {
       "column": "6",
-      "line": "194",
+      "line": "312",
       "path": "C:\\Users\\Interrupt\\Dropbox\\WorkSpace\\Embedded\\stm\\Embedded C Arm\\Embedded Coding\\STM32_driver\\some code files\\stm32f411ceu6\\stm32f411ceux_driver\\src\\i2c_stm32f411ceux.c"
     },
     "name": "I2C_IRQHandling",

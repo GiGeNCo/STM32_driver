@@ -1,3 +1,6 @@
+#ifndef INC_GPIO_STM32F411CEUX_H_
+#define INC_GPIO_STM32F411CEUX_H_
+
 #include "stm32f411ceux.h"
 
 
@@ -14,6 +17,7 @@
 
 
 
+
 typedef struct
 {
     uint8_t PinNumber;
@@ -23,6 +27,9 @@ typedef struct
     uint8_t Type;
 
 }GPIO_Configuration;
+
+
+// this is handle structure of GPIO pin
 
 typedef struct 
 {
@@ -35,6 +42,9 @@ typedef struct
 
 void GPIO_Init(GPIO_Handle *pGPIO);
 void GPIO_Write(GPIO_Reg *pGPIO, uint8_t pinNumber, uint8_t value);
+
+
+#endif
 
 
 

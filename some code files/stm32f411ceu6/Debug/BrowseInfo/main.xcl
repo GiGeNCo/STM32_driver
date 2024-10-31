@@ -13,6 +13,8 @@ C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding
 -I
 C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\stm32f411ceu6\stm32f411ceux_driver\inc\
 -I
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\stm32f411ceu6\
+-I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c\aarch32
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc
@@ -20,6 +22,8 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c
 -I
 C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\stm32f411ceu6\stm32f411ceux_driver\inc
+-I
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\stm32f411ceu6
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
@@ -374,6 +378,7 @@ C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding
 -D__EDG_FLOAT80_ENABLING_POSSIBLE=0
 -D__EDG_FLOAT128_ENABLING_POSSIBLE=0
 -D__EDG_INT128_EXTENSIONS_ALLOWED=0
+-DSTM32F411xE=1
 -D_DLIB_CONFIG_FILE_HEADER_NAME="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c\DLib_Config_Normal.h"
 -D_DLIB_CONFIG_FILE_STRING="C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Config_Normal.h"
 -D__VERSION__="IAR ANSI C/C++ Compiler V9.32.1.338/W64 for ARM"

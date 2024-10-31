@@ -2,6 +2,21 @@
 
 
 
+
+/********************************************************
+  * @fn                 - RCC_EN_GPIO
+  *
+  * @brief              - this func activate exact rcc on gpiox
+  *
+  * @param [in]         - pgpiox
+  * @param [in]         - 
+  * @param [in]         - 
+  *
+  * @return             - none
+  *
+  * @note               - none
+********************************************************/
+
 void RCC_EN_GPIO(GPIO_Reg *pgpiox)
 {
     //enable clock for selected peripheral
@@ -32,6 +47,20 @@ void RCC_EN_GPIO(GPIO_Reg *pgpiox)
 
 
 }
+
+/********************************************************
+  * @fn                 - RCC_EN_GPIO
+  *
+  * @brief              - this func activate exact rcc on gpiox
+  *
+  * @param [in]         - pgpiox
+  * @param [in]         - 
+  * @param [in]         - 
+  *
+  * @return             - none
+  *
+  * @note               - none
+********************************************************/
 
 void GPIO_Init(GPIO_Handle *pGPIO)
 {
